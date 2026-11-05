@@ -1,0 +1,57 @@
+{
+  "genes": [
+    "ALB",
+    "INS",
+    "GCG",
+    "SST",
+    "TP53",
+    "BRCA1",
+    "BRCA2",
+    "EGFR",
+    "ERBB2",
+    "VEGFA",
+    "APOE",
+    "GFAP",
+    "MBP",
+    "CD3D",
+    "CD8A",
+    "MS4A1",
+    "ACTB",
+    "GAPDH",
+    "ACE2",
+    "SLC2A1"
+  ],
+  "sources": [
+    {
+      "id": "hpa",
+      "title": "HPA v25.1 hpa tissue RNA",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip",
+      "description": "Human Protein Atlas RNA sequencing in normal human tissues. Gene-level normalized RNA abundance in nTPM; independent HPA tissue collection.",
+      "archive_sha256": "735d0f5de5374946914e74949a760457f93b9ea4ca6200e0be55f22bb0473565",
+      "retrieved_at": "2026-11-05T23:43:18.657876+00:00",
+      "version": "25.1"
+    },
+    {
+      "id": "gtex",
+      "title": "HPA v25.1 gtex tissue RNA",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_gtex.tsv.zip",
+      "description": "GTEx normal human tissue RNA sequencing, distributed by the Human Protein Atlas. Gene-level normalized RNA abundance in nTPM from a separate donor collection.",
+      "archive_sha256": "8b946d52357a762a79c0395b37ed30d7c56dbba3beba0c4451e1e9d3b52659f7",
+      "retrieved_at": "2026-11-05T23:43:21.456363+00:00",
+      "version": "25.1"
+    },
+    {
+      "id": "consensus",
+      "title": "HPA v25.1 consensus tissue RNA",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip",
+      "description": "Human Protein Atlas consensus normal tissue RNA expression. Maximum normalized nTPM across HPA and GTEx, not an independent replication or an average.",
+      "archive_sha256": "b001903da23f802c8dfbd1b6b3a8c20b831fedd4932f4bb721b06622d83ae60b",
+      "retrieved_at": "2026-11-05T23:43:23.565891+00:00",
+      "version": "25.1"
+    }
+  ],
+  "extract_sha256": "f91d0f3d196dda4d1c58985aa0aff5e9e7dff7cc4e4f68516122cf40d1c9d24e",
+  "rows": 2540,
+  "licence": "https://www.proteinatlas.org/about/licence",
+  "method": "Exact Gene name filter, all tissue rows; retain nTPM unchanged; no donor-level data."
+}
