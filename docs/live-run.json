@@ -1,0 +1,208 @@
+{
+  "answer": "Evidence from normal human tissue RNA (nTPM, normalized transcripts per million):\nALB | liver | consensus: 198524 nTPM [row:126](https://www.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip)\nALB | liver | gtex: 60543.2 nTPM [row:1110](https://www.proteinatlas.org/download/tsv/rna_tissue_gtex.tsv.zip)\nALB | liver | hpa: 198524 nTPM [row:1838](https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip)\nALB | pancreas | consensus: 1480.5 nTPM [row:131](https://www.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip)\nALB | pancreas | gtex: 701.1 nTPM [row:1114](https://www.proteinatlas.org/download/tsv/rna_tissue_gtex.tsv.zip)\nALB | pancreas | hpa: 1480.5 nTPM [row:1842](https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip)\nDisagreement: ALB in liver, HPA 198524 vs GTEx 60543.2 nTPM (at least 2-fold and 1 nTPM apart).\nDisagreement: ALB in pancreas, HPA 1480.5 vs GTEx 701.1 nTPM (at least 2-fold and 1 nTPM apart).\nConsensus is the maximum of HPA and GTEx, not an independent replication. Differences are descriptive, not statistical significance or disease evidence.",
+  "rows": [
+    {
+      "id": 126,
+      "source": "consensus",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "liver",
+      "ntpm": 198523.8
+    },
+    {
+      "id": 1110,
+      "source": "gtex",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "liver",
+      "ntpm": 60543.2
+    },
+    {
+      "id": 1838,
+      "source": "hpa",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "liver",
+      "ntpm": 198523.8
+    },
+    {
+      "id": 131,
+      "source": "consensus",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "pancreas",
+      "ntpm": 1480.5
+    },
+    {
+      "id": 1114,
+      "source": "gtex",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "pancreas",
+      "ntpm": 701.1
+    },
+    {
+      "id": 1842,
+      "source": "hpa",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "pancreas",
+      "ntpm": 1480.5
+    }
+  ],
+  "citations": [
+    {
+      "id": "row:126",
+      "source": "consensus",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "liver"
+    },
+    {
+      "id": "row:1110",
+      "source": "gtex",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_gtex.tsv.zip",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "liver"
+    },
+    {
+      "id": "row:1838",
+      "source": "hpa",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "liver"
+    },
+    {
+      "id": "row:131",
+      "source": "consensus",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "pancreas"
+    },
+    {
+      "id": "row:1114",
+      "source": "gtex",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_gtex.tsv.zip",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "pancreas"
+    },
+    {
+      "id": "row:1842",
+      "source": "hpa",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip",
+      "ensembl": "ENSG00000163631",
+      "gene": "ALB",
+      "tissue": "pancreas"
+    }
+  ],
+  "flags": [
+    "Disagreement: ALB in liver, HPA 198524 vs GTEx 60543.2 nTPM (at least 2-fold and 1 nTPM apart).",
+    "Disagreement: ALB in pancreas, HPA 1480.5 vs GTEx 701.1 nTPM (at least 2-fold and 1 nTPM apart).",
+    "Consensus is the maximum of HPA and GTEx, not an independent replication. Differences are descriptive, not statistical significance or disease evidence."
+  ],
+  "layout": "by_tissue",
+  "question": "Compare ALB in liver and pancreas",
+  "route": "agents",
+  "model": "chat-ollama",
+  "usage": [
+    {
+      "stage": "retrieval",
+      "prompt_version": "1",
+      "prompt_sha256": "8dee94f1cd1b08eed58ea0d4fc9e0c502066629482b45c09074b80590cb9ff2e",
+      "prompt_chars": 333,
+      "input_tokens": 231,
+      "output_tokens": 23,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "retrieval",
+      "prompt_version": "1",
+      "prompt_sha256": "54e685bfee1857001a1459c47c45fd42c46ea2a94b137ad50b946aa966040262",
+      "prompt_chars": 477,
+      "input_tokens": 298,
+      "output_tokens": 67,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "retrieval",
+      "prompt_version": "1",
+      "prompt_sha256": "abd9dcaed61cdafba2bf56cbbffcfecbd65ad0d0e023ee9e2e1062a7b3aba4ed",
+      "prompt_chars": 4503,
+      "input_tokens": 1961,
+      "output_tokens": 127,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "code",
+      "prompt_version": "1",
+      "prompt_sha256": "7eb245b4b17b334224ce7a7eec91f1a7cf3d24aa21035c4206e2e0d97ae1ae07",
+      "prompt_chars": 5036,
+      "input_tokens": 2056,
+      "output_tokens": 51,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "code",
+      "prompt_version": "1",
+      "prompt_sha256": "cd4ad3351e5220f04454eaab698d3e2a0cec244f4e7e5115e968f06566bac5e6",
+      "prompt_chars": 5739,
+      "input_tokens": 2499,
+      "output_tokens": 50,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "code",
+      "prompt_version": "1",
+      "prompt_sha256": "37289829b2d42f71e91a2dcbd8a22d16f7e3f2a4e839e4b9c11aa05772d2c801",
+      "prompt_chars": 6442,
+      "input_tokens": 2942,
+      "output_tokens": 382,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "synthesis",
+      "prompt_version": "1",
+      "prompt_sha256": "74c79cc8980e82b6e276b857158ec98f97d9fefec94c0b0cc0a4b514f2821f37",
+      "prompt_chars": 1183,
+      "input_tokens": 679,
+      "output_tokens": 61,
+      "token_basis": "provider"
+    },
+    {
+      "stage": "synthesis",
+      "prompt_version": "1",
+      "prompt_sha256": "60cc840bc9bb3dde659a0f2ec0a7b6493878545779cceeb64023ee81dfb4ab23",
+      "prompt_chars": 4514,
+      "input_tokens": 2145,
+      "output_tokens": 400,
+      "token_basis": "provider"
+    }
+  ],
+  "total_tokens": 13972,
+  "sql": "SELECT id FROM expression WHERE gene='ALB' AND tissue IN ('liver','pancreas') ORDER BY tissue,source LIMIT 100",
+  "retrieved_documents": [
+    {
+      "text": "ALB expression. Human Protein Atlas RNA sequencing in normal human tissues. Gene-level normalized RNA abundance in nTPM; independent HPA tissue collection. Tissues: adipose tissue, adrenal gland, appendix, bone marrow, breast, cerebral cortex, cervix, choroid plexus, colon, duodenum, endometrium, epididymis, esophagus, fallopian tube, gallbladder, heart muscle, kidney, liver, lung, lymph node, ovary, pancreas, parathyroid gland, placenta, prostate, rectum, salivary gland, seminal vesicle, skeletal muscle, skin, small intestine, smooth muscle, spleen, stomach, testis, thymus, thyroid gland, tongue, tonsil, urinary bladder",
+      "gene": "ALB",
+      "source": "hpa",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip"
+    },
+    {
+      "text": "ALB expression. GTEx normal human tissue RNA sequencing, distributed by the Human Protein Atlas. Gene-level normalized RNA abundance in nTPM from a separate donor collection. Tissues: adipose tissue, adrenal gland, amygdala, basal ganglia, blood vessel, breast, cerebellum, cerebral cortex, cervix, colon, endometrium, esophagus, fallopian tube, heart muscle, hippocampal formation, hypothalamus, kidney, liver, lung, midbrain, ovary, pancreas, pituitary gland, prostate, retina, salivary gland, skeletal muscle, skin, small intestine, spinal cord, spleen, stomach, testis, thyroid gland, urinary bladder, vagina",
+      "gene": "ALB",
+      "source": "gtex",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_gtex.tsv.zip"
+    },
+    {
+      "text": "ALB expression. Human Protein Atlas consensus normal tissue RNA expression. Maximum normalized nTPM across HPA and GTEx, not an independent replication or an average. Tissues: adipose tissue, adrenal gland, amygdala, appendix, basal ganglia, blood vessel, bone marrow, breast, cerebellum, cerebral cortex, cervix, choroid plexus, colon, duodenum, endometrium, epididymis, esophagus, fallopian tube, gallbladder, heart muscle, hippocampal formation, hypothalamus, kidney, liver, lung, lymph node, midbrain, ovary, pancreas, parathyroid gland, pituitary gland, placenta, prostate, rectum, retina, salivary gland, seminal vesicle, skeletal muscle, skin, small intestine, smooth muscle, spinal cord, spleen, stomach, testis, thymus, thyroid gland, tongue, tonsil, urinary bladder, vagina",
+      "gene": "ALB",
+      "source": "consensus",
+      "url": "https://www.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip"
+    }
+  ]
+}

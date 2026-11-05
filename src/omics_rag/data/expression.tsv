@@ -1,0 +1,2541 @@
+source	ensembl	gene	tissue	ntpm
+consensus	ENSG00000130234	ACE2	adipose tissue	9.0
+consensus	ENSG00000130234	ACE2	adrenal gland	0.5
+consensus	ENSG00000130234	ACE2	amygdala	0.0
+consensus	ENSG00000130234	ACE2	appendix	1.3
+consensus	ENSG00000130234	ACE2	basal ganglia	0.0
+consensus	ENSG00000130234	ACE2	blood vessel	2.0
+consensus	ENSG00000130234	ACE2	bone marrow	0.6
+consensus	ENSG00000130234	ACE2	breast	4.5
+consensus	ENSG00000130234	ACE2	cerebellum	0.0
+consensus	ENSG00000130234	ACE2	cerebral cortex	0.1
+consensus	ENSG00000130234	ACE2	cervix	0.9
+consensus	ENSG00000130234	ACE2	choroid plexus	5.3
+consensus	ENSG00000130234	ACE2	colon	9.4
+consensus	ENSG00000130234	ACE2	duodenum	173.5
+consensus	ENSG00000130234	ACE2	endometrium	0.4
+consensus	ENSG00000130234	ACE2	epididymis	0.5
+consensus	ENSG00000130234	ACE2	esophagus	1.7
+consensus	ENSG00000130234	ACE2	fallopian tube	1.9
+consensus	ENSG00000130234	ACE2	gallbladder	62.3
+consensus	ENSG00000130234	ACE2	heart muscle	40.1
+consensus	ENSG00000130234	ACE2	hippocampal formation	0.0
+consensus	ENSG00000130234	ACE2	hypothalamus	0.0
+consensus	ENSG00000130234	ACE2	kidney	82.4
+consensus	ENSG00000130234	ACE2	liver	5.4
+consensus	ENSG00000130234	ACE2	lung	0.7
+consensus	ENSG00000130234	ACE2	lymph node	0.4
+consensus	ENSG00000130234	ACE2	midbrain	0.2
+consensus	ENSG00000130234	ACE2	ovary	1.5
+consensus	ENSG00000130234	ACE2	pancreas	2.4
+consensus	ENSG00000130234	ACE2	parathyroid gland	1.4
+consensus	ENSG00000130234	ACE2	pituitary gland	0.1
+consensus	ENSG00000130234	ACE2	placenta	1.1
+consensus	ENSG00000130234	ACE2	prostate	0.4
+consensus	ENSG00000130234	ACE2	rectum	5.6
+consensus	ENSG00000130234	ACE2	retina	0.3
+consensus	ENSG00000130234	ACE2	salivary gland	1.3
+consensus	ENSG00000130234	ACE2	seminal vesicle	3.9
+consensus	ENSG00000130234	ACE2	skeletal muscle	0.7
+consensus	ENSG00000130234	ACE2	skin	0.3
+consensus	ENSG00000130234	ACE2	small intestine	230.5
+consensus	ENSG00000130234	ACE2	smooth muscle	0.5
+consensus	ENSG00000130234	ACE2	spinal cord	0.0
+consensus	ENSG00000130234	ACE2	spleen	0.1
+consensus	ENSG00000130234	ACE2	stomach	2.5
+consensus	ENSG00000130234	ACE2	testis	46.7
+consensus	ENSG00000130234	ACE2	thymus	0.5
+consensus	ENSG00000130234	ACE2	thyroid gland	4.6
+consensus	ENSG00000130234	ACE2	tongue	0.4
+consensus	ENSG00000130234	ACE2	tonsil	0.2
+consensus	ENSG00000130234	ACE2	urinary bladder	0.8
+consensus	ENSG00000130234	ACE2	vagina	1.1
+consensus	ENSG00000075624	ACTB	adipose tissue	2768.0
+consensus	ENSG00000075624	ACTB	adrenal gland	1541.7
+consensus	ENSG00000075624	ACTB	amygdala	1927.9
+consensus	ENSG00000075624	ACTB	appendix	4010.6
+consensus	ENSG00000075624	ACTB	basal ganglia	1954.1
+consensus	ENSG00000075624	ACTB	blood vessel	8352.8
+consensus	ENSG00000075624	ACTB	bone marrow	3397.8
+consensus	ENSG00000075624	ACTB	breast	2256.7
+consensus	ENSG00000075624	ACTB	cerebellum	859.8
+consensus	ENSG00000075624	ACTB	cerebral cortex	1796.2
+consensus	ENSG00000075624	ACTB	cervix	2452.1
+consensus	ENSG00000075624	ACTB	choroid plexus	2644.1
+consensus	ENSG00000075624	ACTB	colon	7818.9
+consensus	ENSG00000075624	ACTB	duodenum	1560.3
+consensus	ENSG00000075624	ACTB	endometrium	5204.1
+consensus	ENSG00000075624	ACTB	epididymis	1538.8
+consensus	ENSG00000075624	ACTB	esophagus	3478.0
+consensus	ENSG00000075624	ACTB	fallopian tube	3411.1
+consensus	ENSG00000075624	ACTB	gallbladder	1660.9
+consensus	ENSG00000075624	ACTB	heart muscle	1326.2
+consensus	ENSG00000075624	ACTB	hippocampal formation	2283.4
+consensus	ENSG00000075624	ACTB	hypothalamus	1463.6
+consensus	ENSG00000075624	ACTB	kidney	1740.6
+consensus	ENSG00000075624	ACTB	liver	1895.2
+consensus	ENSG00000075624	ACTB	lung	3202.3
+consensus	ENSG00000075624	ACTB	lymph node	4107.2
+consensus	ENSG00000075624	ACTB	midbrain	1910.1
+consensus	ENSG00000075624	ACTB	ovary	1843.2
+consensus	ENSG00000075624	ACTB	pancreas	1009.2
+consensus	ENSG00000075624	ACTB	parathyroid gland	787.5
+consensus	ENSG00000075624	ACTB	pituitary gland	921.3
+consensus	ENSG00000075624	ACTB	placenta	1707.6
+consensus	ENSG00000075624	ACTB	prostate	2661.0
+consensus	ENSG00000075624	ACTB	rectum	2196.3
+consensus	ENSG00000075624	ACTB	retina	452.4
+consensus	ENSG00000075624	ACTB	salivary gland	1604.9
+consensus	ENSG00000075624	ACTB	seminal vesicle	2771.3
+consensus	ENSG00000075624	ACTB	skeletal muscle	518.3
+consensus	ENSG00000075624	ACTB	skin	1697.0
+consensus	ENSG00000075624	ACTB	small intestine	3188.9
+consensus	ENSG00000075624	ACTB	smooth muscle	5355.5
+consensus	ENSG00000075624	ACTB	spinal cord	2608.5
+consensus	ENSG00000075624	ACTB	spleen	3352.9
+consensus	ENSG00000075624	ACTB	stomach	3342.2
+consensus	ENSG00000075624	ACTB	testis	621.3
+consensus	ENSG00000075624	ACTB	thymus	3055.1
+consensus	ENSG00000075624	ACTB	thyroid gland	1328.3
+consensus	ENSG00000075624	ACTB	tongue	489.2
+consensus	ENSG00000075624	ACTB	tonsil	4310.4
+consensus	ENSG00000075624	ACTB	urinary bladder	4144.2
+consensus	ENSG00000075624	ACTB	vagina	2531.9
+consensus	ENSG00000163631	ALB	adipose tissue	8.4
+consensus	ENSG00000163631	ALB	adrenal gland	3.7
+consensus	ENSG00000163631	ALB	amygdala	2.4
+consensus	ENSG00000163631	ALB	appendix	0.0
+consensus	ENSG00000163631	ALB	basal ganglia	4.5
+consensus	ENSG00000163631	ALB	blood vessel	3.8
+consensus	ENSG00000163631	ALB	bone marrow	0.0
+consensus	ENSG00000163631	ALB	breast	5.2
+consensus	ENSG00000163631	ALB	cerebellum	4.2
+consensus	ENSG00000163631	ALB	cerebral cortex	2.4
+consensus	ENSG00000163631	ALB	cervix	1.0
+consensus	ENSG00000163631	ALB	choroid plexus	0.6
+consensus	ENSG00000163631	ALB	colon	2.2
+consensus	ENSG00000163631	ALB	duodenum	0.0
+consensus	ENSG00000163631	ALB	endometrium	2.1
+consensus	ENSG00000163631	ALB	epididymis	14.6
+consensus	ENSG00000163631	ALB	esophagus	2.4
+consensus	ENSG00000163631	ALB	fallopian tube	2.2
+consensus	ENSG00000163631	ALB	gallbladder	3.6
+consensus	ENSG00000163631	ALB	heart muscle	7.3
+consensus	ENSG00000163631	ALB	hippocampal formation	2.9
+consensus	ENSG00000163631	ALB	hypothalamus	3.2
+consensus	ENSG00000163631	ALB	kidney	433.7
+consensus	ENSG00000163631	ALB	liver	198523.8
+consensus	ENSG00000163631	ALB	lung	6.2
+consensus	ENSG00000163631	ALB	lymph node	1.2
+consensus	ENSG00000163631	ALB	midbrain	2.2
+consensus	ENSG00000163631	ALB	ovary	2.4
+consensus	ENSG00000163631	ALB	pancreas	1480.5
+consensus	ENSG00000163631	ALB	parathyroid gland	0.9
+consensus	ENSG00000163631	ALB	pituitary gland	3.4
+consensus	ENSG00000163631	ALB	placenta	4.2
+consensus	ENSG00000163631	ALB	prostate	2.1
+consensus	ENSG00000163631	ALB	rectum	0.1
+consensus	ENSG00000163631	ALB	retina	0.4
+consensus	ENSG00000163631	ALB	salivary gland	1.9
+consensus	ENSG00000163631	ALB	seminal vesicle	0.1
+consensus	ENSG00000163631	ALB	skeletal muscle	1.8
+consensus	ENSG00000163631	ALB	skin	3.0
+consensus	ENSG00000163631	ALB	small intestine	2.1
+consensus	ENSG00000163631	ALB	smooth muscle	0.0
+consensus	ENSG00000163631	ALB	spinal cord	2.1
+consensus	ENSG00000163631	ALB	spleen	31.2
+consensus	ENSG00000163631	ALB	stomach	9.1
+consensus	ENSG00000163631	ALB	testis	3.7
+consensus	ENSG00000163631	ALB	thymus	0.3
+consensus	ENSG00000163631	ALB	thyroid gland	3.3
+consensus	ENSG00000163631	ALB	tongue	0.1
+consensus	ENSG00000163631	ALB	tonsil	1.3
+consensus	ENSG00000163631	ALB	urinary bladder	0.5
+consensus	ENSG00000163631	ALB	vagina	1.6
+consensus	ENSG00000130203	APOE	adipose tissue	490.2
+consensus	ENSG00000130203	APOE	adrenal gland	3391.3
+consensus	ENSG00000130203	APOE	amygdala	1946.7
+consensus	ENSG00000130203	APOE	appendix	87.5
+consensus	ENSG00000130203	APOE	basal ganglia	2691.3
+consensus	ENSG00000130203	APOE	blood vessel	282.2
+consensus	ENSG00000130203	APOE	bone marrow	62.6
+consensus	ENSG00000130203	APOE	breast	317.2
+consensus	ENSG00000130203	APOE	cerebellum	607.1
+consensus	ENSG00000130203	APOE	cerebral cortex	1195.4
+consensus	ENSG00000130203	APOE	cervix	219.7
+consensus	ENSG00000130203	APOE	choroid plexus	273.7
+consensus	ENSG00000130203	APOE	colon	133.4
+consensus	ENSG00000130203	APOE	duodenum	38.0
+consensus	ENSG00000130203	APOE	endometrium	61.0
+consensus	ENSG00000130203	APOE	epididymis	18.8
+consensus	ENSG00000130203	APOE	esophagus	37.0
+consensus	ENSG00000130203	APOE	fallopian tube	56.7
+consensus	ENSG00000130203	APOE	gallbladder	93.9
+consensus	ENSG00000130203	APOE	heart muscle	176.7
+consensus	ENSG00000130203	APOE	hippocampal formation	1116.0
+consensus	ENSG00000130203	APOE	hypothalamus	1368.4
+consensus	ENSG00000130203	APOE	kidney	1075.1
+consensus	ENSG00000130203	APOE	liver	6533.9
+consensus	ENSG00000130203	APOE	lung	257.1
+consensus	ENSG00000130203	APOE	lymph node	330.1
+consensus	ENSG00000130203	APOE	midbrain	2714.9
+consensus	ENSG00000130203	APOE	ovary	503.9
+consensus	ENSG00000130203	APOE	pancreas	39.6
+consensus	ENSG00000130203	APOE	parathyroid gland	32.3
+consensus	ENSG00000130203	APOE	pituitary gland	107.7
+consensus	ENSG00000130203	APOE	placenta	96.1
+consensus	ENSG00000130203	APOE	prostate	46.7
+consensus	ENSG00000130203	APOE	rectum	21.5
+consensus	ENSG00000130203	APOE	retina	81.4
+consensus	ENSG00000130203	APOE	salivary gland	78.3
+consensus	ENSG00000130203	APOE	seminal vesicle	10.2
+consensus	ENSG00000130203	APOE	skeletal muscle	29.1
+consensus	ENSG00000130203	APOE	skin	370.0
+consensus	ENSG00000130203	APOE	small intestine	160.3
+consensus	ENSG00000130203	APOE	smooth muscle	11.8
+consensus	ENSG00000130203	APOE	spinal cord	756.0
+consensus	ENSG00000130203	APOE	spleen	585.1
+consensus	ENSG00000130203	APOE	stomach	78.4
+consensus	ENSG00000130203	APOE	testis	137.5
+consensus	ENSG00000130203	APOE	thymus	53.8
+consensus	ENSG00000130203	APOE	thyroid gland	149.0
+consensus	ENSG00000130203	APOE	tongue	9.7
+consensus	ENSG00000130203	APOE	tonsil	43.2
+consensus	ENSG00000130203	APOE	urinary bladder	87.1
+consensus	ENSG00000130203	APOE	vagina	126.8
+consensus	ENSG00000012048	BRCA1	adipose tissue	2.7
+consensus	ENSG00000012048	BRCA1	adrenal gland	1.6
+consensus	ENSG00000012048	BRCA1	amygdala	2.2
+consensus	ENSG00000012048	BRCA1	appendix	6.8
+consensus	ENSG00000012048	BRCA1	basal ganglia	2.7
+consensus	ENSG00000012048	BRCA1	blood vessel	1.3
+consensus	ENSG00000012048	BRCA1	bone marrow	10.4
+consensus	ENSG00000012048	BRCA1	breast	3.2
+consensus	ENSG00000012048	BRCA1	cerebellum	0.8
+consensus	ENSG00000012048	BRCA1	cerebral cortex	2.8
+consensus	ENSG00000012048	BRCA1	cervix	2.4
+consensus	ENSG00000012048	BRCA1	choroid plexus	2.4
+consensus	ENSG00000012048	BRCA1	colon	5.8
+consensus	ENSG00000012048	BRCA1	duodenum	2.9
+consensus	ENSG00000012048	BRCA1	endometrium	2.5
+consensus	ENSG00000012048	BRCA1	epididymis	1.8
+consensus	ENSG00000012048	BRCA1	esophagus	3.8
+consensus	ENSG00000012048	BRCA1	fallopian tube	3.3
+consensus	ENSG00000012048	BRCA1	gallbladder	1.6
+consensus	ENSG00000012048	BRCA1	heart muscle	2.6
+consensus	ENSG00000012048	BRCA1	hippocampal formation	2.4
+consensus	ENSG00000012048	BRCA1	hypothalamus	2.0
+consensus	ENSG00000012048	BRCA1	kidney	1.6
+consensus	ENSG00000012048	BRCA1	liver	5.1
+consensus	ENSG00000012048	BRCA1	lung	2.6
+consensus	ENSG00000012048	BRCA1	lymph node	8.7
+consensus	ENSG00000012048	BRCA1	midbrain	3.3
+consensus	ENSG00000012048	BRCA1	ovary	2.6
+consensus	ENSG00000012048	BRCA1	pancreas	2.0
+consensus	ENSG00000012048	BRCA1	parathyroid gland	5.4
+consensus	ENSG00000012048	BRCA1	pituitary gland	2.7
+consensus	ENSG00000012048	BRCA1	placenta	3.4
+consensus	ENSG00000012048	BRCA1	prostate	2.0
+consensus	ENSG00000012048	BRCA1	rectum	6.2
+consensus	ENSG00000012048	BRCA1	retina	6.9
+consensus	ENSG00000012048	BRCA1	salivary gland	2.8
+consensus	ENSG00000012048	BRCA1	seminal vesicle	1.5
+consensus	ENSG00000012048	BRCA1	skeletal muscle	3.5
+consensus	ENSG00000012048	BRCA1	skin	5.1
+consensus	ENSG00000012048	BRCA1	small intestine	4.3
+consensus	ENSG00000012048	BRCA1	smooth muscle	3.3
+consensus	ENSG00000012048	BRCA1	spinal cord	3.9
+consensus	ENSG00000012048	BRCA1	spleen	3.1
+consensus	ENSG00000012048	BRCA1	stomach	2.9
+consensus	ENSG00000012048	BRCA1	testis	11.2
+consensus	ENSG00000012048	BRCA1	thymus	12.9
+consensus	ENSG00000012048	BRCA1	thyroid gland	7.0
+consensus	ENSG00000012048	BRCA1	tongue	3.1
+consensus	ENSG00000012048	BRCA1	tonsil	9.8
+consensus	ENSG00000012048	BRCA1	urinary bladder	2.6
+consensus	ENSG00000012048	BRCA1	vagina	2.2
+consensus	ENSG00000139618	BRCA2	adipose tissue	0.2
+consensus	ENSG00000139618	BRCA2	adrenal gland	0.0
+consensus	ENSG00000139618	BRCA2	amygdala	0.0
+consensus	ENSG00000139618	BRCA2	appendix	1.2
+consensus	ENSG00000139618	BRCA2	basal ganglia	0.0
+consensus	ENSG00000139618	BRCA2	blood vessel	0.1
+consensus	ENSG00000139618	BRCA2	bone marrow	5.2
+consensus	ENSG00000139618	BRCA2	breast	0.6
+consensus	ENSG00000139618	BRCA2	cerebellum	0.0
+consensus	ENSG00000139618	BRCA2	cerebral cortex	0.1
+consensus	ENSG00000139618	BRCA2	cervix	0.1
+consensus	ENSG00000139618	BRCA2	choroid plexus	0.0
+consensus	ENSG00000139618	BRCA2	colon	0.8
+consensus	ENSG00000139618	BRCA2	duodenum	0.5
+consensus	ENSG00000139618	BRCA2	endometrium	0.2
+consensus	ENSG00000139618	BRCA2	epididymis	0.0
+consensus	ENSG00000139618	BRCA2	esophagus	0.4
+consensus	ENSG00000139618	BRCA2	fallopian tube	0.1
+consensus	ENSG00000139618	BRCA2	gallbladder	0.2
+consensus	ENSG00000139618	BRCA2	heart muscle	0.0
+consensus	ENSG00000139618	BRCA2	hippocampal formation	0.0
+consensus	ENSG00000139618	BRCA2	hypothalamus	0.0
+consensus	ENSG00000139618	BRCA2	kidney	0.1
+consensus	ENSG00000139618	BRCA2	liver	0.2
+consensus	ENSG00000139618	BRCA2	lung	0.3
+consensus	ENSG00000139618	BRCA2	lymph node	2.0
+consensus	ENSG00000139618	BRCA2	midbrain	0.0
+consensus	ENSG00000139618	BRCA2	ovary	0.3
+consensus	ENSG00000139618	BRCA2	pancreas	0.0
+consensus	ENSG00000139618	BRCA2	parathyroid gland	0.0
+consensus	ENSG00000139618	BRCA2	pituitary gland	0.0
+consensus	ENSG00000139618	BRCA2	placenta	1.0
+consensus	ENSG00000139618	BRCA2	prostate	0.1
+consensus	ENSG00000139618	BRCA2	rectum	0.9
+consensus	ENSG00000139618	BRCA2	retina	0.0
+consensus	ENSG00000139618	BRCA2	salivary gland	0.1
+consensus	ENSG00000139618	BRCA2	seminal vesicle	0.1
+consensus	ENSG00000139618	BRCA2	skeletal muscle	0.0
+consensus	ENSG00000139618	BRCA2	skin	0.7
+consensus	ENSG00000139618	BRCA2	small intestine	0.4
+consensus	ENSG00000139618	BRCA2	smooth muscle	0.3
+consensus	ENSG00000139618	BRCA2	spinal cord	0.0
+consensus	ENSG00000139618	BRCA2	spleen	1.0
+consensus	ENSG00000139618	BRCA2	stomach	0.6
+consensus	ENSG00000139618	BRCA2	testis	2.9
+consensus	ENSG00000139618	BRCA2	thymus	4.2
+consensus	ENSG00000139618	BRCA2	thyroid gland	0.2
+consensus	ENSG00000139618	BRCA2	tongue	0.0
+consensus	ENSG00000139618	BRCA2	tonsil	2.2
+consensus	ENSG00000139618	BRCA2	urinary bladder	0.5
+consensus	ENSG00000139618	BRCA2	vagina	0.1
+consensus	ENSG00000167286	CD3D	adipose tissue	4.4
+consensus	ENSG00000167286	CD3D	adrenal gland	2.8
+consensus	ENSG00000167286	CD3D	amygdala	0.4
+consensus	ENSG00000167286	CD3D	appendix	63.9
+consensus	ENSG00000167286	CD3D	basal ganglia	0.4
+consensus	ENSG00000167286	CD3D	blood vessel	3.7
+consensus	ENSG00000167286	CD3D	bone marrow	24.6
+consensus	ENSG00000167286	CD3D	breast	8.6
+consensus	ENSG00000167286	CD3D	cerebellum	0.1
+consensus	ENSG00000167286	CD3D	cerebral cortex	0.3
+consensus	ENSG00000167286	CD3D	cervix	5.2
+consensus	ENSG00000167286	CD3D	choroid plexus	2.5
+consensus	ENSG00000167286	CD3D	colon	15.9
+consensus	ENSG00000167286	CD3D	duodenum	17.8
+consensus	ENSG00000167286	CD3D	endometrium	2.9
+consensus	ENSG00000167286	CD3D	epididymis	5.1
+consensus	ENSG00000167286	CD3D	esophagus	6.3
+consensus	ENSG00000167286	CD3D	fallopian tube	3.9
+consensus	ENSG00000167286	CD3D	gallbladder	13.1
+consensus	ENSG00000167286	CD3D	heart muscle	2.9
+consensus	ENSG00000167286	CD3D	hippocampal formation	0.5
+consensus	ENSG00000167286	CD3D	hypothalamus	0.7
+consensus	ENSG00000167286	CD3D	kidney	2.8
+consensus	ENSG00000167286	CD3D	liver	6.8
+consensus	ENSG00000167286	CD3D	lung	17.9
+consensus	ENSG00000167286	CD3D	lymph node	184.8
+consensus	ENSG00000167286	CD3D	midbrain	0.7
+consensus	ENSG00000167286	CD3D	ovary	2.5
+consensus	ENSG00000167286	CD3D	pancreas	1.4
+consensus	ENSG00000167286	CD3D	parathyroid gland	0.8
+consensus	ENSG00000167286	CD3D	pituitary gland	0.9
+consensus	ENSG00000167286	CD3D	placenta	0.9
+consensus	ENSG00000167286	CD3D	prostate	5.0
+consensus	ENSG00000167286	CD3D	rectum	18.2
+consensus	ENSG00000167286	CD3D	retina	0.1
+consensus	ENSG00000167286	CD3D	salivary gland	6.9
+consensus	ENSG00000167286	CD3D	seminal vesicle	2.8
+consensus	ENSG00000167286	CD3D	skeletal muscle	1.8
+consensus	ENSG00000167286	CD3D	skin	3.1
+consensus	ENSG00000167286	CD3D	small intestine	34.2
+consensus	ENSG00000167286	CD3D	smooth muscle	3.2
+consensus	ENSG00000167286	CD3D	spinal cord	2.3
+consensus	ENSG00000167286	CD3D	spleen	50.5
+consensus	ENSG00000167286	CD3D	stomach	20.7
+consensus	ENSG00000167286	CD3D	testis	1.7
+consensus	ENSG00000167286	CD3D	thymus	809.4
+consensus	ENSG00000167286	CD3D	thyroid gland	4.7
+consensus	ENSG00000167286	CD3D	tongue	1.3
+consensus	ENSG00000167286	CD3D	tonsil	139.6
+consensus	ENSG00000167286	CD3D	urinary bladder	23.6
+consensus	ENSG00000167286	CD3D	vagina	4.4
+consensus	ENSG00000153563	CD8A	adipose tissue	5.2
+consensus	ENSG00000153563	CD8A	adrenal gland	2.2
+consensus	ENSG00000153563	CD8A	amygdala	2.4
+consensus	ENSG00000153563	CD8A	appendix	16.2
+consensus	ENSG00000153563	CD8A	basal ganglia	5.3
+consensus	ENSG00000153563	CD8A	blood vessel	3.0
+consensus	ENSG00000153563	CD8A	bone marrow	13.9
+consensus	ENSG00000153563	CD8A	breast	2.7
+consensus	ENSG00000153563	CD8A	cerebellum	2.8
+consensus	ENSG00000153563	CD8A	cerebral cortex	2.4
+consensus	ENSG00000153563	CD8A	cervix	4.7
+consensus	ENSG00000153563	CD8A	choroid plexus	1.0
+consensus	ENSG00000153563	CD8A	colon	3.6
+consensus	ENSG00000153563	CD8A	duodenum	9.3
+consensus	ENSG00000153563	CD8A	endometrium	1.9
+consensus	ENSG00000153563	CD8A	epididymis	1.2
+consensus	ENSG00000153563	CD8A	esophagus	3.0
+consensus	ENSG00000153563	CD8A	fallopian tube	3.5
+consensus	ENSG00000153563	CD8A	gallbladder	4.5
+consensus	ENSG00000153563	CD8A	heart muscle	1.5
+consensus	ENSG00000153563	CD8A	hippocampal formation	2.3
+consensus	ENSG00000153563	CD8A	hypothalamus	3.3
+consensus	ENSG00000153563	CD8A	kidney	1.6
+consensus	ENSG00000153563	CD8A	liver	3.9
+consensus	ENSG00000153563	CD8A	lung	10.2
+consensus	ENSG00000153563	CD8A	lymph node	28.2
+consensus	ENSG00000153563	CD8A	midbrain	2.0
+consensus	ENSG00000153563	CD8A	ovary	0.9
+consensus	ENSG00000153563	CD8A	pancreas	2.1
+consensus	ENSG00000153563	CD8A	parathyroid gland	0.3
+consensus	ENSG00000153563	CD8A	pituitary gland	1.5
+consensus	ENSG00000153563	CD8A	placenta	0.3
+consensus	ENSG00000153563	CD8A	prostate	3.3
+consensus	ENSG00000153563	CD8A	rectum	2.3
+consensus	ENSG00000153563	CD8A	retina	0.0
+consensus	ENSG00000153563	CD8A	salivary gland	5.3
+consensus	ENSG00000153563	CD8A	seminal vesicle	1.3
+consensus	ENSG00000153563	CD8A	skeletal muscle	0.6
+consensus	ENSG00000153563	CD8A	skin	1.3
+consensus	ENSG00000153563	CD8A	small intestine	17.1
+consensus	ENSG00000153563	CD8A	smooth muscle	1.1
+consensus	ENSG00000153563	CD8A	spinal cord	3.4
+consensus	ENSG00000153563	CD8A	spleen	94.1
+consensus	ENSG00000153563	CD8A	stomach	12.8
+consensus	ENSG00000153563	CD8A	testis	0.4
+consensus	ENSG00000153563	CD8A	thymus	216.0
+consensus	ENSG00000153563	CD8A	thyroid gland	4.5
+consensus	ENSG00000153563	CD8A	tongue	0.3
+consensus	ENSG00000153563	CD8A	tonsil	9.1
+consensus	ENSG00000153563	CD8A	urinary bladder	5.2
+consensus	ENSG00000153563	CD8A	vagina	4.0
+consensus	ENSG00000146648	EGFR	adipose tissue	25.9
+consensus	ENSG00000146648	EGFR	adrenal gland	10.6
+consensus	ENSG00000146648	EGFR	amygdala	6.1
+consensus	ENSG00000146648	EGFR	appendix	3.7
+consensus	ENSG00000146648	EGFR	basal ganglia	8.5
+consensus	ENSG00000146648	EGFR	blood vessel	18.2
+consensus	ENSG00000146648	EGFR	bone marrow	0.0
+consensus	ENSG00000146648	EGFR	breast	19.0
+consensus	ENSG00000146648	EGFR	cerebellum	2.7
+consensus	ENSG00000146648	EGFR	cerebral cortex	11.5
+consensus	ENSG00000146648	EGFR	cervix	18.9
+consensus	ENSG00000146648	EGFR	choroid plexus	4.2
+consensus	ENSG00000146648	EGFR	colon	11.4
+consensus	ENSG00000146648	EGFR	duodenum	5.3
+consensus	ENSG00000146648	EGFR	endometrium	10.6
+consensus	ENSG00000146648	EGFR	epididymis	9.6
+consensus	ENSG00000146648	EGFR	esophagus	21.3
+consensus	ENSG00000146648	EGFR	fallopian tube	11.3
+consensus	ENSG00000146648	EGFR	gallbladder	8.3
+consensus	ENSG00000146648	EGFR	heart muscle	6.8
+consensus	ENSG00000146648	EGFR	hippocampal formation	3.8
+consensus	ENSG00000146648	EGFR	hypothalamus	3.3
+consensus	ENSG00000146648	EGFR	kidney	10.8
+consensus	ENSG00000146648	EGFR	liver	32.2
+consensus	ENSG00000146648	EGFR	lung	14.1
+consensus	ENSG00000146648	EGFR	lymph node	2.3
+consensus	ENSG00000146648	EGFR	midbrain	5.3
+consensus	ENSG00000146648	EGFR	ovary	14.2
+consensus	ENSG00000146648	EGFR	pancreas	14.6
+consensus	ENSG00000146648	EGFR	parathyroid gland	3.2
+consensus	ENSG00000146648	EGFR	pituitary gland	2.6
+consensus	ENSG00000146648	EGFR	placenta	61.8
+consensus	ENSG00000146648	EGFR	prostate	15.3
+consensus	ENSG00000146648	EGFR	rectum	9.8
+consensus	ENSG00000146648	EGFR	retina	9.4
+consensus	ENSG00000146648	EGFR	salivary gland	20.7
+consensus	ENSG00000146648	EGFR	seminal vesicle	14.1
+consensus	ENSG00000146648	EGFR	skeletal muscle	10.2
+consensus	ENSG00000146648	EGFR	skin	48.4
+consensus	ENSG00000146648	EGFR	small intestine	9.1
+consensus	ENSG00000146648	EGFR	smooth muscle	8.4
+consensus	ENSG00000146648	EGFR	spinal cord	1.7
+consensus	ENSG00000146648	EGFR	spleen	4.7
+consensus	ENSG00000146648	EGFR	stomach	10.1
+consensus	ENSG00000146648	EGFR	testis	3.9
+consensus	ENSG00000146648	EGFR	thymus	12.0
+consensus	ENSG00000146648	EGFR	thyroid gland	18.7
+consensus	ENSG00000146648	EGFR	tongue	19.0
+consensus	ENSG00000146648	EGFR	tonsil	7.8
+consensus	ENSG00000146648	EGFR	urinary bladder	13.7
+consensus	ENSG00000146648	EGFR	vagina	22.9
+consensus	ENSG00000141736	ERBB2	adipose tissue	12.2
+consensus	ENSG00000141736	ERBB2	adrenal gland	5.2
+consensus	ENSG00000141736	ERBB2	amygdala	11.8
+consensus	ENSG00000141736	ERBB2	appendix	11.5
+consensus	ENSG00000141736	ERBB2	basal ganglia	14.9
+consensus	ENSG00000141736	ERBB2	blood vessel	53.9
+consensus	ENSG00000141736	ERBB2	bone marrow	1.3
+consensus	ENSG00000141736	ERBB2	breast	52.4
+consensus	ENSG00000141736	ERBB2	cerebellum	4.4
+consensus	ENSG00000141736	ERBB2	cerebral cortex	10.0
+consensus	ENSG00000141736	ERBB2	cervix	45.2
+consensus	ENSG00000141736	ERBB2	choroid plexus	20.8
+consensus	ENSG00000141736	ERBB2	colon	63.8
+consensus	ENSG00000141736	ERBB2	duodenum	59.8
+consensus	ENSG00000141736	ERBB2	endometrium	24.7
+consensus	ENSG00000141736	ERBB2	epididymis	25.1
+consensus	ENSG00000141736	ERBB2	esophagus	98.3
+consensus	ENSG00000141736	ERBB2	fallopian tube	60.4
+consensus	ENSG00000141736	ERBB2	gallbladder	29.0
+consensus	ENSG00000141736	ERBB2	heart muscle	53.9
+consensus	ENSG00000141736	ERBB2	hippocampal formation	7.4
+consensus	ENSG00000141736	ERBB2	hypothalamus	6.3
+consensus	ENSG00000141736	ERBB2	kidney	83.9
+consensus	ENSG00000141736	ERBB2	liver	30.7
+consensus	ENSG00000141736	ERBB2	lung	34.1
+consensus	ENSG00000141736	ERBB2	lymph node	4.5
+consensus	ENSG00000141736	ERBB2	midbrain	12.7
+consensus	ENSG00000141736	ERBB2	ovary	22.8
+consensus	ENSG00000141736	ERBB2	pancreas	36.0
+consensus	ENSG00000141736	ERBB2	parathyroid gland	76.8
+consensus	ENSG00000141736	ERBB2	pituitary gland	17.0
+consensus	ENSG00000141736	ERBB2	placenta	25.4
+consensus	ENSG00000141736	ERBB2	prostate	53.4
+consensus	ENSG00000141736	ERBB2	rectum	45.5
+consensus	ENSG00000141736	ERBB2	retina	7.5
+consensus	ENSG00000141736	ERBB2	salivary gland	65.8
+consensus	ENSG00000141736	ERBB2	seminal vesicle	47.5
+consensus	ENSG00000141736	ERBB2	skeletal muscle	19.5
+consensus	ENSG00000141736	ERBB2	skin	87.2
+consensus	ENSG00000141736	ERBB2	small intestine	63.4
+consensus	ENSG00000141736	ERBB2	smooth muscle	23.3
+consensus	ENSG00000141736	ERBB2	spinal cord	6.0
+consensus	ENSG00000141736	ERBB2	spleen	6.7
+consensus	ENSG00000141736	ERBB2	stomach	46.8
+consensus	ENSG00000141736	ERBB2	testis	11.3
+consensus	ENSG00000141736	ERBB2	thymus	6.9
+consensus	ENSG00000141736	ERBB2	thyroid gland	53.6
+consensus	ENSG00000141736	ERBB2	tongue	14.0
+consensus	ENSG00000141736	ERBB2	tonsil	26.1
+consensus	ENSG00000141736	ERBB2	urinary bladder	37.4
+consensus	ENSG00000141736	ERBB2	vagina	50.7
+consensus	ENSG00000111640	GAPDH	adipose tissue	1132.5
+consensus	ENSG00000111640	GAPDH	adrenal gland	1660.2
+consensus	ENSG00000111640	GAPDH	amygdala	2881.2
+consensus	ENSG00000111640	GAPDH	appendix	1124.2
+consensus	ENSG00000111640	GAPDH	basal ganglia	2835.7
+consensus	ENSG00000111640	GAPDH	blood vessel	2627.7
+consensus	ENSG00000111640	GAPDH	bone marrow	4349.1
+consensus	ENSG00000111640	GAPDH	breast	960.2
+consensus	ENSG00000111640	GAPDH	cerebellum	1561.6
+consensus	ENSG00000111640	GAPDH	cerebral cortex	2988.7
+consensus	ENSG00000111640	GAPDH	cervix	1335.8
+consensus	ENSG00000111640	GAPDH	choroid plexus	3529.2
+consensus	ENSG00000111640	GAPDH	colon	1613.3
+consensus	ENSG00000111640	GAPDH	duodenum	1392.1
+consensus	ENSG00000111640	GAPDH	endometrium	1012.2
+consensus	ENSG00000111640	GAPDH	epididymis	727.1
+consensus	ENSG00000111640	GAPDH	esophagus	2781.9
+consensus	ENSG00000111640	GAPDH	fallopian tube	1067.0
+consensus	ENSG00000111640	GAPDH	gallbladder	1090.4
+consensus	ENSG00000111640	GAPDH	heart muscle	5080.5
+consensus	ENSG00000111640	GAPDH	hippocampal formation	2630.8
+consensus	ENSG00000111640	GAPDH	hypothalamus	2638.6
+consensus	ENSG00000111640	GAPDH	kidney	2284.0
+consensus	ENSG00000111640	GAPDH	liver	2360.5
+consensus	ENSG00000111640	GAPDH	lung	1068.6
+consensus	ENSG00000111640	GAPDH	lymph node	1296.0
+consensus	ENSG00000111640	GAPDH	midbrain	3175.7
+consensus	ENSG00000111640	GAPDH	ovary	999.1
+consensus	ENSG00000111640	GAPDH	pancreas	602.3
+consensus	ENSG00000111640	GAPDH	parathyroid gland	1518.0
+consensus	ENSG00000111640	GAPDH	pituitary gland	1246.7
+consensus	ENSG00000111640	GAPDH	placenta	1118.6
+consensus	ENSG00000111640	GAPDH	prostate	1127.6
+consensus	ENSG00000111640	GAPDH	rectum	1489.6
+consensus	ENSG00000111640	GAPDH	retina	2216.3
+consensus	ENSG00000111640	GAPDH	salivary gland	1693.3
+consensus	ENSG00000111640	GAPDH	seminal vesicle	1167.0
+consensus	ENSG00000111640	GAPDH	skeletal muscle	25843.3
+consensus	ENSG00000111640	GAPDH	skin	1614.5
+consensus	ENSG00000111640	GAPDH	small intestine	1337.8
+consensus	ENSG00000111640	GAPDH	smooth muscle	1329.8
+consensus	ENSG00000111640	GAPDH	spinal cord	2757.7
+consensus	ENSG00000111640	GAPDH	spleen	1127.2
+consensus	ENSG00000111640	GAPDH	stomach	1140.2
+consensus	ENSG00000111640	GAPDH	testis	646.8
+consensus	ENSG00000111640	GAPDH	thymus	1463.4
+consensus	ENSG00000111640	GAPDH	thyroid gland	945.0
+consensus	ENSG00000111640	GAPDH	tongue	17635.1
+consensus	ENSG00000111640	GAPDH	tonsil	1743.4
+consensus	ENSG00000111640	GAPDH	urinary bladder	1681.7
+consensus	ENSG00000111640	GAPDH	vagina	1610.2
+consensus	ENSG00000115263	GCG	adipose tissue	19.1
+consensus	ENSG00000115263	GCG	adrenal gland	0.1
+consensus	ENSG00000115263	GCG	amygdala	0.0
+consensus	ENSG00000115263	GCG	appendix	2.9
+consensus	ENSG00000115263	GCG	basal ganglia	0.1
+consensus	ENSG00000115263	GCG	blood vessel	0.0
+consensus	ENSG00000115263	GCG	bone marrow	18.9
+consensus	ENSG00000115263	GCG	breast	0.0
+consensus	ENSG00000115263	GCG	cerebellum	0.0
+consensus	ENSG00000115263	GCG	cerebral cortex	25.5
+consensus	ENSG00000115263	GCG	cervix	0.0
+consensus	ENSG00000115263	GCG	choroid plexus	0.0
+consensus	ENSG00000115263	GCG	colon	79.1
+consensus	ENSG00000115263	GCG	duodenum	3.2
+consensus	ENSG00000115263	GCG	endometrium	0.6
+consensus	ENSG00000115263	GCG	epididymis	0.0
+consensus	ENSG00000115263	GCG	esophagus	5.0
+consensus	ENSG00000115263	GCG	fallopian tube	0.0
+consensus	ENSG00000115263	GCG	gallbladder	3.9
+consensus	ENSG00000115263	GCG	heart muscle	2.4
+consensus	ENSG00000115263	GCG	hippocampal formation	0.0
+consensus	ENSG00000115263	GCG	hypothalamus	0.0
+consensus	ENSG00000115263	GCG	kidney	39.2
+consensus	ENSG00000115263	GCG	liver	0.0
+consensus	ENSG00000115263	GCG	lung	0.2
+consensus	ENSG00000115263	GCG	lymph node	3.3
+consensus	ENSG00000115263	GCG	midbrain	0.0
+consensus	ENSG00000115263	GCG	ovary	0.0
+consensus	ENSG00000115263	GCG	pancreas	1834.3
+consensus	ENSG00000115263	GCG	parathyroid gland	0.0
+consensus	ENSG00000115263	GCG	pituitary gland	0.0
+consensus	ENSG00000115263	GCG	placenta	0.1
+consensus	ENSG00000115263	GCG	prostate	0.7
+consensus	ENSG00000115263	GCG	rectum	142.7
+consensus	ENSG00000115263	GCG	retina	0.0
+consensus	ENSG00000115263	GCG	salivary gland	0.2
+consensus	ENSG00000115263	GCG	seminal vesicle	0.0
+consensus	ENSG00000115263	GCG	skeletal muscle	0.0
+consensus	ENSG00000115263	GCG	skin	35.1
+consensus	ENSG00000115263	GCG	small intestine	122.6
+consensus	ENSG00000115263	GCG	smooth muscle	0.7
+consensus	ENSG00000115263	GCG	spinal cord	0.0
+consensus	ENSG00000115263	GCG	spleen	0.2
+consensus	ENSG00000115263	GCG	stomach	38.7
+consensus	ENSG00000115263	GCG	testis	0.0
+consensus	ENSG00000115263	GCG	thymus	0.4
+consensus	ENSG00000115263	GCG	thyroid gland	0.5
+consensus	ENSG00000115263	GCG	tongue	0.0
+consensus	ENSG00000115263	GCG	tonsil	0.0
+consensus	ENSG00000115263	GCG	urinary bladder	3.1
+consensus	ENSG00000115263	GCG	vagina	0.0
+consensus	ENSG00000131095	GFAP	adipose tissue	1.9
+consensus	ENSG00000131095	GFAP	adrenal gland	1.7
+consensus	ENSG00000131095	GFAP	amygdala	3620.2
+consensus	ENSG00000131095	GFAP	appendix	1.9
+consensus	ENSG00000131095	GFAP	basal ganglia	3078.9
+consensus	ENSG00000131095	GFAP	blood vessel	3.7
+consensus	ENSG00000131095	GFAP	bone marrow	13.1
+consensus	ENSG00000131095	GFAP	breast	3.3
+consensus	ENSG00000131095	GFAP	cerebellum	816.2
+consensus	ENSG00000131095	GFAP	cerebral cortex	2345.3
+consensus	ENSG00000131095	GFAP	cervix	1.2
+consensus	ENSG00000131095	GFAP	choroid plexus	1963.1
+consensus	ENSG00000131095	GFAP	colon	1.3
+consensus	ENSG00000131095	GFAP	duodenum	0.3
+consensus	ENSG00000131095	GFAP	endometrium	0.8
+consensus	ENSG00000131095	GFAP	epididymis	1.4
+consensus	ENSG00000131095	GFAP	esophagus	3.4
+consensus	ENSG00000131095	GFAP	fallopian tube	2.1
+consensus	ENSG00000131095	GFAP	gallbladder	1.4
+consensus	ENSG00000131095	GFAP	heart muscle	7.6
+consensus	ENSG00000131095	GFAP	hippocampal formation	4234.7
+consensus	ENSG00000131095	GFAP	hypothalamus	5882.0
+consensus	ENSG00000131095	GFAP	kidney	2.1
+consensus	ENSG00000131095	GFAP	liver	1.4
+consensus	ENSG00000131095	GFAP	lung	1.2
+consensus	ENSG00000131095	GFAP	lymph node	1.8
+consensus	ENSG00000131095	GFAP	midbrain	7623.8
+consensus	ENSG00000131095	GFAP	ovary	2.1
+consensus	ENSG00000131095	GFAP	pancreas	1.2
+consensus	ENSG00000131095	GFAP	parathyroid gland	1.5
+consensus	ENSG00000131095	GFAP	pituitary gland	30.6
+consensus	ENSG00000131095	GFAP	placenta	0.7
+consensus	ENSG00000131095	GFAP	prostate	1.1
+consensus	ENSG00000131095	GFAP	rectum	0.9
+consensus	ENSG00000131095	GFAP	retina	128.3
+consensus	ENSG00000131095	GFAP	salivary gland	1.8
+consensus	ENSG00000131095	GFAP	seminal vesicle	0.9
+consensus	ENSG00000131095	GFAP	skeletal muscle	1.9
+consensus	ENSG00000131095	GFAP	skin	2.5
+consensus	ENSG00000131095	GFAP	small intestine	0.6
+consensus	ENSG00000131095	GFAP	smooth muscle	0.9
+consensus	ENSG00000131095	GFAP	spinal cord	15929.3
+consensus	ENSG00000131095	GFAP	spleen	1.4
+consensus	ENSG00000131095	GFAP	stomach	1.4
+consensus	ENSG00000131095	GFAP	testis	1.3
+consensus	ENSG00000131095	GFAP	thymus	0.4
+consensus	ENSG00000131095	GFAP	thyroid gland	1.5
+consensus	ENSG00000131095	GFAP	tongue	0.2
+consensus	ENSG00000131095	GFAP	tonsil	1.1
+consensus	ENSG00000131095	GFAP	urinary bladder	1.3
+consensus	ENSG00000131095	GFAP	vagina	0.9
+consensus	ENSG00000254647	INS	adipose tissue	18.0
+consensus	ENSG00000254647	INS	adrenal gland	3.3
+consensus	ENSG00000254647	INS	amygdala	0.6
+consensus	ENSG00000254647	INS	appendix	0.2
+consensus	ENSG00000254647	INS	basal ganglia	2.0
+consensus	ENSG00000254647	INS	blood vessel	2.3
+consensus	ENSG00000254647	INS	bone marrow	47.2
+consensus	ENSG00000254647	INS	breast	0.8
+consensus	ENSG00000254647	INS	cerebellum	0.7
+consensus	ENSG00000254647	INS	cerebral cortex	22.8
+consensus	ENSG00000254647	INS	cervix	0.3
+consensus	ENSG00000254647	INS	choroid plexus	0.0
+consensus	ENSG00000254647	INS	colon	12.0
+consensus	ENSG00000254647	INS	duodenum	1.4
+consensus	ENSG00000254647	INS	endometrium	1.2
+consensus	ENSG00000254647	INS	epididymis	0.0
+consensus	ENSG00000254647	INS	esophagus	1.7
+consensus	ENSG00000254647	INS	fallopian tube	0.3
+consensus	ENSG00000254647	INS	gallbladder	3.4
+consensus	ENSG00000254647	INS	heart muscle	5.1
+consensus	ENSG00000254647	INS	hippocampal formation	0.8
+consensus	ENSG00000254647	INS	hypothalamus	0.5
+consensus	ENSG00000254647	INS	kidney	37.8
+consensus	ENSG00000254647	INS	liver	1.9
+consensus	ENSG00000254647	INS	lung	1.6
+consensus	ENSG00000254647	INS	lymph node	5.0
+consensus	ENSG00000254647	INS	midbrain	1.1
+consensus	ENSG00000254647	INS	ovary	1.0
+consensus	ENSG00000254647	INS	pancreas	12197.1
+consensus	ENSG00000254647	INS	parathyroid gland	0.0
+consensus	ENSG00000254647	INS	pituitary gland	0.4
+consensus	ENSG00000254647	INS	placenta	0.9
+consensus	ENSG00000254647	INS	prostate	0.5
+consensus	ENSG00000254647	INS	rectum	0.0
+consensus	ENSG00000254647	INS	retina	0.0
+consensus	ENSG00000254647	INS	salivary gland	2.9
+consensus	ENSG00000254647	INS	seminal vesicle	0.0
+consensus	ENSG00000254647	INS	skeletal muscle	0.4
+consensus	ENSG00000254647	INS	skin	90.4
+consensus	ENSG00000254647	INS	small intestine	0.7
+consensus	ENSG00000254647	INS	smooth muscle	0.0
+consensus	ENSG00000254647	INS	spinal cord	0.2
+consensus	ENSG00000254647	INS	spleen	1.7
+consensus	ENSG00000254647	INS	stomach	39.5
+consensus	ENSG00000254647	INS	testis	0.4
+consensus	ENSG00000254647	INS	thymus	0.0
+consensus	ENSG00000254647	INS	thyroid gland	1.4
+consensus	ENSG00000254647	INS	tongue	0.0
+consensus	ENSG00000254647	INS	tonsil	0.0
+consensus	ENSG00000254647	INS	urinary bladder	4.7
+consensus	ENSG00000254647	INS	vagina	0.4
+consensus	ENSG00000197971	MBP	adipose tissue	26.6
+consensus	ENSG00000197971	MBP	adrenal gland	6.7
+consensus	ENSG00000197971	MBP	amygdala	15029.3
+consensus	ENSG00000197971	MBP	appendix	19.7
+consensus	ENSG00000197971	MBP	basal ganglia	13873.6
+consensus	ENSG00000197971	MBP	blood vessel	28.3
+consensus	ENSG00000197971	MBP	bone marrow	40.5
+consensus	ENSG00000197971	MBP	breast	19.8
+consensus	ENSG00000197971	MBP	cerebellum	1850.9
+consensus	ENSG00000197971	MBP	cerebral cortex	7549.7
+consensus	ENSG00000197971	MBP	cervix	15.2
+consensus	ENSG00000197971	MBP	choroid plexus	2812.7
+consensus	ENSG00000197971	MBP	colon	17.6
+consensus	ENSG00000197971	MBP	duodenum	17.5
+consensus	ENSG00000197971	MBP	endometrium	12.7
+consensus	ENSG00000197971	MBP	epididymis	7.4
+consensus	ENSG00000197971	MBP	esophagus	19.2
+consensus	ENSG00000197971	MBP	fallopian tube	29.6
+consensus	ENSG00000197971	MBP	gallbladder	16.1
+consensus	ENSG00000197971	MBP	heart muscle	22.5
+consensus	ENSG00000197971	MBP	hippocampal formation	19948.4
+consensus	ENSG00000197971	MBP	hypothalamus	15745.8
+consensus	ENSG00000197971	MBP	kidney	23.5
+consensus	ENSG00000197971	MBP	liver	21.2
+consensus	ENSG00000197971	MBP	lung	18.9
+consensus	ENSG00000197971	MBP	lymph node	25.2
+consensus	ENSG00000197971	MBP	midbrain	42124.7
+consensus	ENSG00000197971	MBP	ovary	20.1
+consensus	ENSG00000197971	MBP	pancreas	21.5
+consensus	ENSG00000197971	MBP	parathyroid gland	44.7
+consensus	ENSG00000197971	MBP	pituitary gland	20.3
+consensus	ENSG00000197971	MBP	placenta	4.4
+consensus	ENSG00000197971	MBP	prostate	14.4
+consensus	ENSG00000197971	MBP	rectum	15.8
+consensus	ENSG00000197971	MBP	retina	6.9
+consensus	ENSG00000197971	MBP	salivary gland	21.0
+consensus	ENSG00000197971	MBP	seminal vesicle	12.3
+consensus	ENSG00000197971	MBP	skeletal muscle	132.0
+consensus	ENSG00000197971	MBP	skin	26.8
+consensus	ENSG00000197971	MBP	small intestine	19.5
+consensus	ENSG00000197971	MBP	smooth muscle	8.1
+consensus	ENSG00000197971	MBP	spinal cord	89103.1
+consensus	ENSG00000197971	MBP	spleen	26.3
+consensus	ENSG00000197971	MBP	stomach	16.3
+consensus	ENSG00000197971	MBP	testis	5.8
+consensus	ENSG00000197971	MBP	thymus	11.7
+consensus	ENSG00000197971	MBP	thyroid gland	20.7
+consensus	ENSG00000197971	MBP	tongue	76.2
+consensus	ENSG00000197971	MBP	tonsil	26.1
+consensus	ENSG00000197971	MBP	urinary bladder	15.9
+consensus	ENSG00000197971	MBP	vagina	18.7
+consensus	ENSG00000156738	MS4A1	adipose tissue	3.3
+consensus	ENSG00000156738	MS4A1	adrenal gland	0.4
+consensus	ENSG00000156738	MS4A1	amygdala	0.1
+consensus	ENSG00000156738	MS4A1	appendix	141.1
+consensus	ENSG00000156738	MS4A1	basal ganglia	0.1
+consensus	ENSG00000156738	MS4A1	blood vessel	7.0
+consensus	ENSG00000156738	MS4A1	bone marrow	18.0
+consensus	ENSG00000156738	MS4A1	breast	0.8
+consensus	ENSG00000156738	MS4A1	cerebellum	0.1
+consensus	ENSG00000156738	MS4A1	cerebral cortex	0.1
+consensus	ENSG00000156738	MS4A1	cervix	1.0
+consensus	ENSG00000156738	MS4A1	choroid plexus	0.0
+consensus	ENSG00000156738	MS4A1	colon	8.5
+consensus	ENSG00000156738	MS4A1	duodenum	2.9
+consensus	ENSG00000156738	MS4A1	endometrium	2.0
+consensus	ENSG00000156738	MS4A1	epididymis	0.9
+consensus	ENSG00000156738	MS4A1	esophagus	4.2
+consensus	ENSG00000156738	MS4A1	fallopian tube	0.4
+consensus	ENSG00000156738	MS4A1	gallbladder	7.9
+consensus	ENSG00000156738	MS4A1	heart muscle	1.6
+consensus	ENSG00000156738	MS4A1	hippocampal formation	0.2
+consensus	ENSG00000156738	MS4A1	hypothalamus	0.1
+consensus	ENSG00000156738	MS4A1	kidney	3.7
+consensus	ENSG00000156738	MS4A1	liver	2.3
+consensus	ENSG00000156738	MS4A1	lung	4.3
+consensus	ENSG00000156738	MS4A1	lymph node	467.3
+consensus	ENSG00000156738	MS4A1	midbrain	0.2
+consensus	ENSG00000156738	MS4A1	ovary	0.1
+consensus	ENSG00000156738	MS4A1	pancreas	0.2
+consensus	ENSG00000156738	MS4A1	parathyroid gland	6.9
+consensus	ENSG00000156738	MS4A1	pituitary gland	0.4
+consensus	ENSG00000156738	MS4A1	placenta	0.8
+consensus	ENSG00000156738	MS4A1	prostate	4.8
+consensus	ENSG00000156738	MS4A1	rectum	9.9
+consensus	ENSG00000156738	MS4A1	retina	0.0
+consensus	ENSG00000156738	MS4A1	salivary gland	8.4
+consensus	ENSG00000156738	MS4A1	seminal vesicle	0.3
+consensus	ENSG00000156738	MS4A1	skeletal muscle	0.7
+consensus	ENSG00000156738	MS4A1	skin	0.1
+consensus	ENSG00000156738	MS4A1	small intestine	125.7
+consensus	ENSG00000156738	MS4A1	smooth muscle	1.1
+consensus	ENSG00000156738	MS4A1	spinal cord	0.3
+consensus	ENSG00000156738	MS4A1	spleen	247.4
+consensus	ENSG00000156738	MS4A1	stomach	17.3
+consensus	ENSG00000156738	MS4A1	testis	1.1
+consensus	ENSG00000156738	MS4A1	thymus	47.2
+consensus	ENSG00000156738	MS4A1	thyroid gland	7.9
+consensus	ENSG00000156738	MS4A1	tongue	0.1
+consensus	ENSG00000156738	MS4A1	tonsil	631.0
+consensus	ENSG00000156738	MS4A1	urinary bladder	15.3
+consensus	ENSG00000156738	MS4A1	vagina	1.3
+consensus	ENSG00000117394	SLC2A1	adipose tissue	5.7
+consensus	ENSG00000117394	SLC2A1	adrenal gland	3.8
+consensus	ENSG00000117394	SLC2A1	amygdala	22.3
+consensus	ENSG00000117394	SLC2A1	appendix	2.4
+consensus	ENSG00000117394	SLC2A1	basal ganglia	37.4
+consensus	ENSG00000117394	SLC2A1	blood vessel	17.8
+consensus	ENSG00000117394	SLC2A1	bone marrow	39.3
+consensus	ENSG00000117394	SLC2A1	breast	6.2
+consensus	ENSG00000117394	SLC2A1	cerebellum	9.2
+consensus	ENSG00000117394	SLC2A1	cerebral cortex	20.7
+consensus	ENSG00000117394	SLC2A1	cervix	28.6
+consensus	ENSG00000117394	SLC2A1	choroid plexus	43.8
+consensus	ENSG00000117394	SLC2A1	colon	5.4
+consensus	ENSG00000117394	SLC2A1	duodenum	0.4
+consensus	ENSG00000117394	SLC2A1	endometrium	4.8
+consensus	ENSG00000117394	SLC2A1	epididymis	1.3
+consensus	ENSG00000117394	SLC2A1	esophagus	50.7
+consensus	ENSG00000117394	SLC2A1	fallopian tube	6.7
+consensus	ENSG00000117394	SLC2A1	gallbladder	1.6
+consensus	ENSG00000117394	SLC2A1	heart muscle	11.1
+consensus	ENSG00000117394	SLC2A1	hippocampal formation	28.8
+consensus	ENSG00000117394	SLC2A1	hypothalamus	25.6
+consensus	ENSG00000117394	SLC2A1	kidney	11.8
+consensus	ENSG00000117394	SLC2A1	liver	1.4
+consensus	ENSG00000117394	SLC2A1	lung	2.5
+consensus	ENSG00000117394	SLC2A1	lymph node	1.0
+consensus	ENSG00000117394	SLC2A1	midbrain	32.3
+consensus	ENSG00000117394	SLC2A1	ovary	4.2
+consensus	ENSG00000117394	SLC2A1	pancreas	2.3
+consensus	ENSG00000117394	SLC2A1	parathyroid gland	4.2
+consensus	ENSG00000117394	SLC2A1	pituitary gland	3.5
+consensus	ENSG00000117394	SLC2A1	placenta	92.7
+consensus	ENSG00000117394	SLC2A1	prostate	4.3
+consensus	ENSG00000117394	SLC2A1	rectum	0.9
+consensus	ENSG00000117394	SLC2A1	retina	22.9
+consensus	ENSG00000117394	SLC2A1	salivary gland	15.2
+consensus	ENSG00000117394	SLC2A1	seminal vesicle	4.9
+consensus	ENSG00000117394	SLC2A1	skeletal muscle	1.9
+consensus	ENSG00000117394	SLC2A1	skin	61.2
+consensus	ENSG00000117394	SLC2A1	small intestine	3.6
+consensus	ENSG00000117394	SLC2A1	smooth muscle	0.4
+consensus	ENSG00000117394	SLC2A1	spinal cord	27.4
+consensus	ENSG00000117394	SLC2A1	spleen	6.0
+consensus	ENSG00000117394	SLC2A1	stomach	8.0
+consensus	ENSG00000117394	SLC2A1	testis	1.7
+consensus	ENSG00000117394	SLC2A1	thymus	0.9
+consensus	ENSG00000117394	SLC2A1	thyroid gland	2.4
+consensus	ENSG00000117394	SLC2A1	tongue	1.4
+consensus	ENSG00000117394	SLC2A1	tonsil	2.0
+consensus	ENSG00000117394	SLC2A1	urinary bladder	15.8
+consensus	ENSG00000117394	SLC2A1	vagina	46.0
+consensus	ENSG00000157005	SST	adipose tissue	5.2
+consensus	ENSG00000157005	SST	adrenal gland	40.5
+consensus	ENSG00000157005	SST	amygdala	156.2
+consensus	ENSG00000157005	SST	appendix	4.4
+consensus	ENSG00000157005	SST	basal ganglia	279.2
+consensus	ENSG00000157005	SST	blood vessel	0.3
+consensus	ENSG00000157005	SST	bone marrow	4.0
+consensus	ENSG00000157005	SST	breast	0.4
+consensus	ENSG00000157005	SST	cerebellum	0.4
+consensus	ENSG00000157005	SST	cerebral cortex	160.3
+consensus	ENSG00000157005	SST	cervix	0.5
+consensus	ENSG00000157005	SST	choroid plexus	8.0
+consensus	ENSG00000157005	SST	colon	29.8
+consensus	ENSG00000157005	SST	duodenum	363.7
+consensus	ENSG00000157005	SST	endometrium	0.7
+consensus	ENSG00000157005	SST	epididymis	0.1
+consensus	ENSG00000157005	SST	esophagus	1.5
+consensus	ENSG00000157005	SST	fallopian tube	0.3
+consensus	ENSG00000157005	SST	gallbladder	1.1
+consensus	ENSG00000157005	SST	heart muscle	1.2
+consensus	ENSG00000157005	SST	hippocampal formation	100.0
+consensus	ENSG00000157005	SST	hypothalamus	622.0
+consensus	ENSG00000157005	SST	kidney	5.7
+consensus	ENSG00000157005	SST	liver	0.3
+consensus	ENSG00000157005	SST	lung	0.3
+consensus	ENSG00000157005	SST	lymph node	1.4
+consensus	ENSG00000157005	SST	midbrain	32.8
+consensus	ENSG00000157005	SST	ovary	2.1
+consensus	ENSG00000157005	SST	pancreas	479.7
+consensus	ENSG00000157005	SST	parathyroid gland	0.0
+consensus	ENSG00000157005	SST	pituitary gland	8.7
+consensus	ENSG00000157005	SST	placenta	0.1
+consensus	ENSG00000157005	SST	prostate	1.1
+consensus	ENSG00000157005	SST	rectum	22.4
+consensus	ENSG00000157005	SST	retina	5.8
+consensus	ENSG00000157005	SST	salivary gland	0.1
+consensus	ENSG00000157005	SST	seminal vesicle	20.4
+consensus	ENSG00000157005	SST	skeletal muscle	0.1
+consensus	ENSG00000157005	SST	skin	8.4
+consensus	ENSG00000157005	SST	small intestine	125.4
+consensus	ENSG00000157005	SST	smooth muscle	2.6
+consensus	ENSG00000157005	SST	spinal cord	94.3
+consensus	ENSG00000157005	SST	spleen	0.2
+consensus	ENSG00000157005	SST	stomach	416.6
+consensus	ENSG00000157005	SST	testis	0.2
+consensus	ENSG00000157005	SST	thymus	1.0
+consensus	ENSG00000157005	SST	thyroid gland	1.0
+consensus	ENSG00000157005	SST	tongue	0.0
+consensus	ENSG00000157005	SST	tonsil	0.0
+consensus	ENSG00000157005	SST	urinary bladder	6.9
+consensus	ENSG00000157005	SST	vagina	1.1
+consensus	ENSG00000141510	TP53	adipose tissue	18.2
+consensus	ENSG00000141510	TP53	adrenal gland	13.1
+consensus	ENSG00000141510	TP53	amygdala	6.7
+consensus	ENSG00000141510	TP53	appendix	25.5
+consensus	ENSG00000141510	TP53	basal ganglia	6.8
+consensus	ENSG00000141510	TP53	blood vessel	16.6
+consensus	ENSG00000141510	TP53	bone marrow	18.4
+consensus	ENSG00000141510	TP53	breast	21.1
+consensus	ENSG00000141510	TP53	cerebellum	2.3
+consensus	ENSG00000141510	TP53	cerebral cortex	12.3
+consensus	ENSG00000141510	TP53	cervix	19.6
+consensus	ENSG00000141510	TP53	choroid plexus	9.1
+consensus	ENSG00000141510	TP53	colon	27.1
+consensus	ENSG00000141510	TP53	duodenum	17.8
+consensus	ENSG00000141510	TP53	endometrium	22.8
+consensus	ENSG00000141510	TP53	epididymis	12.0
+consensus	ENSG00000141510	TP53	esophagus	27.1
+consensus	ENSG00000141510	TP53	fallopian tube	29.5
+consensus	ENSG00000141510	TP53	gallbladder	12.4
+consensus	ENSG00000141510	TP53	heart muscle	10.7
+consensus	ENSG00000141510	TP53	hippocampal formation	5.1
+consensus	ENSG00000141510	TP53	hypothalamus	4.7
+consensus	ENSG00000141510	TP53	kidney	11.8
+consensus	ENSG00000141510	TP53	liver	15.6
+consensus	ENSG00000141510	TP53	lung	14.3
+consensus	ENSG00000141510	TP53	lymph node	32.4
+consensus	ENSG00000141510	TP53	midbrain	6.7
+consensus	ENSG00000141510	TP53	ovary	26.4
+consensus	ENSG00000141510	TP53	pancreas	17.2
+consensus	ENSG00000141510	TP53	parathyroid gland	8.8
+consensus	ENSG00000141510	TP53	pituitary gland	7.2
+consensus	ENSG00000141510	TP53	placenta	22.0
+consensus	ENSG00000141510	TP53	prostate	16.7
+consensus	ENSG00000141510	TP53	rectum	25.8
+consensus	ENSG00000141510	TP53	retina	3.8
+consensus	ENSG00000141510	TP53	salivary gland	18.2
+consensus	ENSG00000141510	TP53	seminal vesicle	14.4
+consensus	ENSG00000141510	TP53	skeletal muscle	11.6
+consensus	ENSG00000141510	TP53	skin	35.4
+consensus	ENSG00000141510	TP53	small intestine	19.2
+consensus	ENSG00000141510	TP53	smooth muscle	23.0
+consensus	ENSG00000141510	TP53	spinal cord	5.1
+consensus	ENSG00000141510	TP53	spleen	29.3
+consensus	ENSG00000141510	TP53	stomach	21.3
+consensus	ENSG00000141510	TP53	testis	9.8
+consensus	ENSG00000141510	TP53	thymus	44.0
+consensus	ENSG00000141510	TP53	thyroid gland	16.3
+consensus	ENSG00000141510	TP53	tongue	5.7
+consensus	ENSG00000141510	TP53	tonsil	42.5
+consensus	ENSG00000141510	TP53	urinary bladder	19.4
+consensus	ENSG00000141510	TP53	vagina	18.8
+consensus	ENSG00000112715	VEGFA	adipose tissue	143.6
+consensus	ENSG00000112715	VEGFA	adrenal gland	52.2
+consensus	ENSG00000112715	VEGFA	amygdala	21.7
+consensus	ENSG00000112715	VEGFA	appendix	34.9
+consensus	ENSG00000112715	VEGFA	basal ganglia	19.0
+consensus	ENSG00000112715	VEGFA	blood vessel	60.3
+consensus	ENSG00000112715	VEGFA	bone marrow	43.4
+consensus	ENSG00000112715	VEGFA	breast	87.7
+consensus	ENSG00000112715	VEGFA	cerebellum	19.6
+consensus	ENSG00000112715	VEGFA	cerebral cortex	20.5
+consensus	ENSG00000112715	VEGFA	cervix	49.6
+consensus	ENSG00000112715	VEGFA	choroid plexus	40.4
+consensus	ENSG00000112715	VEGFA	colon	31.0
+consensus	ENSG00000112715	VEGFA	duodenum	48.6
+consensus	ENSG00000112715	VEGFA	endometrium	89.7
+consensus	ENSG00000112715	VEGFA	epididymis	10.0
+consensus	ENSG00000112715	VEGFA	esophagus	56.7
+consensus	ENSG00000112715	VEGFA	fallopian tube	43.5
+consensus	ENSG00000112715	VEGFA	gallbladder	76.4
+consensus	ENSG00000112715	VEGFA	heart muscle	202.6
+consensus	ENSG00000112715	VEGFA	hippocampal formation	21.1
+consensus	ENSG00000112715	VEGFA	hypothalamus	15.9
+consensus	ENSG00000112715	VEGFA	kidney	105.1
+consensus	ENSG00000112715	VEGFA	liver	202.0
+consensus	ENSG00000112715	VEGFA	lung	85.8
+consensus	ENSG00000112715	VEGFA	lymph node	8.8
+consensus	ENSG00000112715	VEGFA	midbrain	16.8
+consensus	ENSG00000112715	VEGFA	ovary	21.9
+consensus	ENSG00000112715	VEGFA	pancreas	65.8
+consensus	ENSG00000112715	VEGFA	parathyroid gland	100.2
+consensus	ENSG00000112715	VEGFA	pituitary gland	21.3
+consensus	ENSG00000112715	VEGFA	placenta	44.0
+consensus	ENSG00000112715	VEGFA	prostate	113.6
+consensus	ENSG00000112715	VEGFA	rectum	20.4
+consensus	ENSG00000112715	VEGFA	retina	213.3
+consensus	ENSG00000112715	VEGFA	salivary gland	30.8
+consensus	ENSG00000112715	VEGFA	seminal vesicle	16.7
+consensus	ENSG00000112715	VEGFA	skeletal muscle	211.8
+consensus	ENSG00000112715	VEGFA	skin	42.1
+consensus	ENSG00000112715	VEGFA	small intestine	42.8
+consensus	ENSG00000112715	VEGFA	smooth muscle	53.6
+consensus	ENSG00000112715	VEGFA	spinal cord	16.7
+consensus	ENSG00000112715	VEGFA	spleen	64.0
+consensus	ENSG00000112715	VEGFA	stomach	61.6
+consensus	ENSG00000112715	VEGFA	testis	5.0
+consensus	ENSG00000112715	VEGFA	thymus	5.3
+consensus	ENSG00000112715	VEGFA	thyroid gland	255.6
+consensus	ENSG00000112715	VEGFA	tongue	143.7
+consensus	ENSG00000112715	VEGFA	tonsil	9.0
+consensus	ENSG00000112715	VEGFA	urinary bladder	115.2
+consensus	ENSG00000112715	VEGFA	vagina	63.1
+gtex	ENSG00000130234	ACE2	adipose tissue	9.0
+gtex	ENSG00000130234	ACE2	adrenal gland	0.5
+gtex	ENSG00000130234	ACE2	amygdala	0.0
+gtex	ENSG00000130234	ACE2	basal ganglia	0.0
+gtex	ENSG00000130234	ACE2	blood vessel	2.0
+gtex	ENSG00000130234	ACE2	breast	4.5
+gtex	ENSG00000130234	ACE2	cerebellum	0.0
+gtex	ENSG00000130234	ACE2	cerebral cortex	0.0
+gtex	ENSG00000130234	ACE2	cervix	0.9
+gtex	ENSG00000130234	ACE2	colon	5.2
+gtex	ENSG00000130234	ACE2	endometrium	0.4
+gtex	ENSG00000130234	ACE2	esophagus	1.7
+gtex	ENSG00000130234	ACE2	fallopian tube	1.9
+gtex	ENSG00000130234	ACE2	heart muscle	14.4
+gtex	ENSG00000130234	ACE2	hippocampal formation	0.0
+gtex	ENSG00000130234	ACE2	hypothalamus	0.0
+gtex	ENSG00000130234	ACE2	kidney	11.1
+gtex	ENSG00000130234	ACE2	liver	1.2
+gtex	ENSG00000130234	ACE2	lung	0.7
+gtex	ENSG00000130234	ACE2	midbrain	0.2
+gtex	ENSG00000130234	ACE2	ovary	1.5
+gtex	ENSG00000130234	ACE2	pancreas	2.4
+gtex	ENSG00000130234	ACE2	pituitary gland	0.1
+gtex	ENSG00000130234	ACE2	prostate	0.4
+gtex	ENSG00000130234	ACE2	retina	0.3
+gtex	ENSG00000130234	ACE2	salivary gland	1.3
+gtex	ENSG00000130234	ACE2	skeletal muscle	0.7
+gtex	ENSG00000130234	ACE2	skin	0.3
+gtex	ENSG00000130234	ACE2	small intestine	47.1
+gtex	ENSG00000130234	ACE2	spinal cord	0.0
+gtex	ENSG00000130234	ACE2	spleen	0.0
+gtex	ENSG00000130234	ACE2	stomach	0.4
+gtex	ENSG00000130234	ACE2	testis	18.8
+gtex	ENSG00000130234	ACE2	thyroid gland	4.6
+gtex	ENSG00000130234	ACE2	urinary bladder	0.4
+gtex	ENSG00000130234	ACE2	vagina	1.1
+gtex	ENSG00000075624	ACTB	adipose tissue	2768.0
+gtex	ENSG00000075624	ACTB	adrenal gland	1541.7
+gtex	ENSG00000075624	ACTB	amygdala	1927.9
+gtex	ENSG00000075624	ACTB	basal ganglia	1954.1
+gtex	ENSG00000075624	ACTB	blood vessel	8352.8
+gtex	ENSG00000075624	ACTB	breast	2256.7
+gtex	ENSG00000075624	ACTB	cerebellum	859.8
+gtex	ENSG00000075624	ACTB	cerebral cortex	1796.2
+gtex	ENSG00000075624	ACTB	cervix	2452.1
+gtex	ENSG00000075624	ACTB	colon	7818.9
+gtex	ENSG00000075624	ACTB	endometrium	5204.1
+gtex	ENSG00000075624	ACTB	esophagus	3478.0
+gtex	ENSG00000075624	ACTB	fallopian tube	3411.1
+gtex	ENSG00000075624	ACTB	heart muscle	1326.2
+gtex	ENSG00000075624	ACTB	hippocampal formation	2283.4
+gtex	ENSG00000075624	ACTB	hypothalamus	1463.6
+gtex	ENSG00000075624	ACTB	kidney	1740.6
+gtex	ENSG00000075624	ACTB	liver	1895.2
+gtex	ENSG00000075624	ACTB	lung	3202.3
+gtex	ENSG00000075624	ACTB	midbrain	1910.1
+gtex	ENSG00000075624	ACTB	ovary	1843.2
+gtex	ENSG00000075624	ACTB	pancreas	1009.2
+gtex	ENSG00000075624	ACTB	pituitary gland	921.3
+gtex	ENSG00000075624	ACTB	prostate	2661.0
+gtex	ENSG00000075624	ACTB	retina	452.4
+gtex	ENSG00000075624	ACTB	salivary gland	1604.9
+gtex	ENSG00000075624	ACTB	skeletal muscle	518.3
+gtex	ENSG00000075624	ACTB	skin	1697.0
+gtex	ENSG00000075624	ACTB	small intestine	3188.9
+gtex	ENSG00000075624	ACTB	spinal cord	2608.5
+gtex	ENSG00000075624	ACTB	spleen	3352.9
+gtex	ENSG00000075624	ACTB	stomach	3342.2
+gtex	ENSG00000075624	ACTB	testis	621.3
+gtex	ENSG00000075624	ACTB	thyroid gland	1328.3
+gtex	ENSG00000075624	ACTB	urinary bladder	4144.2
+gtex	ENSG00000075624	ACTB	vagina	2531.9
+gtex	ENSG00000163631	ALB	adipose tissue	8.4
+gtex	ENSG00000163631	ALB	adrenal gland	3.7
+gtex	ENSG00000163631	ALB	amygdala	2.4
+gtex	ENSG00000163631	ALB	basal ganglia	4.5
+gtex	ENSG00000163631	ALB	blood vessel	3.8
+gtex	ENSG00000163631	ALB	breast	5.2
+gtex	ENSG00000163631	ALB	cerebellum	4.2
+gtex	ENSG00000163631	ALB	cerebral cortex	2.4
+gtex	ENSG00000163631	ALB	cervix	1.0
+gtex	ENSG00000163631	ALB	colon	2.2
+gtex	ENSG00000163631	ALB	endometrium	2.1
+gtex	ENSG00000163631	ALB	esophagus	2.4
+gtex	ENSG00000163631	ALB	fallopian tube	2.2
+gtex	ENSG00000163631	ALB	heart muscle	7.3
+gtex	ENSG00000163631	ALB	hippocampal formation	2.9
+gtex	ENSG00000163631	ALB	hypothalamus	3.2
+gtex	ENSG00000163631	ALB	kidney	137.1
+gtex	ENSG00000163631	ALB	liver	60543.2
+gtex	ENSG00000163631	ALB	lung	6.2
+gtex	ENSG00000163631	ALB	midbrain	2.2
+gtex	ENSG00000163631	ALB	ovary	2.4
+gtex	ENSG00000163631	ALB	pancreas	701.1
+gtex	ENSG00000163631	ALB	pituitary gland	3.4
+gtex	ENSG00000163631	ALB	prostate	2.1
+gtex	ENSG00000163631	ALB	retina	0.4
+gtex	ENSG00000163631	ALB	salivary gland	1.9
+gtex	ENSG00000163631	ALB	skeletal muscle	1.8
+gtex	ENSG00000163631	ALB	skin	3.0
+gtex	ENSG00000163631	ALB	small intestine	2.1
+gtex	ENSG00000163631	ALB	spinal cord	2.1
+gtex	ENSG00000163631	ALB	spleen	31.2
+gtex	ENSG00000163631	ALB	stomach	9.1
+gtex	ENSG00000163631	ALB	testis	3.7
+gtex	ENSG00000163631	ALB	thyroid gland	3.3
+gtex	ENSG00000163631	ALB	urinary bladder	0.5
+gtex	ENSG00000163631	ALB	vagina	1.6
+gtex	ENSG00000130203	APOE	adipose tissue	390.3
+gtex	ENSG00000130203	APOE	adrenal gland	3391.3
+gtex	ENSG00000130203	APOE	amygdala	1946.7
+gtex	ENSG00000130203	APOE	basal ganglia	2691.3
+gtex	ENSG00000130203	APOE	blood vessel	282.2
+gtex	ENSG00000130203	APOE	breast	317.2
+gtex	ENSG00000130203	APOE	cerebellum	607.1
+gtex	ENSG00000130203	APOE	cerebral cortex	1195.4
+gtex	ENSG00000130203	APOE	cervix	219.7
+gtex	ENSG00000130203	APOE	colon	133.4
+gtex	ENSG00000130203	APOE	endometrium	61.0
+gtex	ENSG00000130203	APOE	esophagus	37.0
+gtex	ENSG00000130203	APOE	fallopian tube	56.7
+gtex	ENSG00000130203	APOE	heart muscle	176.7
+gtex	ENSG00000130203	APOE	hippocampal formation	1116.0
+gtex	ENSG00000130203	APOE	hypothalamus	1368.4
+gtex	ENSG00000130203	APOE	kidney	1075.1
+gtex	ENSG00000130203	APOE	liver	6533.9
+gtex	ENSG00000130203	APOE	lung	257.1
+gtex	ENSG00000130203	APOE	midbrain	2714.9
+gtex	ENSG00000130203	APOE	ovary	503.9
+gtex	ENSG00000130203	APOE	pancreas	39.6
+gtex	ENSG00000130203	APOE	pituitary gland	107.7
+gtex	ENSG00000130203	APOE	prostate	46.7
+gtex	ENSG00000130203	APOE	retina	81.4
+gtex	ENSG00000130203	APOE	salivary gland	78.3
+gtex	ENSG00000130203	APOE	skeletal muscle	20.8
+gtex	ENSG00000130203	APOE	skin	370.0
+gtex	ENSG00000130203	APOE	small intestine	160.3
+gtex	ENSG00000130203	APOE	spinal cord	756.0
+gtex	ENSG00000130203	APOE	spleen	545.6
+gtex	ENSG00000130203	APOE	stomach	48.4
+gtex	ENSG00000130203	APOE	testis	137.5
+gtex	ENSG00000130203	APOE	thyroid gland	149.0
+gtex	ENSG00000130203	APOE	urinary bladder	68.0
+gtex	ENSG00000130203	APOE	vagina	126.8
+gtex	ENSG00000012048	BRCA1	adipose tissue	1.5
+gtex	ENSG00000012048	BRCA1	adrenal gland	1.3
+gtex	ENSG00000012048	BRCA1	amygdala	2.2
+gtex	ENSG00000012048	BRCA1	basal ganglia	2.7
+gtex	ENSG00000012048	BRCA1	blood vessel	1.3
+gtex	ENSG00000012048	BRCA1	breast	1.4
+gtex	ENSG00000012048	BRCA1	cerebellum	0.8
+gtex	ENSG00000012048	BRCA1	cerebral cortex	1.6
+gtex	ENSG00000012048	BRCA1	cervix	2.2
+gtex	ENSG00000012048	BRCA1	colon	2.7
+gtex	ENSG00000012048	BRCA1	endometrium	1.9
+gtex	ENSG00000012048	BRCA1	esophagus	3.8
+gtex	ENSG00000012048	BRCA1	fallopian tube	2.1
+gtex	ENSG00000012048	BRCA1	heart muscle	2.6
+gtex	ENSG00000012048	BRCA1	hippocampal formation	2.4
+gtex	ENSG00000012048	BRCA1	hypothalamus	2.0
+gtex	ENSG00000012048	BRCA1	kidney	1.0
+gtex	ENSG00000012048	BRCA1	liver	4.1
+gtex	ENSG00000012048	BRCA1	lung	1.7
+gtex	ENSG00000012048	BRCA1	midbrain	3.3
+gtex	ENSG00000012048	BRCA1	ovary	1.5
+gtex	ENSG00000012048	BRCA1	pancreas	1.6
+gtex	ENSG00000012048	BRCA1	pituitary gland	2.7
+gtex	ENSG00000012048	BRCA1	prostate	1.4
+gtex	ENSG00000012048	BRCA1	retina	6.9
+gtex	ENSG00000012048	BRCA1	salivary gland	1.7
+gtex	ENSG00000012048	BRCA1	skeletal muscle	2.2
+gtex	ENSG00000012048	BRCA1	skin	2.3
+gtex	ENSG00000012048	BRCA1	small intestine	2.6
+gtex	ENSG00000012048	BRCA1	spinal cord	3.9
+gtex	ENSG00000012048	BRCA1	spleen	3.0
+gtex	ENSG00000012048	BRCA1	stomach	2.0
+gtex	ENSG00000012048	BRCA1	testis	9.0
+gtex	ENSG00000012048	BRCA1	thyroid gland	5.4
+gtex	ENSG00000012048	BRCA1	urinary bladder	1.8
+gtex	ENSG00000012048	BRCA1	vagina	2.2
+gtex	ENSG00000139618	BRCA2	adipose tissue	0.1
+gtex	ENSG00000139618	BRCA2	adrenal gland	0.0
+gtex	ENSG00000139618	BRCA2	amygdala	0.0
+gtex	ENSG00000139618	BRCA2	basal ganglia	0.0
+gtex	ENSG00000139618	BRCA2	blood vessel	0.1
+gtex	ENSG00000139618	BRCA2	breast	0.1
+gtex	ENSG00000139618	BRCA2	cerebellum	0.0
+gtex	ENSG00000139618	BRCA2	cerebral cortex	0.0
+gtex	ENSG00000139618	BRCA2	cervix	0.1
+gtex	ENSG00000139618	BRCA2	colon	0.1
+gtex	ENSG00000139618	BRCA2	endometrium	0.0
+gtex	ENSG00000139618	BRCA2	esophagus	0.3
+gtex	ENSG00000139618	BRCA2	fallopian tube	0.0
+gtex	ENSG00000139618	BRCA2	heart muscle	0.0
+gtex	ENSG00000139618	BRCA2	hippocampal formation	0.0
+gtex	ENSG00000139618	BRCA2	hypothalamus	0.0
+gtex	ENSG00000139618	BRCA2	kidney	0.0
+gtex	ENSG00000139618	BRCA2	liver	0.1
+gtex	ENSG00000139618	BRCA2	lung	0.2
+gtex	ENSG00000139618	BRCA2	midbrain	0.0
+gtex	ENSG00000139618	BRCA2	ovary	0.0
+gtex	ENSG00000139618	BRCA2	pancreas	0.0
+gtex	ENSG00000139618	BRCA2	pituitary gland	0.0
+gtex	ENSG00000139618	BRCA2	prostate	0.0
+gtex	ENSG00000139618	BRCA2	retina	0.0
+gtex	ENSG00000139618	BRCA2	salivary gland	0.1
+gtex	ENSG00000139618	BRCA2	skeletal muscle	0.0
+gtex	ENSG00000139618	BRCA2	skin	0.1
+gtex	ENSG00000139618	BRCA2	small intestine	0.3
+gtex	ENSG00000139618	BRCA2	spinal cord	0.0
+gtex	ENSG00000139618	BRCA2	spleen	0.4
+gtex	ENSG00000139618	BRCA2	stomach	0.1
+gtex	ENSG00000139618	BRCA2	testis	1.2
+gtex	ENSG00000139618	BRCA2	thyroid gland	0.0
+gtex	ENSG00000139618	BRCA2	urinary bladder	0.0
+gtex	ENSG00000139618	BRCA2	vagina	0.1
+gtex	ENSG00000167286	CD3D	adipose tissue	4.4
+gtex	ENSG00000167286	CD3D	adrenal gland	1.1
+gtex	ENSG00000167286	CD3D	amygdala	0.4
+gtex	ENSG00000167286	CD3D	basal ganglia	0.4
+gtex	ENSG00000167286	CD3D	blood vessel	3.7
+gtex	ENSG00000167286	CD3D	breast	2.4
+gtex	ENSG00000167286	CD3D	cerebellum	0.1
+gtex	ENSG00000167286	CD3D	cerebral cortex	0.2
+gtex	ENSG00000167286	CD3D	cervix	5.2
+gtex	ENSG00000167286	CD3D	colon	8.5
+gtex	ENSG00000167286	CD3D	endometrium	1.4
+gtex	ENSG00000167286	CD3D	esophagus	4.7
+gtex	ENSG00000167286	CD3D	fallopian tube	2.7
+gtex	ENSG00000167286	CD3D	heart muscle	1.2
+gtex	ENSG00000167286	CD3D	hippocampal formation	0.5
+gtex	ENSG00000167286	CD3D	hypothalamus	0.7
+gtex	ENSG00000167286	CD3D	kidney	2.8
+gtex	ENSG00000167286	CD3D	liver	3.1
+gtex	ENSG00000167286	CD3D	lung	10.5
+gtex	ENSG00000167286	CD3D	midbrain	0.7
+gtex	ENSG00000167286	CD3D	ovary	0.7
+gtex	ENSG00000167286	CD3D	pancreas	1.4
+gtex	ENSG00000167286	CD3D	pituitary gland	0.9
+gtex	ENSG00000167286	CD3D	prostate	3.5
+gtex	ENSG00000167286	CD3D	retina	0.1
+gtex	ENSG00000167286	CD3D	salivary gland	3.0
+gtex	ENSG00000167286	CD3D	skeletal muscle	0.6
+gtex	ENSG00000167286	CD3D	skin	1.9
+gtex	ENSG00000167286	CD3D	small intestine	34.2
+gtex	ENSG00000167286	CD3D	spinal cord	2.3
+gtex	ENSG00000167286	CD3D	spleen	48.5
+gtex	ENSG00000167286	CD3D	stomach	6.6
+gtex	ENSG00000167286	CD3D	testis	0.5
+gtex	ENSG00000167286	CD3D	thyroid gland	4.7
+gtex	ENSG00000167286	CD3D	urinary bladder	5.1
+gtex	ENSG00000167286	CD3D	vagina	4.4
+gtex	ENSG00000153563	CD8A	adipose tissue	5.2
+gtex	ENSG00000153563	CD8A	adrenal gland	1.4
+gtex	ENSG00000153563	CD8A	amygdala	2.4
+gtex	ENSG00000153563	CD8A	basal ganglia	5.3
+gtex	ENSG00000153563	CD8A	blood vessel	3.0
+gtex	ENSG00000153563	CD8A	breast	2.5
+gtex	ENSG00000153563	CD8A	cerebellum	2.8
+gtex	ENSG00000153563	CD8A	cerebral cortex	2.4
+gtex	ENSG00000153563	CD8A	cervix	4.7
+gtex	ENSG00000153563	CD8A	colon	3.6
+gtex	ENSG00000153563	CD8A	endometrium	1.7
+gtex	ENSG00000153563	CD8A	esophagus	2.6
+gtex	ENSG00000153563	CD8A	fallopian tube	3.5
+gtex	ENSG00000153563	CD8A	heart muscle	1.5
+gtex	ENSG00000153563	CD8A	hippocampal formation	2.3
+gtex	ENSG00000153563	CD8A	hypothalamus	3.3
+gtex	ENSG00000153563	CD8A	kidney	1.6
+gtex	ENSG00000153563	CD8A	liver	2.9
+gtex	ENSG00000153563	CD8A	lung	10.2
+gtex	ENSG00000153563	CD8A	midbrain	2.0
+gtex	ENSG00000153563	CD8A	ovary	0.9
+gtex	ENSG00000153563	CD8A	pancreas	2.0
+gtex	ENSG00000153563	CD8A	pituitary gland	1.5
+gtex	ENSG00000153563	CD8A	prostate	3.3
+gtex	ENSG00000153563	CD8A	retina	0.0
+gtex	ENSG00000153563	CD8A	salivary gland	2.9
+gtex	ENSG00000153563	CD8A	skeletal muscle	0.3
+gtex	ENSG00000153563	CD8A	skin	1.3
+gtex	ENSG00000153563	CD8A	small intestine	16.6
+gtex	ENSG00000153563	CD8A	spinal cord	3.4
+gtex	ENSG00000153563	CD8A	spleen	94.1
+gtex	ENSG00000153563	CD8A	stomach	8.2
+gtex	ENSG00000153563	CD8A	testis	0.4
+gtex	ENSG00000153563	CD8A	thyroid gland	4.5
+gtex	ENSG00000153563	CD8A	urinary bladder	5.2
+gtex	ENSG00000153563	CD8A	vagina	4.0
+gtex	ENSG00000146648	EGFR	adipose tissue	22.8
+gtex	ENSG00000146648	EGFR	adrenal gland	10.6
+gtex	ENSG00000146648	EGFR	amygdala	6.1
+gtex	ENSG00000146648	EGFR	basal ganglia	8.5
+gtex	ENSG00000146648	EGFR	blood vessel	18.2
+gtex	ENSG00000146648	EGFR	breast	19.0
+gtex	ENSG00000146648	EGFR	cerebellum	2.7
+gtex	ENSG00000146648	EGFR	cerebral cortex	6.1
+gtex	ENSG00000146648	EGFR	cervix	18.9
+gtex	ENSG00000146648	EGFR	colon	11.2
+gtex	ENSG00000146648	EGFR	endometrium	10.6
+gtex	ENSG00000146648	EGFR	esophagus	20.8
+gtex	ENSG00000146648	EGFR	fallopian tube	11.1
+gtex	ENSG00000146648	EGFR	heart muscle	6.8
+gtex	ENSG00000146648	EGFR	hippocampal formation	3.8
+gtex	ENSG00000146648	EGFR	hypothalamus	3.3
+gtex	ENSG00000146648	EGFR	kidney	7.4
+gtex	ENSG00000146648	EGFR	liver	27.6
+gtex	ENSG00000146648	EGFR	lung	11.5
+gtex	ENSG00000146648	EGFR	midbrain	5.3
+gtex	ENSG00000146648	EGFR	ovary	9.9
+gtex	ENSG00000146648	EGFR	pancreas	11.2
+gtex	ENSG00000146648	EGFR	pituitary gland	2.6
+gtex	ENSG00000146648	EGFR	prostate	14.7
+gtex	ENSG00000146648	EGFR	retina	9.4
+gtex	ENSG00000146648	EGFR	salivary gland	20.7
+gtex	ENSG00000146648	EGFR	skeletal muscle	10.2
+gtex	ENSG00000146648	EGFR	skin	48.4
+gtex	ENSG00000146648	EGFR	small intestine	9.1
+gtex	ENSG00000146648	EGFR	spinal cord	1.7
+gtex	ENSG00000146648	EGFR	spleen	4.0
+gtex	ENSG00000146648	EGFR	stomach	10.1
+gtex	ENSG00000146648	EGFR	testis	2.9
+gtex	ENSG00000146648	EGFR	thyroid gland	11.6
+gtex	ENSG00000146648	EGFR	urinary bladder	12.6
+gtex	ENSG00000146648	EGFR	vagina	22.9
+gtex	ENSG00000141736	ERBB2	adipose tissue	12.2
+gtex	ENSG00000141736	ERBB2	adrenal gland	5.2
+gtex	ENSG00000141736	ERBB2	amygdala	11.8
+gtex	ENSG00000141736	ERBB2	basal ganglia	14.9
+gtex	ENSG00000141736	ERBB2	blood vessel	53.9
+gtex	ENSG00000141736	ERBB2	breast	28.4
+gtex	ENSG00000141736	ERBB2	cerebellum	4.4
+gtex	ENSG00000141736	ERBB2	cerebral cortex	10.0
+gtex	ENSG00000141736	ERBB2	cervix	45.2
+gtex	ENSG00000141736	ERBB2	colon	48.7
+gtex	ENSG00000141736	ERBB2	endometrium	24.7
+gtex	ENSG00000141736	ERBB2	esophagus	98.3
+gtex	ENSG00000141736	ERBB2	fallopian tube	30.6
+gtex	ENSG00000141736	ERBB2	heart muscle	53.9
+gtex	ENSG00000141736	ERBB2	hippocampal formation	7.4
+gtex	ENSG00000141736	ERBB2	hypothalamus	6.3
+gtex	ENSG00000141736	ERBB2	kidney	83.9
+gtex	ENSG00000141736	ERBB2	liver	30.7
+gtex	ENSG00000141736	ERBB2	lung	28.2
+gtex	ENSG00000141736	ERBB2	midbrain	12.7
+gtex	ENSG00000141736	ERBB2	ovary	22.8
+gtex	ENSG00000141736	ERBB2	pancreas	36.0
+gtex	ENSG00000141736	ERBB2	pituitary gland	17.0
+gtex	ENSG00000141736	ERBB2	prostate	53.4
+gtex	ENSG00000141736	ERBB2	retina	7.5
+gtex	ENSG00000141736	ERBB2	salivary gland	65.8
+gtex	ENSG00000141736	ERBB2	skeletal muscle	19.5
+gtex	ENSG00000141736	ERBB2	skin	87.2
+gtex	ENSG00000141736	ERBB2	small intestine	42.8
+gtex	ENSG00000141736	ERBB2	spinal cord	6.0
+gtex	ENSG00000141736	ERBB2	spleen	6.7
+gtex	ENSG00000141736	ERBB2	stomach	35.0
+gtex	ENSG00000141736	ERBB2	testis	11.3
+gtex	ENSG00000141736	ERBB2	thyroid gland	53.6
+gtex	ENSG00000141736	ERBB2	urinary bladder	35.5
+gtex	ENSG00000141736	ERBB2	vagina	50.7
+gtex	ENSG00000111640	GAPDH	adipose tissue	1132.5
+gtex	ENSG00000111640	GAPDH	adrenal gland	1660.2
+gtex	ENSG00000111640	GAPDH	amygdala	2881.2
+gtex	ENSG00000111640	GAPDH	basal ganglia	2835.7
+gtex	ENSG00000111640	GAPDH	blood vessel	2627.7
+gtex	ENSG00000111640	GAPDH	breast	960.2
+gtex	ENSG00000111640	GAPDH	cerebellum	1561.6
+gtex	ENSG00000111640	GAPDH	cerebral cortex	2988.7
+gtex	ENSG00000111640	GAPDH	cervix	1335.8
+gtex	ENSG00000111640	GAPDH	colon	1613.3
+gtex	ENSG00000111640	GAPDH	endometrium	1012.2
+gtex	ENSG00000111640	GAPDH	esophagus	2781.9
+gtex	ENSG00000111640	GAPDH	fallopian tube	1067.0
+gtex	ENSG00000111640	GAPDH	heart muscle	5080.5
+gtex	ENSG00000111640	GAPDH	hippocampal formation	2630.8
+gtex	ENSG00000111640	GAPDH	hypothalamus	2638.6
+gtex	ENSG00000111640	GAPDH	kidney	2284.0
+gtex	ENSG00000111640	GAPDH	liver	2360.5
+gtex	ENSG00000111640	GAPDH	lung	1068.6
+gtex	ENSG00000111640	GAPDH	midbrain	3175.7
+gtex	ENSG00000111640	GAPDH	ovary	999.1
+gtex	ENSG00000111640	GAPDH	pancreas	602.3
+gtex	ENSG00000111640	GAPDH	pituitary gland	1246.7
+gtex	ENSG00000111640	GAPDH	prostate	1127.6
+gtex	ENSG00000111640	GAPDH	retina	2216.3
+gtex	ENSG00000111640	GAPDH	salivary gland	1693.3
+gtex	ENSG00000111640	GAPDH	skeletal muscle	17452.8
+gtex	ENSG00000111640	GAPDH	skin	1614.5
+gtex	ENSG00000111640	GAPDH	small intestine	1337.8
+gtex	ENSG00000111640	GAPDH	spinal cord	2757.7
+gtex	ENSG00000111640	GAPDH	spleen	1127.2
+gtex	ENSG00000111640	GAPDH	stomach	1140.2
+gtex	ENSG00000111640	GAPDH	testis	646.8
+gtex	ENSG00000111640	GAPDH	thyroid gland	945.0
+gtex	ENSG00000111640	GAPDH	urinary bladder	1681.7
+gtex	ENSG00000111640	GAPDH	vagina	1610.2
+gtex	ENSG00000115263	GCG	adipose tissue	0.2
+gtex	ENSG00000115263	GCG	adrenal gland	0.0
+gtex	ENSG00000115263	GCG	amygdala	0.0
+gtex	ENSG00000115263	GCG	basal ganglia	0.1
+gtex	ENSG00000115263	GCG	blood vessel	0.0
+gtex	ENSG00000115263	GCG	breast	0.0
+gtex	ENSG00000115263	GCG	cerebellum	0.0
+gtex	ENSG00000115263	GCG	cerebral cortex	0.1
+gtex	ENSG00000115263	GCG	cervix	0.0
+gtex	ENSG00000115263	GCG	colon	6.9
+gtex	ENSG00000115263	GCG	endometrium	0.0
+gtex	ENSG00000115263	GCG	esophagus	0.0
+gtex	ENSG00000115263	GCG	fallopian tube	0.0
+gtex	ENSG00000115263	GCG	heart muscle	0.0
+gtex	ENSG00000115263	GCG	hippocampal formation	0.0
+gtex	ENSG00000115263	GCG	hypothalamus	0.0
+gtex	ENSG00000115263	GCG	kidney	0.0
+gtex	ENSG00000115263	GCG	liver	0.0
+gtex	ENSG00000115263	GCG	lung	0.0
+gtex	ENSG00000115263	GCG	midbrain	0.0
+gtex	ENSG00000115263	GCG	ovary	0.0
+gtex	ENSG00000115263	GCG	pancreas	651.4
+gtex	ENSG00000115263	GCG	pituitary gland	0.0
+gtex	ENSG00000115263	GCG	prostate	0.1
+gtex	ENSG00000115263	GCG	retina	0.0
+gtex	ENSG00000115263	GCG	salivary gland	0.0
+gtex	ENSG00000115263	GCG	skeletal muscle	0.0
+gtex	ENSG00000115263	GCG	skin	0.0
+gtex	ENSG00000115263	GCG	small intestine	54.5
+gtex	ENSG00000115263	GCG	spinal cord	0.0
+gtex	ENSG00000115263	GCG	spleen	0.2
+gtex	ENSG00000115263	GCG	stomach	0.5
+gtex	ENSG00000115263	GCG	testis	0.0
+gtex	ENSG00000115263	GCG	thyroid gland	0.0
+gtex	ENSG00000115263	GCG	urinary bladder	0.0
+gtex	ENSG00000115263	GCG	vagina	0.0
+gtex	ENSG00000131095	GFAP	adipose tissue	1.9
+gtex	ENSG00000131095	GFAP	adrenal gland	1.7
+gtex	ENSG00000131095	GFAP	amygdala	3620.2
+gtex	ENSG00000131095	GFAP	basal ganglia	3078.9
+gtex	ENSG00000131095	GFAP	blood vessel	3.7
+gtex	ENSG00000131095	GFAP	breast	3.3
+gtex	ENSG00000131095	GFAP	cerebellum	816.2
+gtex	ENSG00000131095	GFAP	cerebral cortex	2345.3
+gtex	ENSG00000131095	GFAP	cervix	1.2
+gtex	ENSG00000131095	GFAP	colon	1.3
+gtex	ENSG00000131095	GFAP	endometrium	0.3
+gtex	ENSG00000131095	GFAP	esophagus	0.6
+gtex	ENSG00000131095	GFAP	fallopian tube	0.7
+gtex	ENSG00000131095	GFAP	heart muscle	3.8
+gtex	ENSG00000131095	GFAP	hippocampal formation	4234.7
+gtex	ENSG00000131095	GFAP	hypothalamus	5882.0
+gtex	ENSG00000131095	GFAP	kidney	2.1
+gtex	ENSG00000131095	GFAP	liver	1.4
+gtex	ENSG00000131095	GFAP	lung	1.1
+gtex	ENSG00000131095	GFAP	midbrain	7623.8
+gtex	ENSG00000131095	GFAP	ovary	2.1
+gtex	ENSG00000131095	GFAP	pancreas	1.2
+gtex	ENSG00000131095	GFAP	pituitary gland	30.6
+gtex	ENSG00000131095	GFAP	prostate	1.1
+gtex	ENSG00000131095	GFAP	retina	128.3
+gtex	ENSG00000131095	GFAP	salivary gland	1.1
+gtex	ENSG00000131095	GFAP	skeletal muscle	1.9
+gtex	ENSG00000131095	GFAP	skin	1.7
+gtex	ENSG00000131095	GFAP	small intestine	0.6
+gtex	ENSG00000131095	GFAP	spinal cord	15929.3
+gtex	ENSG00000131095	GFAP	spleen	0.9
+gtex	ENSG00000131095	GFAP	stomach	1.0
+gtex	ENSG00000131095	GFAP	testis	0.8
+gtex	ENSG00000131095	GFAP	thyroid gland	1.5
+gtex	ENSG00000131095	GFAP	urinary bladder	1.0
+gtex	ENSG00000131095	GFAP	vagina	0.9
+gtex	ENSG00000254647	INS	adipose tissue	2.3
+gtex	ENSG00000254647	INS	adrenal gland	2.8
+gtex	ENSG00000254647	INS	amygdala	0.6
+gtex	ENSG00000254647	INS	basal ganglia	2.0
+gtex	ENSG00000254647	INS	blood vessel	2.3
+gtex	ENSG00000254647	INS	breast	0.8
+gtex	ENSG00000254647	INS	cerebellum	0.7
+gtex	ENSG00000254647	INS	cerebral cortex	1.9
+gtex	ENSG00000254647	INS	cervix	0.3
+gtex	ENSG00000254647	INS	colon	1.5
+gtex	ENSG00000254647	INS	endometrium	0.6
+gtex	ENSG00000254647	INS	esophagus	0.7
+gtex	ENSG00000254647	INS	fallopian tube	0.3
+gtex	ENSG00000254647	INS	heart muscle	1.3
+gtex	ENSG00000254647	INS	hippocampal formation	0.8
+gtex	ENSG00000254647	INS	hypothalamus	0.5
+gtex	ENSG00000254647	INS	kidney	0.7
+gtex	ENSG00000254647	INS	liver	1.9
+gtex	ENSG00000254647	INS	lung	0.4
+gtex	ENSG00000254647	INS	midbrain	1.1
+gtex	ENSG00000254647	INS	ovary	0.7
+gtex	ENSG00000254647	INS	pancreas	11162.3
+gtex	ENSG00000254647	INS	pituitary gland	0.4
+gtex	ENSG00000254647	INS	prostate	0.5
+gtex	ENSG00000254647	INS	retina	0.0
+gtex	ENSG00000254647	INS	salivary gland	0.4
+gtex	ENSG00000254647	INS	skeletal muscle	0.4
+gtex	ENSG00000254647	INS	skin	0.5
+gtex	ENSG00000254647	INS	small intestine	0.7
+gtex	ENSG00000254647	INS	spinal cord	0.2
+gtex	ENSG00000254647	INS	spleen	1.7
+gtex	ENSG00000254647	INS	stomach	0.9
+gtex	ENSG00000254647	INS	testis	0.4
+gtex	ENSG00000254647	INS	thyroid gland	1.4
+gtex	ENSG00000254647	INS	urinary bladder	0.1
+gtex	ENSG00000254647	INS	vagina	0.4
+gtex	ENSG00000197971	MBP	adipose tissue	26.6
+gtex	ENSG00000197971	MBP	adrenal gland	6.4
+gtex	ENSG00000197971	MBP	amygdala	15029.3
+gtex	ENSG00000197971	MBP	basal ganglia	13873.6
+gtex	ENSG00000197971	MBP	blood vessel	28.3
+gtex	ENSG00000197971	MBP	breast	19.8
+gtex	ENSG00000197971	MBP	cerebellum	1850.9
+gtex	ENSG00000197971	MBP	cerebral cortex	7549.7
+gtex	ENSG00000197971	MBP	cervix	13.4
+gtex	ENSG00000197971	MBP	colon	17.6
+gtex	ENSG00000197971	MBP	endometrium	12.7
+gtex	ENSG00000197971	MBP	esophagus	16.4
+gtex	ENSG00000197971	MBP	fallopian tube	12.4
+gtex	ENSG00000197971	MBP	heart muscle	21.7
+gtex	ENSG00000197971	MBP	hippocampal formation	19948.4
+gtex	ENSG00000197971	MBP	hypothalamus	15745.8
+gtex	ENSG00000197971	MBP	kidney	23.5
+gtex	ENSG00000197971	MBP	liver	21.2
+gtex	ENSG00000197971	MBP	lung	17.2
+gtex	ENSG00000197971	MBP	midbrain	42124.7
+gtex	ENSG00000197971	MBP	ovary	20.1
+gtex	ENSG00000197971	MBP	pancreas	17.4
+gtex	ENSG00000197971	MBP	pituitary gland	20.3
+gtex	ENSG00000197971	MBP	prostate	14.4
+gtex	ENSG00000197971	MBP	retina	6.9
+gtex	ENSG00000197971	MBP	salivary gland	21.0
+gtex	ENSG00000197971	MBP	skeletal muscle	87.9
+gtex	ENSG00000197971	MBP	skin	26.8
+gtex	ENSG00000197971	MBP	small intestine	17.7
+gtex	ENSG00000197971	MBP	spinal cord	89103.1
+gtex	ENSG00000197971	MBP	spleen	21.4
+gtex	ENSG00000197971	MBP	stomach	16.3
+gtex	ENSG00000197971	MBP	testis	5.8
+gtex	ENSG00000197971	MBP	thyroid gland	17.9
+gtex	ENSG00000197971	MBP	urinary bladder	15.9
+gtex	ENSG00000197971	MBP	vagina	18.7
+gtex	ENSG00000156738	MS4A1	adipose tissue	3.2
+gtex	ENSG00000156738	MS4A1	adrenal gland	0.2
+gtex	ENSG00000156738	MS4A1	amygdala	0.1
+gtex	ENSG00000156738	MS4A1	basal ganglia	0.1
+gtex	ENSG00000156738	MS4A1	blood vessel	7.0
+gtex	ENSG00000156738	MS4A1	breast	0.8
+gtex	ENSG00000156738	MS4A1	cerebellum	0.1
+gtex	ENSG00000156738	MS4A1	cerebral cortex	0.1
+gtex	ENSG00000156738	MS4A1	cervix	1.0
+gtex	ENSG00000156738	MS4A1	colon	8.0
+gtex	ENSG00000156738	MS4A1	endometrium	0.3
+gtex	ENSG00000156738	MS4A1	esophagus	4.2
+gtex	ENSG00000156738	MS4A1	fallopian tube	0.4
+gtex	ENSG00000156738	MS4A1	heart muscle	0.9
+gtex	ENSG00000156738	MS4A1	hippocampal formation	0.2
+gtex	ENSG00000156738	MS4A1	hypothalamus	0.1
+gtex	ENSG00000156738	MS4A1	kidney	3.7
+gtex	ENSG00000156738	MS4A1	liver	2.3
+gtex	ENSG00000156738	MS4A1	lung	4.3
+gtex	ENSG00000156738	MS4A1	midbrain	0.2
+gtex	ENSG00000156738	MS4A1	ovary	0.1
+gtex	ENSG00000156738	MS4A1	pancreas	0.2
+gtex	ENSG00000156738	MS4A1	pituitary gland	0.4
+gtex	ENSG00000156738	MS4A1	prostate	1.9
+gtex	ENSG00000156738	MS4A1	retina	0.0
+gtex	ENSG00000156738	MS4A1	salivary gland	1.2
+gtex	ENSG00000156738	MS4A1	skeletal muscle	0.1
+gtex	ENSG00000156738	MS4A1	skin	0.1
+gtex	ENSG00000156738	MS4A1	small intestine	125.7
+gtex	ENSG00000156738	MS4A1	spinal cord	0.3
+gtex	ENSG00000156738	MS4A1	spleen	247.4
+gtex	ENSG00000156738	MS4A1	stomach	2.6
+gtex	ENSG00000156738	MS4A1	testis	1.1
+gtex	ENSG00000156738	MS4A1	thyroid gland	7.9
+gtex	ENSG00000156738	MS4A1	urinary bladder	1.5
+gtex	ENSG00000156738	MS4A1	vagina	1.3
+gtex	ENSG00000117394	SLC2A1	adipose tissue	5.7
+gtex	ENSG00000117394	SLC2A1	adrenal gland	3.8
+gtex	ENSG00000117394	SLC2A1	amygdala	22.3
+gtex	ENSG00000117394	SLC2A1	basal ganglia	37.4
+gtex	ENSG00000117394	SLC2A1	blood vessel	17.8
+gtex	ENSG00000117394	SLC2A1	breast	6.2
+gtex	ENSG00000117394	SLC2A1	cerebellum	9.2
+gtex	ENSG00000117394	SLC2A1	cerebral cortex	20.7
+gtex	ENSG00000117394	SLC2A1	cervix	28.6
+gtex	ENSG00000117394	SLC2A1	colon	5.4
+gtex	ENSG00000117394	SLC2A1	endometrium	4.7
+gtex	ENSG00000117394	SLC2A1	esophagus	50.7
+gtex	ENSG00000117394	SLC2A1	fallopian tube	6.7
+gtex	ENSG00000117394	SLC2A1	heart muscle	11.1
+gtex	ENSG00000117394	SLC2A1	hippocampal formation	28.8
+gtex	ENSG00000117394	SLC2A1	hypothalamus	25.6
+gtex	ENSG00000117394	SLC2A1	kidney	11.8
+gtex	ENSG00000117394	SLC2A1	liver	1.4
+gtex	ENSG00000117394	SLC2A1	lung	2.5
+gtex	ENSG00000117394	SLC2A1	midbrain	32.3
+gtex	ENSG00000117394	SLC2A1	ovary	4.2
+gtex	ENSG00000117394	SLC2A1	pancreas	2.3
+gtex	ENSG00000117394	SLC2A1	pituitary gland	3.5
+gtex	ENSG00000117394	SLC2A1	prostate	4.3
+gtex	ENSG00000117394	SLC2A1	retina	22.9
+gtex	ENSG00000117394	SLC2A1	salivary gland	15.2
+gtex	ENSG00000117394	SLC2A1	skeletal muscle	1.9
+gtex	ENSG00000117394	SLC2A1	skin	61.2
+gtex	ENSG00000117394	SLC2A1	small intestine	3.6
+gtex	ENSG00000117394	SLC2A1	spinal cord	27.4
+gtex	ENSG00000117394	SLC2A1	spleen	6.0
+gtex	ENSG00000117394	SLC2A1	stomach	4.7
+gtex	ENSG00000117394	SLC2A1	testis	1.7
+gtex	ENSG00000117394	SLC2A1	thyroid gland	2.4
+gtex	ENSG00000117394	SLC2A1	urinary bladder	15.8
+gtex	ENSG00000117394	SLC2A1	vagina	46.0
+gtex	ENSG00000157005	SST	adipose tissue	0.2
+gtex	ENSG00000157005	SST	adrenal gland	13.0
+gtex	ENSG00000157005	SST	amygdala	156.2
+gtex	ENSG00000157005	SST	basal ganglia	279.2
+gtex	ENSG00000157005	SST	blood vessel	0.3
+gtex	ENSG00000157005	SST	breast	0.4
+gtex	ENSG00000157005	SST	cerebellum	0.4
+gtex	ENSG00000157005	SST	cerebral cortex	160.3
+gtex	ENSG00000157005	SST	cervix	0.5
+gtex	ENSG00000157005	SST	colon	15.7
+gtex	ENSG00000157005	SST	endometrium	0.2
+gtex	ENSG00000157005	SST	esophagus	0.5
+gtex	ENSG00000157005	SST	fallopian tube	0.3
+gtex	ENSG00000157005	SST	heart muscle	1.2
+gtex	ENSG00000157005	SST	hippocampal formation	100.0
+gtex	ENSG00000157005	SST	hypothalamus	622.0
+gtex	ENSG00000157005	SST	kidney	2.5
+gtex	ENSG00000157005	SST	liver	0.3
+gtex	ENSG00000157005	SST	lung	0.3
+gtex	ENSG00000157005	SST	midbrain	32.8
+gtex	ENSG00000157005	SST	ovary	2.1
+gtex	ENSG00000157005	SST	pancreas	479.7
+gtex	ENSG00000157005	SST	pituitary gland	8.7
+gtex	ENSG00000157005	SST	prostate	1.1
+gtex	ENSG00000157005	SST	retina	5.8
+gtex	ENSG00000157005	SST	salivary gland	0.1
+gtex	ENSG00000157005	SST	skeletal muscle	0.1
+gtex	ENSG00000157005	SST	skin	0.7
+gtex	ENSG00000157005	SST	small intestine	47.6
+gtex	ENSG00000157005	SST	spinal cord	94.3
+gtex	ENSG00000157005	SST	spleen	0.2
+gtex	ENSG00000157005	SST	stomach	416.6
+gtex	ENSG00000157005	SST	testis	0.2
+gtex	ENSG00000157005	SST	thyroid gland	1.0
+gtex	ENSG00000157005	SST	urinary bladder	1.0
+gtex	ENSG00000157005	SST	vagina	1.1
+gtex	ENSG00000141510	TP53	adipose tissue	18.2
+gtex	ENSG00000141510	TP53	adrenal gland	13.1
+gtex	ENSG00000141510	TP53	amygdala	6.7
+gtex	ENSG00000141510	TP53	basal ganglia	6.8
+gtex	ENSG00000141510	TP53	blood vessel	16.6
+gtex	ENSG00000141510	TP53	breast	19.4
+gtex	ENSG00000141510	TP53	cerebellum	2.3
+gtex	ENSG00000141510	TP53	cerebral cortex	5.7
+gtex	ENSG00000141510	TP53	cervix	19.6
+gtex	ENSG00000141510	TP53	colon	17.8
+gtex	ENSG00000141510	TP53	endometrium	22.2
+gtex	ENSG00000141510	TP53	esophagus	27.1
+gtex	ENSG00000141510	TP53	fallopian tube	18.8
+gtex	ENSG00000141510	TP53	heart muscle	10.7
+gtex	ENSG00000141510	TP53	hippocampal formation	5.1
+gtex	ENSG00000141510	TP53	hypothalamus	4.7
+gtex	ENSG00000141510	TP53	kidney	11.8
+gtex	ENSG00000141510	TP53	liver	15.6
+gtex	ENSG00000141510	TP53	lung	12.0
+gtex	ENSG00000141510	TP53	midbrain	6.7
+gtex	ENSG00000141510	TP53	ovary	22.5
+gtex	ENSG00000141510	TP53	pancreas	16.3
+gtex	ENSG00000141510	TP53	pituitary gland	7.2
+gtex	ENSG00000141510	TP53	prostate	14.9
+gtex	ENSG00000141510	TP53	retina	3.8
+gtex	ENSG00000141510	TP53	salivary gland	18.2
+gtex	ENSG00000141510	TP53	skeletal muscle	11.6
+gtex	ENSG00000141510	TP53	skin	32.8
+gtex	ENSG00000141510	TP53	small intestine	17.2
+gtex	ENSG00000141510	TP53	spinal cord	5.1
+gtex	ENSG00000141510	TP53	spleen	22.4
+gtex	ENSG00000141510	TP53	stomach	14.6
+gtex	ENSG00000141510	TP53	testis	9.4
+gtex	ENSG00000141510	TP53	thyroid gland	12.9
+gtex	ENSG00000141510	TP53	urinary bladder	18.9
+gtex	ENSG00000141510	TP53	vagina	18.8
+gtex	ENSG00000112715	VEGFA	adipose tissue	143.6
+gtex	ENSG00000112715	VEGFA	adrenal gland	52.2
+gtex	ENSG00000112715	VEGFA	amygdala	21.7
+gtex	ENSG00000112715	VEGFA	basal ganglia	19.0
+gtex	ENSG00000112715	VEGFA	blood vessel	60.3
+gtex	ENSG00000112715	VEGFA	breast	87.7
+gtex	ENSG00000112715	VEGFA	cerebellum	19.6
+gtex	ENSG00000112715	VEGFA	cerebral cortex	20.5
+gtex	ENSG00000112715	VEGFA	cervix	49.6
+gtex	ENSG00000112715	VEGFA	colon	31.0
+gtex	ENSG00000112715	VEGFA	endometrium	89.7
+gtex	ENSG00000112715	VEGFA	esophagus	56.7
+gtex	ENSG00000112715	VEGFA	fallopian tube	43.5
+gtex	ENSG00000112715	VEGFA	heart muscle	202.6
+gtex	ENSG00000112715	VEGFA	hippocampal formation	21.1
+gtex	ENSG00000112715	VEGFA	hypothalamus	15.9
+gtex	ENSG00000112715	VEGFA	kidney	105.1
+gtex	ENSG00000112715	VEGFA	liver	202.0
+gtex	ENSG00000112715	VEGFA	lung	75.8
+gtex	ENSG00000112715	VEGFA	midbrain	16.8
+gtex	ENSG00000112715	VEGFA	ovary	21.9
+gtex	ENSG00000112715	VEGFA	pancreas	57.1
+gtex	ENSG00000112715	VEGFA	pituitary gland	21.3
+gtex	ENSG00000112715	VEGFA	prostate	91.7
+gtex	ENSG00000112715	VEGFA	retina	213.3
+gtex	ENSG00000112715	VEGFA	salivary gland	30.8
+gtex	ENSG00000112715	VEGFA	skeletal muscle	211.8
+gtex	ENSG00000112715	VEGFA	skin	42.1
+gtex	ENSG00000112715	VEGFA	small intestine	35.2
+gtex	ENSG00000112715	VEGFA	spinal cord	16.7
+gtex	ENSG00000112715	VEGFA	spleen	64.0
+gtex	ENSG00000112715	VEGFA	stomach	55.0
+gtex	ENSG00000112715	VEGFA	testis	5.0
+gtex	ENSG00000112715	VEGFA	thyroid gland	210.1
+gtex	ENSG00000112715	VEGFA	urinary bladder	39.0
+gtex	ENSG00000112715	VEGFA	vagina	63.1
+hpa	ENSG00000130234	ACE2	adipose tissue	3.9
+hpa	ENSG00000130234	ACE2	adrenal gland	0.5
+hpa	ENSG00000130234	ACE2	appendix	1.3
+hpa	ENSG00000130234	ACE2	bone marrow	0.6
+hpa	ENSG00000130234	ACE2	breast	0.5
+hpa	ENSG00000130234	ACE2	cerebral cortex	0.1
+hpa	ENSG00000130234	ACE2	cervix	0.5
+hpa	ENSG00000130234	ACE2	choroid plexus	5.3
+hpa	ENSG00000130234	ACE2	colon	9.4
+hpa	ENSG00000130234	ACE2	duodenum	173.5
+hpa	ENSG00000130234	ACE2	endometrium	0.3
+hpa	ENSG00000130234	ACE2	epididymis	0.5
+hpa	ENSG00000130234	ACE2	esophagus	1.1
+hpa	ENSG00000130234	ACE2	fallopian tube	0.5
+hpa	ENSG00000130234	ACE2	gallbladder	62.3
+hpa	ENSG00000130234	ACE2	heart muscle	40.1
+hpa	ENSG00000130234	ACE2	kidney	82.4
+hpa	ENSG00000130234	ACE2	liver	5.4
+hpa	ENSG00000130234	ACE2	lung	0.7
+hpa	ENSG00000130234	ACE2	lymph node	0.4
+hpa	ENSG00000130234	ACE2	ovary	0.5
+hpa	ENSG00000130234	ACE2	pancreas	1.8
+hpa	ENSG00000130234	ACE2	parathyroid gland	1.4
+hpa	ENSG00000130234	ACE2	placenta	1.1
+hpa	ENSG00000130234	ACE2	prostate	0.2
+hpa	ENSG00000130234	ACE2	rectum	5.6
+hpa	ENSG00000130234	ACE2	salivary gland	0.7
+hpa	ENSG00000130234	ACE2	seminal vesicle	3.9
+hpa	ENSG00000130234	ACE2	skeletal muscle	0.1
+hpa	ENSG00000130234	ACE2	skin	0.2
+hpa	ENSG00000130234	ACE2	small intestine	230.5
+hpa	ENSG00000130234	ACE2	smooth muscle	0.5
+hpa	ENSG00000130234	ACE2	spleen	0.1
+hpa	ENSG00000130234	ACE2	stomach	2.5
+hpa	ENSG00000130234	ACE2	testis	46.7
+hpa	ENSG00000130234	ACE2	thymus	0.5
+hpa	ENSG00000130234	ACE2	thyroid gland	2.7
+hpa	ENSG00000130234	ACE2	tongue	0.4
+hpa	ENSG00000130234	ACE2	tonsil	0.2
+hpa	ENSG00000130234	ACE2	urinary bladder	0.8
+hpa	ENSG00000075624	ACTB	adipose tissue	2395.8
+hpa	ENSG00000075624	ACTB	adrenal gland	1124.8
+hpa	ENSG00000075624	ACTB	appendix	4010.6
+hpa	ENSG00000075624	ACTB	bone marrow	3397.8
+hpa	ENSG00000075624	ACTB	breast	877.4
+hpa	ENSG00000075624	ACTB	cerebral cortex	1473.0
+hpa	ENSG00000075624	ACTB	cervix	1259.5
+hpa	ENSG00000075624	ACTB	choroid plexus	2644.1
+hpa	ENSG00000075624	ACTB	colon	2465.1
+hpa	ENSG00000075624	ACTB	duodenum	1560.3
+hpa	ENSG00000075624	ACTB	endometrium	2536.5
+hpa	ENSG00000075624	ACTB	epididymis	1538.8
+hpa	ENSG00000075624	ACTB	esophagus	2750.8
+hpa	ENSG00000075624	ACTB	fallopian tube	1390.3
+hpa	ENSG00000075624	ACTB	gallbladder	1660.9
+hpa	ENSG00000075624	ACTB	heart muscle	608.0
+hpa	ENSG00000075624	ACTB	kidney	1030.2
+hpa	ENSG00000075624	ACTB	liver	1643.3
+hpa	ENSG00000075624	ACTB	lung	2088.5
+hpa	ENSG00000075624	ACTB	lymph node	4107.2
+hpa	ENSG00000075624	ACTB	ovary	1379.8
+hpa	ENSG00000075624	ACTB	pancreas	718.4
+hpa	ENSG00000075624	ACTB	parathyroid gland	787.5
+hpa	ENSG00000075624	ACTB	placenta	1707.6
+hpa	ENSG00000075624	ACTB	prostate	1633.9
+hpa	ENSG00000075624	ACTB	rectum	2196.3
+hpa	ENSG00000075624	ACTB	salivary gland	1051.0
+hpa	ENSG00000075624	ACTB	seminal vesicle	2771.3
+hpa	ENSG00000075624	ACTB	skeletal muscle	436.3
+hpa	ENSG00000075624	ACTB	skin	1019.4
+hpa	ENSG00000075624	ACTB	small intestine	1924.7
+hpa	ENSG00000075624	ACTB	smooth muscle	5355.5
+hpa	ENSG00000075624	ACTB	spleen	2835.2
+hpa	ENSG00000075624	ACTB	stomach	1374.5
+hpa	ENSG00000075624	ACTB	testis	521.9
+hpa	ENSG00000075624	ACTB	thymus	3055.1
+hpa	ENSG00000075624	ACTB	thyroid gland	1233.6
+hpa	ENSG00000075624	ACTB	tongue	489.2
+hpa	ENSG00000075624	ACTB	tonsil	4310.4
+hpa	ENSG00000075624	ACTB	urinary bladder	3291.7
+hpa	ENSG00000163631	ALB	adipose tissue	5.9
+hpa	ENSG00000163631	ALB	adrenal gland	0.3
+hpa	ENSG00000163631	ALB	appendix	0.0
+hpa	ENSG00000163631	ALB	bone marrow	0.0
+hpa	ENSG00000163631	ALB	breast	1.6
+hpa	ENSG00000163631	ALB	cerebral cortex	0.5
+hpa	ENSG00000163631	ALB	cervix	0.0
+hpa	ENSG00000163631	ALB	choroid plexus	0.6
+hpa	ENSG00000163631	ALB	colon	2.0
+hpa	ENSG00000163631	ALB	duodenum	0.0
+hpa	ENSG00000163631	ALB	endometrium	0.1
+hpa	ENSG00000163631	ALB	epididymis	14.6
+hpa	ENSG00000163631	ALB	esophagus	0.0
+hpa	ENSG00000163631	ALB	fallopian tube	0.6
+hpa	ENSG00000163631	ALB	gallbladder	3.6
+hpa	ENSG00000163631	ALB	heart muscle	0.3
+hpa	ENSG00000163631	ALB	kidney	433.7
+hpa	ENSG00000163631	ALB	liver	198523.8
+hpa	ENSG00000163631	ALB	lung	0.1
+hpa	ENSG00000163631	ALB	lymph node	1.2
+hpa	ENSG00000163631	ALB	ovary	0.3
+hpa	ENSG00000163631	ALB	pancreas	1480.5
+hpa	ENSG00000163631	ALB	parathyroid gland	0.9
+hpa	ENSG00000163631	ALB	placenta	4.2
+hpa	ENSG00000163631	ALB	prostate	1.5
+hpa	ENSG00000163631	ALB	rectum	0.1
+hpa	ENSG00000163631	ALB	salivary gland	0.5
+hpa	ENSG00000163631	ALB	seminal vesicle	0.1
+hpa	ENSG00000163631	ALB	skeletal muscle	0.0
+hpa	ENSG00000163631	ALB	skin	0.3
+hpa	ENSG00000163631	ALB	small intestine	0.0
+hpa	ENSG00000163631	ALB	smooth muscle	0.0
+hpa	ENSG00000163631	ALB	spleen	2.0
+hpa	ENSG00000163631	ALB	stomach	7.0
+hpa	ENSG00000163631	ALB	testis	3.3
+hpa	ENSG00000163631	ALB	thymus	0.3
+hpa	ENSG00000163631	ALB	thyroid gland	1.1
+hpa	ENSG00000163631	ALB	tongue	0.1
+hpa	ENSG00000163631	ALB	tonsil	1.3
+hpa	ENSG00000163631	ALB	urinary bladder	0.3
+hpa	ENSG00000130203	APOE	adipose tissue	490.2
+hpa	ENSG00000130203	APOE	adrenal gland	1290.8
+hpa	ENSG00000130203	APOE	appendix	87.5
+hpa	ENSG00000130203	APOE	bone marrow	62.6
+hpa	ENSG00000130203	APOE	breast	38.7
+hpa	ENSG00000130203	APOE	cerebral cortex	594.4
+hpa	ENSG00000130203	APOE	cervix	65.8
+hpa	ENSG00000130203	APOE	choroid plexus	273.7
+hpa	ENSG00000130203	APOE	colon	85.3
+hpa	ENSG00000130203	APOE	duodenum	38.0
+hpa	ENSG00000130203	APOE	endometrium	45.6
+hpa	ENSG00000130203	APOE	epididymis	18.8
+hpa	ENSG00000130203	APOE	esophagus	5.9
+hpa	ENSG00000130203	APOE	fallopian tube	15.8
+hpa	ENSG00000130203	APOE	gallbladder	93.9
+hpa	ENSG00000130203	APOE	heart muscle	29.7
+hpa	ENSG00000130203	APOE	kidney	709.8
+hpa	ENSG00000130203	APOE	liver	2994.2
+hpa	ENSG00000130203	APOE	lung	126.4
+hpa	ENSG00000130203	APOE	lymph node	330.1
+hpa	ENSG00000130203	APOE	ovary	140.9
+hpa	ENSG00000130203	APOE	pancreas	21.9
+hpa	ENSG00000130203	APOE	parathyroid gland	32.3
+hpa	ENSG00000130203	APOE	placenta	96.1
+hpa	ENSG00000130203	APOE	prostate	12.5
+hpa	ENSG00000130203	APOE	rectum	21.5
+hpa	ENSG00000130203	APOE	salivary gland	43.3
+hpa	ENSG00000130203	APOE	seminal vesicle	10.2
+hpa	ENSG00000130203	APOE	skeletal muscle	29.1
+hpa	ENSG00000130203	APOE	skin	199.6
+hpa	ENSG00000130203	APOE	small intestine	53.2
+hpa	ENSG00000130203	APOE	smooth muscle	11.8
+hpa	ENSG00000130203	APOE	spleen	585.1
+hpa	ENSG00000130203	APOE	stomach	78.4
+hpa	ENSG00000130203	APOE	testis	63.2
+hpa	ENSG00000130203	APOE	thymus	53.8
+hpa	ENSG00000130203	APOE	thyroid gland	9.9
+hpa	ENSG00000130203	APOE	tongue	9.7
+hpa	ENSG00000130203	APOE	tonsil	43.2
+hpa	ENSG00000130203	APOE	urinary bladder	87.1
+hpa	ENSG00000012048	BRCA1	adipose tissue	2.7
+hpa	ENSG00000012048	BRCA1	adrenal gland	1.6
+hpa	ENSG00000012048	BRCA1	appendix	6.8
+hpa	ENSG00000012048	BRCA1	bone marrow	10.4
+hpa	ENSG00000012048	BRCA1	breast	3.2
+hpa	ENSG00000012048	BRCA1	cerebral cortex	2.8
+hpa	ENSG00000012048	BRCA1	cervix	2.4
+hpa	ENSG00000012048	BRCA1	choroid plexus	2.4
+hpa	ENSG00000012048	BRCA1	colon	5.8
+hpa	ENSG00000012048	BRCA1	duodenum	2.9
+hpa	ENSG00000012048	BRCA1	endometrium	2.5
+hpa	ENSG00000012048	BRCA1	epididymis	1.8
+hpa	ENSG00000012048	BRCA1	esophagus	3.2
+hpa	ENSG00000012048	BRCA1	fallopian tube	3.3
+hpa	ENSG00000012048	BRCA1	gallbladder	1.6
+hpa	ENSG00000012048	BRCA1	heart muscle	2.6
+hpa	ENSG00000012048	BRCA1	kidney	1.6
+hpa	ENSG00000012048	BRCA1	liver	5.1
+hpa	ENSG00000012048	BRCA1	lung	2.6
+hpa	ENSG00000012048	BRCA1	lymph node	8.7
+hpa	ENSG00000012048	BRCA1	ovary	2.6
+hpa	ENSG00000012048	BRCA1	pancreas	2.0
+hpa	ENSG00000012048	BRCA1	parathyroid gland	5.4
+hpa	ENSG00000012048	BRCA1	placenta	3.4
+hpa	ENSG00000012048	BRCA1	prostate	2.0
+hpa	ENSG00000012048	BRCA1	rectum	6.2
+hpa	ENSG00000012048	BRCA1	salivary gland	2.8
+hpa	ENSG00000012048	BRCA1	seminal vesicle	1.5
+hpa	ENSG00000012048	BRCA1	skeletal muscle	3.5
+hpa	ENSG00000012048	BRCA1	skin	5.1
+hpa	ENSG00000012048	BRCA1	small intestine	4.3
+hpa	ENSG00000012048	BRCA1	smooth muscle	3.3
+hpa	ENSG00000012048	BRCA1	spleen	3.1
+hpa	ENSG00000012048	BRCA1	stomach	2.9
+hpa	ENSG00000012048	BRCA1	testis	11.2
+hpa	ENSG00000012048	BRCA1	thymus	12.9
+hpa	ENSG00000012048	BRCA1	thyroid gland	7.0
+hpa	ENSG00000012048	BRCA1	tongue	3.1
+hpa	ENSG00000012048	BRCA1	tonsil	9.8
+hpa	ENSG00000012048	BRCA1	urinary bladder	2.6
+hpa	ENSG00000139618	BRCA2	adipose tissue	0.2
+hpa	ENSG00000139618	BRCA2	adrenal gland	0.0
+hpa	ENSG00000139618	BRCA2	appendix	1.2
+hpa	ENSG00000139618	BRCA2	bone marrow	5.2
+hpa	ENSG00000139618	BRCA2	breast	0.6
+hpa	ENSG00000139618	BRCA2	cerebral cortex	0.1
+hpa	ENSG00000139618	BRCA2	cervix	0.1
+hpa	ENSG00000139618	BRCA2	choroid plexus	0.0
+hpa	ENSG00000139618	BRCA2	colon	0.8
+hpa	ENSG00000139618	BRCA2	duodenum	0.5
+hpa	ENSG00000139618	BRCA2	endometrium	0.2
+hpa	ENSG00000139618	BRCA2	epididymis	0.0
+hpa	ENSG00000139618	BRCA2	esophagus	0.4
+hpa	ENSG00000139618	BRCA2	fallopian tube	0.1
+hpa	ENSG00000139618	BRCA2	gallbladder	0.2
+hpa	ENSG00000139618	BRCA2	heart muscle	0.0
+hpa	ENSG00000139618	BRCA2	kidney	0.1
+hpa	ENSG00000139618	BRCA2	liver	0.2
+hpa	ENSG00000139618	BRCA2	lung	0.3
+hpa	ENSG00000139618	BRCA2	lymph node	2.0
+hpa	ENSG00000139618	BRCA2	ovary	0.3
+hpa	ENSG00000139618	BRCA2	pancreas	0.0
+hpa	ENSG00000139618	BRCA2	parathyroid gland	0.0
+hpa	ENSG00000139618	BRCA2	placenta	1.0
+hpa	ENSG00000139618	BRCA2	prostate	0.1
+hpa	ENSG00000139618	BRCA2	rectum	0.9
+hpa	ENSG00000139618	BRCA2	salivary gland	0.0
+hpa	ENSG00000139618	BRCA2	seminal vesicle	0.1
+hpa	ENSG00000139618	BRCA2	skeletal muscle	0.0
+hpa	ENSG00000139618	BRCA2	skin	0.7
+hpa	ENSG00000139618	BRCA2	small intestine	0.4
+hpa	ENSG00000139618	BRCA2	smooth muscle	0.3
+hpa	ENSG00000139618	BRCA2	spleen	1.0
+hpa	ENSG00000139618	BRCA2	stomach	0.6
+hpa	ENSG00000139618	BRCA2	testis	2.9
+hpa	ENSG00000139618	BRCA2	thymus	4.2
+hpa	ENSG00000139618	BRCA2	thyroid gland	0.2
+hpa	ENSG00000139618	BRCA2	tongue	0.0
+hpa	ENSG00000139618	BRCA2	tonsil	2.2
+hpa	ENSG00000139618	BRCA2	urinary bladder	0.5
+hpa	ENSG00000167286	CD3D	adipose tissue	3.6
+hpa	ENSG00000167286	CD3D	adrenal gland	2.8
+hpa	ENSG00000167286	CD3D	appendix	63.9
+hpa	ENSG00000167286	CD3D	bone marrow	24.6
+hpa	ENSG00000167286	CD3D	breast	8.6
+hpa	ENSG00000167286	CD3D	cerebral cortex	0.3
+hpa	ENSG00000167286	CD3D	cervix	4.9
+hpa	ENSG00000167286	CD3D	choroid plexus	2.5
+hpa	ENSG00000167286	CD3D	colon	15.9
+hpa	ENSG00000167286	CD3D	duodenum	17.8
+hpa	ENSG00000167286	CD3D	endometrium	2.9
+hpa	ENSG00000167286	CD3D	epididymis	5.1
+hpa	ENSG00000167286	CD3D	esophagus	6.3
+hpa	ENSG00000167286	CD3D	fallopian tube	3.9
+hpa	ENSG00000167286	CD3D	gallbladder	13.1
+hpa	ENSG00000167286	CD3D	heart muscle	2.9
+hpa	ENSG00000167286	CD3D	kidney	1.9
+hpa	ENSG00000167286	CD3D	liver	6.8
+hpa	ENSG00000167286	CD3D	lung	17.9
+hpa	ENSG00000167286	CD3D	lymph node	184.8
+hpa	ENSG00000167286	CD3D	ovary	2.5
+hpa	ENSG00000167286	CD3D	pancreas	1.2
+hpa	ENSG00000167286	CD3D	parathyroid gland	0.8
+hpa	ENSG00000167286	CD3D	placenta	0.9
+hpa	ENSG00000167286	CD3D	prostate	5.0
+hpa	ENSG00000167286	CD3D	rectum	18.2
+hpa	ENSG00000167286	CD3D	salivary gland	6.9
+hpa	ENSG00000167286	CD3D	seminal vesicle	2.8
+hpa	ENSG00000167286	CD3D	skeletal muscle	1.8
+hpa	ENSG00000167286	CD3D	skin	3.1
+hpa	ENSG00000167286	CD3D	small intestine	23.4
+hpa	ENSG00000167286	CD3D	smooth muscle	3.2
+hpa	ENSG00000167286	CD3D	spleen	50.5
+hpa	ENSG00000167286	CD3D	stomach	20.7
+hpa	ENSG00000167286	CD3D	testis	1.7
+hpa	ENSG00000167286	CD3D	thymus	809.4
+hpa	ENSG00000167286	CD3D	thyroid gland	2.5
+hpa	ENSG00000167286	CD3D	tongue	1.3
+hpa	ENSG00000167286	CD3D	tonsil	139.6
+hpa	ENSG00000167286	CD3D	urinary bladder	23.6
+hpa	ENSG00000153563	CD8A	adipose tissue	2.1
+hpa	ENSG00000153563	CD8A	adrenal gland	2.2
+hpa	ENSG00000153563	CD8A	appendix	16.2
+hpa	ENSG00000153563	CD8A	bone marrow	13.9
+hpa	ENSG00000153563	CD8A	breast	2.7
+hpa	ENSG00000153563	CD8A	cerebral cortex	0.5
+hpa	ENSG00000153563	CD8A	cervix	1.8
+hpa	ENSG00000153563	CD8A	choroid plexus	1.0
+hpa	ENSG00000153563	CD8A	colon	3.4
+hpa	ENSG00000153563	CD8A	duodenum	9.3
+hpa	ENSG00000153563	CD8A	endometrium	1.9
+hpa	ENSG00000153563	CD8A	epididymis	1.2
+hpa	ENSG00000153563	CD8A	esophagus	3.0
+hpa	ENSG00000153563	CD8A	fallopian tube	2.0
+hpa	ENSG00000153563	CD8A	gallbladder	4.5
+hpa	ENSG00000153563	CD8A	heart muscle	1.0
+hpa	ENSG00000153563	CD8A	kidney	0.7
+hpa	ENSG00000153563	CD8A	liver	3.9
+hpa	ENSG00000153563	CD8A	lung	6.4
+hpa	ENSG00000153563	CD8A	lymph node	28.2
+hpa	ENSG00000153563	CD8A	ovary	0.8
+hpa	ENSG00000153563	CD8A	pancreas	2.1
+hpa	ENSG00000153563	CD8A	parathyroid gland	0.3
+hpa	ENSG00000153563	CD8A	placenta	0.3
+hpa	ENSG00000153563	CD8A	prostate	1.7
+hpa	ENSG00000153563	CD8A	rectum	2.3
+hpa	ENSG00000153563	CD8A	salivary gland	5.3
+hpa	ENSG00000153563	CD8A	seminal vesicle	1.3
+hpa	ENSG00000153563	CD8A	skeletal muscle	0.6
+hpa	ENSG00000153563	CD8A	skin	0.7
+hpa	ENSG00000153563	CD8A	small intestine	17.1
+hpa	ENSG00000153563	CD8A	smooth muscle	1.1
+hpa	ENSG00000153563	CD8A	spleen	84.1
+hpa	ENSG00000153563	CD8A	stomach	12.8
+hpa	ENSG00000153563	CD8A	testis	0.4
+hpa	ENSG00000153563	CD8A	thymus	216.0
+hpa	ENSG00000153563	CD8A	thyroid gland	1.0
+hpa	ENSG00000153563	CD8A	tongue	0.3
+hpa	ENSG00000153563	CD8A	tonsil	9.1
+hpa	ENSG00000153563	CD8A	urinary bladder	5.2
+hpa	ENSG00000146648	EGFR	adipose tissue	25.9
+hpa	ENSG00000146648	EGFR	adrenal gland	9.9
+hpa	ENSG00000146648	EGFR	appendix	3.7
+hpa	ENSG00000146648	EGFR	bone marrow	0.0
+hpa	ENSG00000146648	EGFR	breast	17.4
+hpa	ENSG00000146648	EGFR	cerebral cortex	11.5
+hpa	ENSG00000146648	EGFR	cervix	18.9
+hpa	ENSG00000146648	EGFR	choroid plexus	4.2
+hpa	ENSG00000146648	EGFR	colon	11.4
+hpa	ENSG00000146648	EGFR	duodenum	5.3
+hpa	ENSG00000146648	EGFR	endometrium	10.1
+hpa	ENSG00000146648	EGFR	epididymis	9.6
+hpa	ENSG00000146648	EGFR	esophagus	21.3
+hpa	ENSG00000146648	EGFR	fallopian tube	11.3
+hpa	ENSG00000146648	EGFR	gallbladder	8.3
+hpa	ENSG00000146648	EGFR	heart muscle	4.3
+hpa	ENSG00000146648	EGFR	kidney	10.8
+hpa	ENSG00000146648	EGFR	liver	32.2
+hpa	ENSG00000146648	EGFR	lung	14.1
+hpa	ENSG00000146648	EGFR	lymph node	2.3
+hpa	ENSG00000146648	EGFR	ovary	14.2
+hpa	ENSG00000146648	EGFR	pancreas	14.6
+hpa	ENSG00000146648	EGFR	parathyroid gland	3.2
+hpa	ENSG00000146648	EGFR	placenta	61.8
+hpa	ENSG00000146648	EGFR	prostate	15.3
+hpa	ENSG00000146648	EGFR	rectum	9.8
+hpa	ENSG00000146648	EGFR	salivary gland	20.4
+hpa	ENSG00000146648	EGFR	seminal vesicle	14.1
+hpa	ENSG00000146648	EGFR	skeletal muscle	7.7
+hpa	ENSG00000146648	EGFR	skin	45.7
+hpa	ENSG00000146648	EGFR	small intestine	6.0
+hpa	ENSG00000146648	EGFR	smooth muscle	8.4
+hpa	ENSG00000146648	EGFR	spleen	4.7
+hpa	ENSG00000146648	EGFR	stomach	8.6
+hpa	ENSG00000146648	EGFR	testis	3.9
+hpa	ENSG00000146648	EGFR	thymus	12.0
+hpa	ENSG00000146648	EGFR	thyroid gland	18.7
+hpa	ENSG00000146648	EGFR	tongue	19.0
+hpa	ENSG00000146648	EGFR	tonsil	7.8
+hpa	ENSG00000146648	EGFR	urinary bladder	13.7
+hpa	ENSG00000141736	ERBB2	adipose tissue	10.9
+hpa	ENSG00000141736	ERBB2	adrenal gland	4.1
+hpa	ENSG00000141736	ERBB2	appendix	11.5
+hpa	ENSG00000141736	ERBB2	bone marrow	1.3
+hpa	ENSG00000141736	ERBB2	breast	52.4
+hpa	ENSG00000141736	ERBB2	cerebral cortex	6.6
+hpa	ENSG00000141736	ERBB2	cervix	34.1
+hpa	ENSG00000141736	ERBB2	choroid plexus	20.8
+hpa	ENSG00000141736	ERBB2	colon	63.8
+hpa	ENSG00000141736	ERBB2	duodenum	59.8
+hpa	ENSG00000141736	ERBB2	endometrium	19.1
+hpa	ENSG00000141736	ERBB2	epididymis	25.1
+hpa	ENSG00000141736	ERBB2	esophagus	77.7
+hpa	ENSG00000141736	ERBB2	fallopian tube	60.4
+hpa	ENSG00000141736	ERBB2	gallbladder	29.0
+hpa	ENSG00000141736	ERBB2	heart muscle	44.5
+hpa	ENSG00000141736	ERBB2	kidney	56.1
+hpa	ENSG00000141736	ERBB2	liver	28.4
+hpa	ENSG00000141736	ERBB2	lung	34.1
+hpa	ENSG00000141736	ERBB2	lymph node	4.5
+hpa	ENSG00000141736	ERBB2	ovary	22.6
+hpa	ENSG00000141736	ERBB2	pancreas	26.1
+hpa	ENSG00000141736	ERBB2	parathyroid gland	76.8
+hpa	ENSG00000141736	ERBB2	placenta	25.4
+hpa	ENSG00000141736	ERBB2	prostate	46.0
+hpa	ENSG00000141736	ERBB2	rectum	45.5
+hpa	ENSG00000141736	ERBB2	salivary gland	54.8
+hpa	ENSG00000141736	ERBB2	seminal vesicle	47.5
+hpa	ENSG00000141736	ERBB2	skeletal muscle	19.5
+hpa	ENSG00000141736	ERBB2	skin	84.8
+hpa	ENSG00000141736	ERBB2	small intestine	63.4
+hpa	ENSG00000141736	ERBB2	smooth muscle	23.3
+hpa	ENSG00000141736	ERBB2	spleen	5.9
+hpa	ENSG00000141736	ERBB2	stomach	46.8
+hpa	ENSG00000141736	ERBB2	testis	7.5
+hpa	ENSG00000141736	ERBB2	thymus	6.9
+hpa	ENSG00000141736	ERBB2	thyroid gland	40.6
+hpa	ENSG00000141736	ERBB2	tongue	14.0
+hpa	ENSG00000141736	ERBB2	tonsil	26.1
+hpa	ENSG00000141736	ERBB2	urinary bladder	37.4
+hpa	ENSG00000111640	GAPDH	adipose tissue	654.9
+hpa	ENSG00000111640	GAPDH	adrenal gland	889.3
+hpa	ENSG00000111640	GAPDH	appendix	1124.2
+hpa	ENSG00000111640	GAPDH	bone marrow	4349.1
+hpa	ENSG00000111640	GAPDH	breast	764.6
+hpa	ENSG00000111640	GAPDH	cerebral cortex	1381.0
+hpa	ENSG00000111640	GAPDH	cervix	843.4
+hpa	ENSG00000111640	GAPDH	choroid plexus	3529.2
+hpa	ENSG00000111640	GAPDH	colon	1438.8
+hpa	ENSG00000111640	GAPDH	duodenum	1392.1
+hpa	ENSG00000111640	GAPDH	endometrium	530.3
+hpa	ENSG00000111640	GAPDH	epididymis	727.1
+hpa	ENSG00000111640	GAPDH	esophagus	2638.3
+hpa	ENSG00000111640	GAPDH	fallopian tube	924.6
+hpa	ENSG00000111640	GAPDH	gallbladder	1090.4
+hpa	ENSG00000111640	GAPDH	heart muscle	4218.3
+hpa	ENSG00000111640	GAPDH	kidney	1176.6
+hpa	ENSG00000111640	GAPDH	liver	1350.9
+hpa	ENSG00000111640	GAPDH	lung	501.7
+hpa	ENSG00000111640	GAPDH	lymph node	1296.0
+hpa	ENSG00000111640	GAPDH	ovary	821.6
+hpa	ENSG00000111640	GAPDH	pancreas	496.2
+hpa	ENSG00000111640	GAPDH	parathyroid gland	1518.0
+hpa	ENSG00000111640	GAPDH	placenta	1118.6
+hpa	ENSG00000111640	GAPDH	prostate	775.5
+hpa	ENSG00000111640	GAPDH	rectum	1489.6
+hpa	ENSG00000111640	GAPDH	salivary gland	1079.2
+hpa	ENSG00000111640	GAPDH	seminal vesicle	1167.0
+hpa	ENSG00000111640	GAPDH	skeletal muscle	25843.3
+hpa	ENSG00000111640	GAPDH	skin	915.8
+hpa	ENSG00000111640	GAPDH	small intestine	1317.4
+hpa	ENSG00000111640	GAPDH	smooth muscle	1329.8
+hpa	ENSG00000111640	GAPDH	spleen	529.3
+hpa	ENSG00000111640	GAPDH	stomach	640.2
+hpa	ENSG00000111640	GAPDH	testis	431.6
+hpa	ENSG00000111640	GAPDH	thymus	1463.4
+hpa	ENSG00000111640	GAPDH	thyroid gland	718.8
+hpa	ENSG00000111640	GAPDH	tongue	17635.1
+hpa	ENSG00000111640	GAPDH	tonsil	1743.4
+hpa	ENSG00000111640	GAPDH	urinary bladder	1433.8
+hpa	ENSG00000115263	GCG	adipose tissue	19.1
+hpa	ENSG00000115263	GCG	adrenal gland	0.1
+hpa	ENSG00000115263	GCG	appendix	2.9
+hpa	ENSG00000115263	GCG	bone marrow	18.9
+hpa	ENSG00000115263	GCG	breast	0.0
+hpa	ENSG00000115263	GCG	cerebral cortex	25.5
+hpa	ENSG00000115263	GCG	cervix	0.0
+hpa	ENSG00000115263	GCG	choroid plexus	0.0
+hpa	ENSG00000115263	GCG	colon	79.1
+hpa	ENSG00000115263	GCG	duodenum	3.2
+hpa	ENSG00000115263	GCG	endometrium	0.6
+hpa	ENSG00000115263	GCG	epididymis	0.0
+hpa	ENSG00000115263	GCG	esophagus	5.0
+hpa	ENSG00000115263	GCG	fallopian tube	0.0
+hpa	ENSG00000115263	GCG	gallbladder	3.9
+hpa	ENSG00000115263	GCG	heart muscle	2.4
+hpa	ENSG00000115263	GCG	kidney	39.2
+hpa	ENSG00000115263	GCG	liver	0.0
+hpa	ENSG00000115263	GCG	lung	0.2
+hpa	ENSG00000115263	GCG	lymph node	3.3
+hpa	ENSG00000115263	GCG	ovary	0.0
+hpa	ENSG00000115263	GCG	pancreas	1834.3
+hpa	ENSG00000115263	GCG	parathyroid gland	0.0
+hpa	ENSG00000115263	GCG	placenta	0.1
+hpa	ENSG00000115263	GCG	prostate	0.7
+hpa	ENSG00000115263	GCG	rectum	142.7
+hpa	ENSG00000115263	GCG	salivary gland	0.2
+hpa	ENSG00000115263	GCG	seminal vesicle	0.0
+hpa	ENSG00000115263	GCG	skeletal muscle	0.0
+hpa	ENSG00000115263	GCG	skin	35.1
+hpa	ENSG00000115263	GCG	small intestine	122.6
+hpa	ENSG00000115263	GCG	smooth muscle	0.7
+hpa	ENSG00000115263	GCG	spleen	0.1
+hpa	ENSG00000115263	GCG	stomach	38.7
+hpa	ENSG00000115263	GCG	testis	0.0
+hpa	ENSG00000115263	GCG	thymus	0.4
+hpa	ENSG00000115263	GCG	thyroid gland	0.5
+hpa	ENSG00000115263	GCG	tongue	0.0
+hpa	ENSG00000115263	GCG	tonsil	0.0
+hpa	ENSG00000115263	GCG	urinary bladder	3.1
+hpa	ENSG00000131095	GFAP	adipose tissue	1.7
+hpa	ENSG00000131095	GFAP	adrenal gland	0.9
+hpa	ENSG00000131095	GFAP	appendix	1.9
+hpa	ENSG00000131095	GFAP	bone marrow	13.1
+hpa	ENSG00000131095	GFAP	breast	1.4
+hpa	ENSG00000131095	GFAP	cerebral cortex	2160.4
+hpa	ENSG00000131095	GFAP	cervix	0.3
+hpa	ENSG00000131095	GFAP	choroid plexus	1963.1
+hpa	ENSG00000131095	GFAP	colon	1.2
+hpa	ENSG00000131095	GFAP	duodenum	0.3
+hpa	ENSG00000131095	GFAP	endometrium	0.8
+hpa	ENSG00000131095	GFAP	epididymis	1.4
+hpa	ENSG00000131095	GFAP	esophagus	3.4
+hpa	ENSG00000131095	GFAP	fallopian tube	2.1
+hpa	ENSG00000131095	GFAP	gallbladder	1.4
+hpa	ENSG00000131095	GFAP	heart muscle	7.6
+hpa	ENSG00000131095	GFAP	kidney	1.4
+hpa	ENSG00000131095	GFAP	liver	0.5
+hpa	ENSG00000131095	GFAP	lung	1.2
+hpa	ENSG00000131095	GFAP	lymph node	1.8
+hpa	ENSG00000131095	GFAP	ovary	0.6
+hpa	ENSG00000131095	GFAP	pancreas	1.2
+hpa	ENSG00000131095	GFAP	parathyroid gland	1.5
+hpa	ENSG00000131095	GFAP	placenta	0.7
+hpa	ENSG00000131095	GFAP	prostate	1.1
+hpa	ENSG00000131095	GFAP	rectum	0.9
+hpa	ENSG00000131095	GFAP	salivary gland	1.8
+hpa	ENSG00000131095	GFAP	seminal vesicle	0.9
+hpa	ENSG00000131095	GFAP	skeletal muscle	1.7
+hpa	ENSG00000131095	GFAP	skin	2.5
+hpa	ENSG00000131095	GFAP	small intestine	0.5
+hpa	ENSG00000131095	GFAP	smooth muscle	0.9
+hpa	ENSG00000131095	GFAP	spleen	1.4
+hpa	ENSG00000131095	GFAP	stomach	1.4
+hpa	ENSG00000131095	GFAP	testis	1.3
+hpa	ENSG00000131095	GFAP	thymus	0.4
+hpa	ENSG00000131095	GFAP	thyroid gland	1.2
+hpa	ENSG00000131095	GFAP	tongue	0.2
+hpa	ENSG00000131095	GFAP	tonsil	1.1
+hpa	ENSG00000131095	GFAP	urinary bladder	1.3
+hpa	ENSG00000254647	INS	adipose tissue	18.0
+hpa	ENSG00000254647	INS	adrenal gland	3.3
+hpa	ENSG00000254647	INS	appendix	0.2
+hpa	ENSG00000254647	INS	bone marrow	47.2
+hpa	ENSG00000254647	INS	breast	0.0
+hpa	ENSG00000254647	INS	cerebral cortex	22.8
+hpa	ENSG00000254647	INS	cervix	0.0
+hpa	ENSG00000254647	INS	choroid plexus	0.0
+hpa	ENSG00000254647	INS	colon	12.0
+hpa	ENSG00000254647	INS	duodenum	1.4
+hpa	ENSG00000254647	INS	endometrium	1.2
+hpa	ENSG00000254647	INS	epididymis	0.0
+hpa	ENSG00000254647	INS	esophagus	1.7
+hpa	ENSG00000254647	INS	fallopian tube	0.0
+hpa	ENSG00000254647	INS	gallbladder	3.4
+hpa	ENSG00000254647	INS	heart muscle	5.1
+hpa	ENSG00000254647	INS	kidney	37.8
+hpa	ENSG00000254647	INS	liver	0.0
+hpa	ENSG00000254647	INS	lung	1.6
+hpa	ENSG00000254647	INS	lymph node	5.0
+hpa	ENSG00000254647	INS	ovary	1.0
+hpa	ENSG00000254647	INS	pancreas	12197.1
+hpa	ENSG00000254647	INS	parathyroid gland	0.0
+hpa	ENSG00000254647	INS	placenta	0.9
+hpa	ENSG00000254647	INS	prostate	0.0
+hpa	ENSG00000254647	INS	rectum	0.0
+hpa	ENSG00000254647	INS	salivary gland	2.9
+hpa	ENSG00000254647	INS	seminal vesicle	0.0
+hpa	ENSG00000254647	INS	skeletal muscle	0.0
+hpa	ENSG00000254647	INS	skin	90.4
+hpa	ENSG00000254647	INS	small intestine	0.6
+hpa	ENSG00000254647	INS	smooth muscle	0.0
+hpa	ENSG00000254647	INS	spleen	1.3
+hpa	ENSG00000254647	INS	stomach	39.5
+hpa	ENSG00000254647	INS	testis	0.0
+hpa	ENSG00000254647	INS	thymus	0.0
+hpa	ENSG00000254647	INS	thyroid gland	1.2
+hpa	ENSG00000254647	INS	tongue	0.0
+hpa	ENSG00000254647	INS	tonsil	0.0
+hpa	ENSG00000254647	INS	urinary bladder	4.7
+hpa	ENSG00000197971	MBP	adipose tissue	9.5
+hpa	ENSG00000197971	MBP	adrenal gland	6.7
+hpa	ENSG00000197971	MBP	appendix	19.7
+hpa	ENSG00000197971	MBP	bone marrow	40.5
+hpa	ENSG00000197971	MBP	breast	11.2
+hpa	ENSG00000197971	MBP	cerebral cortex	1624.3
+hpa	ENSG00000197971	MBP	cervix	15.2
+hpa	ENSG00000197971	MBP	choroid plexus	2812.7
+hpa	ENSG00000197971	MBP	colon	16.1
+hpa	ENSG00000197971	MBP	duodenum	17.5
+hpa	ENSG00000197971	MBP	endometrium	10.9
+hpa	ENSG00000197971	MBP	epididymis	7.4
+hpa	ENSG00000197971	MBP	esophagus	19.2
+hpa	ENSG00000197971	MBP	fallopian tube	29.6
+hpa	ENSG00000197971	MBP	gallbladder	16.1
+hpa	ENSG00000197971	MBP	heart muscle	22.5
+hpa	ENSG00000197971	MBP	kidney	18.1
+hpa	ENSG00000197971	MBP	liver	17.8
+hpa	ENSG00000197971	MBP	lung	18.9
+hpa	ENSG00000197971	MBP	lymph node	25.2
+hpa	ENSG00000197971	MBP	ovary	7.5
+hpa	ENSG00000197971	MBP	pancreas	21.5
+hpa	ENSG00000197971	MBP	parathyroid gland	44.7
+hpa	ENSG00000197971	MBP	placenta	4.4
+hpa	ENSG00000197971	MBP	prostate	11.4
+hpa	ENSG00000197971	MBP	rectum	15.8
+hpa	ENSG00000197971	MBP	salivary gland	15.0
+hpa	ENSG00000197971	MBP	seminal vesicle	12.3
+hpa	ENSG00000197971	MBP	skeletal muscle	132.0
+hpa	ENSG00000197971	MBP	skin	26.5
+hpa	ENSG00000197971	MBP	small intestine	19.5
+hpa	ENSG00000197971	MBP	smooth muscle	8.1
+hpa	ENSG00000197971	MBP	spleen	26.3
+hpa	ENSG00000197971	MBP	stomach	14.5
+hpa	ENSG00000197971	MBP	testis	5.1
+hpa	ENSG00000197971	MBP	thymus	11.7
+hpa	ENSG00000197971	MBP	thyroid gland	20.7
+hpa	ENSG00000197971	MBP	tongue	76.2
+hpa	ENSG00000197971	MBP	tonsil	26.1
+hpa	ENSG00000197971	MBP	urinary bladder	13.9
+hpa	ENSG00000156738	MS4A1	adipose tissue	3.3
+hpa	ENSG00000156738	MS4A1	adrenal gland	0.4
+hpa	ENSG00000156738	MS4A1	appendix	141.1
+hpa	ENSG00000156738	MS4A1	bone marrow	18.0
+hpa	ENSG00000156738	MS4A1	breast	0.6
+hpa	ENSG00000156738	MS4A1	cerebral cortex	0.0
+hpa	ENSG00000156738	MS4A1	cervix	0.4
+hpa	ENSG00000156738	MS4A1	choroid plexus	0.0
+hpa	ENSG00000156738	MS4A1	colon	8.5
+hpa	ENSG00000156738	MS4A1	duodenum	2.9
+hpa	ENSG00000156738	MS4A1	endometrium	2.0
+hpa	ENSG00000156738	MS4A1	epididymis	0.9
+hpa	ENSG00000156738	MS4A1	esophagus	1.2
+hpa	ENSG00000156738	MS4A1	fallopian tube	0.4
+hpa	ENSG00000156738	MS4A1	gallbladder	7.9
+hpa	ENSG00000156738	MS4A1	heart muscle	1.6
+hpa	ENSG00000156738	MS4A1	kidney	0.5
+hpa	ENSG00000156738	MS4A1	liver	1.4
+hpa	ENSG00000156738	MS4A1	lung	3.6
+hpa	ENSG00000156738	MS4A1	lymph node	467.3
+hpa	ENSG00000156738	MS4A1	ovary	0.1
+hpa	ENSG00000156738	MS4A1	pancreas	0.1
+hpa	ENSG00000156738	MS4A1	parathyroid gland	6.9
+hpa	ENSG00000156738	MS4A1	placenta	0.8
+hpa	ENSG00000156738	MS4A1	prostate	4.8
+hpa	ENSG00000156738	MS4A1	rectum	9.9
+hpa	ENSG00000156738	MS4A1	salivary gland	8.4
+hpa	ENSG00000156738	MS4A1	seminal vesicle	0.3
+hpa	ENSG00000156738	MS4A1	skeletal muscle	0.7
+hpa	ENSG00000156738	MS4A1	skin	0.1
+hpa	ENSG00000156738	MS4A1	small intestine	7.4
+hpa	ENSG00000156738	MS4A1	smooth muscle	1.1
+hpa	ENSG00000156738	MS4A1	spleen	239.1
+hpa	ENSG00000156738	MS4A1	stomach	17.3
+hpa	ENSG00000156738	MS4A1	testis	1.1
+hpa	ENSG00000156738	MS4A1	thymus	47.2
+hpa	ENSG00000156738	MS4A1	thyroid gland	0.4
+hpa	ENSG00000156738	MS4A1	tongue	0.1
+hpa	ENSG00000156738	MS4A1	tonsil	631.0
+hpa	ENSG00000156738	MS4A1	urinary bladder	15.3
+hpa	ENSG00000117394	SLC2A1	adipose tissue	2.9
+hpa	ENSG00000117394	SLC2A1	adrenal gland	1.0
+hpa	ENSG00000117394	SLC2A1	appendix	2.4
+hpa	ENSG00000117394	SLC2A1	bone marrow	39.3
+hpa	ENSG00000117394	SLC2A1	breast	1.4
+hpa	ENSG00000117394	SLC2A1	cerebral cortex	9.1
+hpa	ENSG00000117394	SLC2A1	cervix	2.1
+hpa	ENSG00000117394	SLC2A1	choroid plexus	43.8
+hpa	ENSG00000117394	SLC2A1	colon	3.8
+hpa	ENSG00000117394	SLC2A1	duodenum	0.4
+hpa	ENSG00000117394	SLC2A1	endometrium	4.8
+hpa	ENSG00000117394	SLC2A1	epididymis	1.3
+hpa	ENSG00000117394	SLC2A1	esophagus	3.9
+hpa	ENSG00000117394	SLC2A1	fallopian tube	2.4
+hpa	ENSG00000117394	SLC2A1	gallbladder	1.6
+hpa	ENSG00000117394	SLC2A1	heart muscle	0.5
+hpa	ENSG00000117394	SLC2A1	kidney	2.8
+hpa	ENSG00000117394	SLC2A1	liver	0.4
+hpa	ENSG00000117394	SLC2A1	lung	0.4
+hpa	ENSG00000117394	SLC2A1	lymph node	1.0
+hpa	ENSG00000117394	SLC2A1	ovary	0.6
+hpa	ENSG00000117394	SLC2A1	pancreas	1.4
+hpa	ENSG00000117394	SLC2A1	parathyroid gland	4.2
+hpa	ENSG00000117394	SLC2A1	placenta	92.7
+hpa	ENSG00000117394	SLC2A1	prostate	1.7
+hpa	ENSG00000117394	SLC2A1	rectum	0.9
+hpa	ENSG00000117394	SLC2A1	salivary gland	0.7
+hpa	ENSG00000117394	SLC2A1	seminal vesicle	4.9
+hpa	ENSG00000117394	SLC2A1	skeletal muscle	0.4
+hpa	ENSG00000117394	SLC2A1	skin	13.7
+hpa	ENSG00000117394	SLC2A1	small intestine	1.4
+hpa	ENSG00000117394	SLC2A1	smooth muscle	0.4
+hpa	ENSG00000117394	SLC2A1	spleen	1.6
+hpa	ENSG00000117394	SLC2A1	stomach	8.0
+hpa	ENSG00000117394	SLC2A1	testis	0.5
+hpa	ENSG00000117394	SLC2A1	thymus	0.9
+hpa	ENSG00000117394	SLC2A1	thyroid gland	1.1
+hpa	ENSG00000117394	SLC2A1	tongue	1.4
+hpa	ENSG00000117394	SLC2A1	tonsil	2.0
+hpa	ENSG00000117394	SLC2A1	urinary bladder	11.4
+hpa	ENSG00000157005	SST	adipose tissue	5.2
+hpa	ENSG00000157005	SST	adrenal gland	40.5
+hpa	ENSG00000157005	SST	appendix	4.4
+hpa	ENSG00000157005	SST	bone marrow	4.0
+hpa	ENSG00000157005	SST	breast	0.0
+hpa	ENSG00000157005	SST	cerebral cortex	127.7
+hpa	ENSG00000157005	SST	cervix	0.0
+hpa	ENSG00000157005	SST	choroid plexus	8.0
+hpa	ENSG00000157005	SST	colon	29.8
+hpa	ENSG00000157005	SST	duodenum	363.7
+hpa	ENSG00000157005	SST	endometrium	0.7
+hpa	ENSG00000157005	SST	epididymis	0.1
+hpa	ENSG00000157005	SST	esophagus	1.5
+hpa	ENSG00000157005	SST	fallopian tube	0.2
+hpa	ENSG00000157005	SST	gallbladder	1.1
+hpa	ENSG00000157005	SST	heart muscle	1.2
+hpa	ENSG00000157005	SST	kidney	5.7
+hpa	ENSG00000157005	SST	liver	0.0
+hpa	ENSG00000157005	SST	lung	0.1
+hpa	ENSG00000157005	SST	lymph node	1.4
+hpa	ENSG00000157005	SST	ovary	0.4
+hpa	ENSG00000157005	SST	pancreas	356.6
+hpa	ENSG00000157005	SST	parathyroid gland	0.0
+hpa	ENSG00000157005	SST	placenta	0.1
+hpa	ENSG00000157005	SST	prostate	0.3
+hpa	ENSG00000157005	SST	rectum	22.4
+hpa	ENSG00000157005	SST	salivary gland	0.0
+hpa	ENSG00000157005	SST	seminal vesicle	20.4
+hpa	ENSG00000157005	SST	skeletal muscle	0.0
+hpa	ENSG00000157005	SST	skin	8.4
+hpa	ENSG00000157005	SST	small intestine	125.4
+hpa	ENSG00000157005	SST	smooth muscle	2.6
+hpa	ENSG00000157005	SST	spleen	0.1
+hpa	ENSG00000157005	SST	stomach	297.3
+hpa	ENSG00000157005	SST	testis	0.1
+hpa	ENSG00000157005	SST	thymus	1.0
+hpa	ENSG00000157005	SST	thyroid gland	0.7
+hpa	ENSG00000157005	SST	tongue	0.0
+hpa	ENSG00000157005	SST	tonsil	0.0
+hpa	ENSG00000157005	SST	urinary bladder	6.9
+hpa	ENSG00000141510	TP53	adipose tissue	12.4
+hpa	ENSG00000141510	TP53	adrenal gland	9.4
+hpa	ENSG00000141510	TP53	appendix	25.5
+hpa	ENSG00000141510	TP53	bone marrow	18.4
+hpa	ENSG00000141510	TP53	breast	21.1
+hpa	ENSG00000141510	TP53	cerebral cortex	12.3
+hpa	ENSG00000141510	TP53	cervix	16.1
+hpa	ENSG00000141510	TP53	choroid plexus	9.1
+hpa	ENSG00000141510	TP53	colon	27.1
+hpa	ENSG00000141510	TP53	duodenum	17.8
+hpa	ENSG00000141510	TP53	endometrium	22.8
+hpa	ENSG00000141510	TP53	epididymis	12.0
+hpa	ENSG00000141510	TP53	esophagus	27.1
+hpa	ENSG00000141510	TP53	fallopian tube	29.5
+hpa	ENSG00000141510	TP53	gallbladder	12.4
+hpa	ENSG00000141510	TP53	heart muscle	8.6
+hpa	ENSG00000141510	TP53	kidney	9.2
+hpa	ENSG00000141510	TP53	liver	14.0
+hpa	ENSG00000141510	TP53	lung	14.3
+hpa	ENSG00000141510	TP53	lymph node	32.4
+hpa	ENSG00000141510	TP53	ovary	26.4
+hpa	ENSG00000141510	TP53	pancreas	17.2
+hpa	ENSG00000141510	TP53	parathyroid gland	8.8
+hpa	ENSG00000141510	TP53	placenta	22.0
+hpa	ENSG00000141510	TP53	prostate	16.7
+hpa	ENSG00000141510	TP53	rectum	25.8
+hpa	ENSG00000141510	TP53	salivary gland	13.8
+hpa	ENSG00000141510	TP53	seminal vesicle	14.4
+hpa	ENSG00000141510	TP53	skeletal muscle	8.2
+hpa	ENSG00000141510	TP53	skin	35.4
+hpa	ENSG00000141510	TP53	small intestine	19.2
+hpa	ENSG00000141510	TP53	smooth muscle	23.0
+hpa	ENSG00000141510	TP53	spleen	29.3
+hpa	ENSG00000141510	TP53	stomach	21.3
+hpa	ENSG00000141510	TP53	testis	9.8
+hpa	ENSG00000141510	TP53	thymus	44.0
+hpa	ENSG00000141510	TP53	thyroid gland	16.3
+hpa	ENSG00000141510	TP53	tongue	5.7
+hpa	ENSG00000141510	TP53	tonsil	42.5
+hpa	ENSG00000141510	TP53	urinary bladder	19.4
+hpa	ENSG00000112715	VEGFA	adipose tissue	95.3
+hpa	ENSG00000112715	VEGFA	adrenal gland	49.5
+hpa	ENSG00000112715	VEGFA	appendix	34.9
+hpa	ENSG00000112715	VEGFA	bone marrow	43.4
+hpa	ENSG00000112715	VEGFA	breast	18.6
+hpa	ENSG00000112715	VEGFA	cerebral cortex	17.5
+hpa	ENSG00000112715	VEGFA	cervix	16.8
+hpa	ENSG00000112715	VEGFA	choroid plexus	40.4
+hpa	ENSG00000112715	VEGFA	colon	25.1
+hpa	ENSG00000112715	VEGFA	duodenum	48.6
+hpa	ENSG00000112715	VEGFA	endometrium	88.3
+hpa	ENSG00000112715	VEGFA	epididymis	10.0
+hpa	ENSG00000112715	VEGFA	esophagus	35.8
+hpa	ENSG00000112715	VEGFA	fallopian tube	16.6
+hpa	ENSG00000112715	VEGFA	gallbladder	76.4
+hpa	ENSG00000112715	VEGFA	heart muscle	102.9
+hpa	ENSG00000112715	VEGFA	kidney	60.6
+hpa	ENSG00000112715	VEGFA	liver	86.1
+hpa	ENSG00000112715	VEGFA	lung	85.8
+hpa	ENSG00000112715	VEGFA	lymph node	8.8
+hpa	ENSG00000112715	VEGFA	ovary	7.1
+hpa	ENSG00000112715	VEGFA	pancreas	65.8
+hpa	ENSG00000112715	VEGFA	parathyroid gland	100.2
+hpa	ENSG00000112715	VEGFA	placenta	44.0
+hpa	ENSG00000112715	VEGFA	prostate	113.6
+hpa	ENSG00000112715	VEGFA	rectum	20.4
+hpa	ENSG00000112715	VEGFA	salivary gland	28.4
+hpa	ENSG00000112715	VEGFA	seminal vesicle	16.7
+hpa	ENSG00000112715	VEGFA	skeletal muscle	116.1
+hpa	ENSG00000112715	VEGFA	skin	18.6
+hpa	ENSG00000112715	VEGFA	small intestine	42.8
+hpa	ENSG00000112715	VEGFA	smooth muscle	53.6
+hpa	ENSG00000112715	VEGFA	spleen	55.0
+hpa	ENSG00000112715	VEGFA	stomach	61.6
+hpa	ENSG00000112715	VEGFA	testis	3.4
+hpa	ENSG00000112715	VEGFA	thymus	5.3
+hpa	ENSG00000112715	VEGFA	thyroid gland	255.6
+hpa	ENSG00000112715	VEGFA	tongue	143.7
+hpa	ENSG00000112715	VEGFA	tonsil	9.0
+hpa	ENSG00000112715	VEGFA	urinary bladder	115.2

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "q01",
+    "question": "What is ALB expression in liver?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 198523.8
+      },
+      {
+        "source": "gtex",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 60543.2
+      },
+      {
+        "source": "hpa",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 198523.8
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q02",
+    "question": "What is INS expression in pancreas?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 12197.1
+      },
+      {
+        "source": "gtex",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 11162.3
+      },
+      {
+        "source": "hpa",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 12197.1
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q03",
+    "question": "What is GFAP expression in cerebral cortex?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "GFAP",
+        "tissue": "cerebral cortex",
+        "ntpm": 2345.3
+      },
+      {
+        "source": "gtex",
+        "gene": "GFAP",
+        "tissue": "cerebral cortex",
+        "ntpm": 2345.3
+      },
+      {
+        "source": "hpa",
+        "gene": "GFAP",
+        "tissue": "cerebral cortex",
+        "ntpm": 2160.4
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q04",
+    "question": "What is TP53 expression in lung?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "TP53",
+        "tissue": "lung",
+        "ntpm": 14.3
+      },
+      {
+        "source": "gtex",
+        "gene": "TP53",
+        "tissue": "lung",
+        "ntpm": 12.0
+      },
+      {
+        "source": "hpa",
+        "gene": "TP53",
+        "tissue": "lung",
+        "ntpm": 14.3
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q05",
+    "question": "What is ACE2 expression in kidney?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "ACE2",
+        "tissue": "kidney",
+        "ntpm": 82.4
+      },
+      {
+        "source": "gtex",
+        "gene": "ACE2",
+        "tissue": "kidney",
+        "ntpm": 11.1
+      },
+      {
+        "source": "hpa",
+        "gene": "ACE2",
+        "tissue": "kidney",
+        "ntpm": 82.4
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q06",
+    "question": "What is CD3D expression in spleen?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "CD3D",
+        "tissue": "spleen",
+        "ntpm": 50.5
+      },
+      {
+        "source": "gtex",
+        "gene": "CD3D",
+        "tissue": "spleen",
+        "ntpm": 48.5
+      },
+      {
+        "source": "hpa",
+        "gene": "CD3D",
+        "tissue": "spleen",
+        "ntpm": 50.5
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q07",
+    "question": "What is MS4A1 expression in lymph node?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "MS4A1",
+        "tissue": "lymph node",
+        "ntpm": 467.3
+      },
+      {
+        "source": "hpa",
+        "gene": "MS4A1",
+        "tissue": "lymph node",
+        "ntpm": 467.3
+      }
+    ],
+    "expected_missing": true
+  },
+  {
+    "id": "q08",
+    "question": "What is VEGFA expression in heart muscle?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "VEGFA",
+        "tissue": "heart muscle",
+        "ntpm": 202.6
+      },
+      {
+        "source": "gtex",
+        "gene": "VEGFA",
+        "tissue": "heart muscle",
+        "ntpm": 202.6
+      },
+      {
+        "source": "hpa",
+        "gene": "VEGFA",
+        "tissue": "heart muscle",
+        "ntpm": 102.9
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q09",
+    "question": "What is GAPDH expression in skeletal muscle?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "GAPDH",
+        "tissue": "skeletal muscle",
+        "ntpm": 25843.3
+      },
+      {
+        "source": "gtex",
+        "gene": "GAPDH",
+        "tissue": "skeletal muscle",
+        "ntpm": 17452.8
+      },
+      {
+        "source": "hpa",
+        "gene": "GAPDH",
+        "tissue": "skeletal muscle",
+        "ntpm": 25843.3
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q10",
+    "question": "What is APOE expression in liver?",
+    "kind": "lookup",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "APOE",
+        "tissue": "liver",
+        "ntpm": 6533.9
+      },
+      {
+        "source": "gtex",
+        "gene": "APOE",
+        "tissue": "liver",
+        "ntpm": 6533.9
+      },
+      {
+        "source": "hpa",
+        "gene": "APOE",
+        "tissue": "liver",
+        "ntpm": 2994.2
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q11",
+    "question": "Compare ALB in liver and pancreas",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 198523.8
+      },
+      {
+        "source": "consensus",
+        "gene": "ALB",
+        "tissue": "pancreas",
+        "ntpm": 1480.5
+      },
+      {
+        "source": "gtex",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 60543.2
+      },
+      {
+        "source": "gtex",
+        "gene": "ALB",
+        "tissue": "pancreas",
+        "ntpm": 701.1
+      },
+      {
+        "source": "hpa",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 198523.8
+      },
+      {
+        "source": "hpa",
+        "gene": "ALB",
+        "tissue": "pancreas",
+        "ntpm": 1480.5
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q12",
+    "question": "Compare INS in pancreas and liver",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "INS",
+        "tissue": "liver",
+        "ntpm": 1.9
+      },
+      {
+        "source": "consensus",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 12197.1
+      },
+      {
+        "source": "gtex",
+        "gene": "INS",
+        "tissue": "liver",
+        "ntpm": 1.9
+      },
+      {
+        "source": "gtex",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 11162.3
+      },
+      {
+        "source": "hpa",
+        "gene": "INS",
+        "tissue": "liver",
+        "ntpm": 0.0
+      },
+      {
+        "source": "hpa",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 12197.1
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q13",
+    "question": "Compare EGFR in lung and skin",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "EGFR",
+        "tissue": "lung",
+        "ntpm": 14.1
+      },
+      {
+        "source": "consensus",
+        "gene": "EGFR",
+        "tissue": "skin",
+        "ntpm": 48.4
+      },
+      {
+        "source": "gtex",
+        "gene": "EGFR",
+        "tissue": "lung",
+        "ntpm": 11.5
+      },
+      {
+        "source": "gtex",
+        "gene": "EGFR",
+        "tissue": "skin",
+        "ntpm": 48.4
+      },
+      {
+        "source": "hpa",
+        "gene": "EGFR",
+        "tissue": "lung",
+        "ntpm": 14.1
+      },
+      {
+        "source": "hpa",
+        "gene": "EGFR",
+        "tissue": "skin",
+        "ntpm": 45.7
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q14",
+    "question": "Compare ERBB2 in breast and lung",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "ERBB2",
+        "tissue": "breast",
+        "ntpm": 52.4
+      },
+      {
+        "source": "consensus",
+        "gene": "ERBB2",
+        "tissue": "lung",
+        "ntpm": 34.1
+      },
+      {
+        "source": "gtex",
+        "gene": "ERBB2",
+        "tissue": "breast",
+        "ntpm": 28.4
+      },
+      {
+        "source": "gtex",
+        "gene": "ERBB2",
+        "tissue": "lung",
+        "ntpm": 28.2
+      },
+      {
+        "source": "hpa",
+        "gene": "ERBB2",
+        "tissue": "breast",
+        "ntpm": 52.4
+      },
+      {
+        "source": "hpa",
+        "gene": "ERBB2",
+        "tissue": "lung",
+        "ntpm": 34.1
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q15",
+    "question": "Compare TP53 in liver and lung",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "TP53",
+        "tissue": "liver",
+        "ntpm": 15.6
+      },
+      {
+        "source": "consensus",
+        "gene": "TP53",
+        "tissue": "lung",
+        "ntpm": 14.3
+      },
+      {
+        "source": "gtex",
+        "gene": "TP53",
+        "tissue": "liver",
+        "ntpm": 15.6
+      },
+      {
+        "source": "gtex",
+        "gene": "TP53",
+        "tissue": "lung",
+        "ntpm": 12.0
+      },
+      {
+        "source": "hpa",
+        "gene": "TP53",
+        "tissue": "liver",
+        "ntpm": 14.0
+      },
+      {
+        "source": "hpa",
+        "gene": "TP53",
+        "tissue": "lung",
+        "ntpm": 14.3
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q16",
+    "question": "Compare BRCA1 in breast and ovary",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "BRCA1",
+        "tissue": "breast",
+        "ntpm": 3.2
+      },
+      {
+        "source": "consensus",
+        "gene": "BRCA1",
+        "tissue": "ovary",
+        "ntpm": 2.6
+      },
+      {
+        "source": "gtex",
+        "gene": "BRCA1",
+        "tissue": "breast",
+        "ntpm": 1.4
+      },
+      {
+        "source": "gtex",
+        "gene": "BRCA1",
+        "tissue": "ovary",
+        "ntpm": 1.5
+      },
+      {
+        "source": "hpa",
+        "gene": "BRCA1",
+        "tissue": "breast",
+        "ntpm": 3.2
+      },
+      {
+        "source": "hpa",
+        "gene": "BRCA1",
+        "tissue": "ovary",
+        "ntpm": 2.6
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q17",
+    "question": "Compare BRCA2 in testis and ovary",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "BRCA2",
+        "tissue": "ovary",
+        "ntpm": 0.3
+      },
+      {
+        "source": "consensus",
+        "gene": "BRCA2",
+        "tissue": "testis",
+        "ntpm": 2.9
+      },
+      {
+        "source": "gtex",
+        "gene": "BRCA2",
+        "tissue": "ovary",
+        "ntpm": 0.0
+      },
+      {
+        "source": "gtex",
+        "gene": "BRCA2",
+        "tissue": "testis",
+        "ntpm": 1.2
+      },
+      {
+        "source": "hpa",
+        "gene": "BRCA2",
+        "tissue": "ovary",
+        "ntpm": 0.3
+      },
+      {
+        "source": "hpa",
+        "gene": "BRCA2",
+        "tissue": "testis",
+        "ntpm": 2.9
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q18",
+    "question": "Compare MBP in cerebral cortex and liver",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "MBP",
+        "tissue": "cerebral cortex",
+        "ntpm": 7549.7
+      },
+      {
+        "source": "consensus",
+        "gene": "MBP",
+        "tissue": "liver",
+        "ntpm": 21.2
+      },
+      {
+        "source": "gtex",
+        "gene": "MBP",
+        "tissue": "cerebral cortex",
+        "ntpm": 7549.7
+      },
+      {
+        "source": "gtex",
+        "gene": "MBP",
+        "tissue": "liver",
+        "ntpm": 21.2
+      },
+      {
+        "source": "hpa",
+        "gene": "MBP",
+        "tissue": "cerebral cortex",
+        "ntpm": 1624.3
+      },
+      {
+        "source": "hpa",
+        "gene": "MBP",
+        "tissue": "liver",
+        "ntpm": 17.8
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q19",
+    "question": "Compare CD8A in spleen and lung",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "CD8A",
+        "tissue": "lung",
+        "ntpm": 10.2
+      },
+      {
+        "source": "consensus",
+        "gene": "CD8A",
+        "tissue": "spleen",
+        "ntpm": 94.1
+      },
+      {
+        "source": "gtex",
+        "gene": "CD8A",
+        "tissue": "lung",
+        "ntpm": 10.2
+      },
+      {
+        "source": "gtex",
+        "gene": "CD8A",
+        "tissue": "spleen",
+        "ntpm": 94.1
+      },
+      {
+        "source": "hpa",
+        "gene": "CD8A",
+        "tissue": "lung",
+        "ntpm": 6.4
+      },
+      {
+        "source": "hpa",
+        "gene": "CD8A",
+        "tissue": "spleen",
+        "ntpm": 84.1
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q20",
+    "question": "Compare SLC2A1 in heart muscle and kidney",
+    "kind": "comparison",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus",
+      "gtex",
+      "hpa"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "SLC2A1",
+        "tissue": "heart muscle",
+        "ntpm": 11.1
+      },
+      {
+        "source": "consensus",
+        "gene": "SLC2A1",
+        "tissue": "kidney",
+        "ntpm": 11.8
+      },
+      {
+        "source": "gtex",
+        "gene": "SLC2A1",
+        "tissue": "heart muscle",
+        "ntpm": 11.1
+      },
+      {
+        "source": "gtex",
+        "gene": "SLC2A1",
+        "tissue": "kidney",
+        "ntpm": 11.8
+      },
+      {
+        "source": "hpa",
+        "gene": "SLC2A1",
+        "tissue": "heart muscle",
+        "ntpm": 0.5
+      },
+      {
+        "source": "hpa",
+        "gene": "SLC2A1",
+        "tissue": "kidney",
+        "ntpm": 2.8
+      }
+    ],
+    "expected_missing": false
+  },
+  {
+    "id": "q21",
+    "question": "Rank the top 3 tissues for ALB",
+    "kind": "ranking",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "ALB",
+        "tissue": "liver",
+        "ntpm": 198523.8
+      },
+      {
+        "source": "consensus",
+        "gene": "ALB",
+        "tissue": "pancreas",
+        "ntpm": 1480.5
+      },
+      {
+        "source": "consensus",
+        "gene": "ALB",
+        "tissue": "kidney",
+        "ntpm": 433.7
+      }
+    ],
+    "expected_missing": true
+  },
+  {
+    "id": "q22",
+    "question": "Rank the top 3 tissues for INS",
+    "kind": "ranking",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "INS",
+        "tissue": "pancreas",
+        "ntpm": 12197.1
+      },
+      {
+        "source": "consensus",
+        "gene": "INS",
+        "tissue": "skin",
+        "ntpm": 90.4
+      },
+      {
+        "source": "consensus",
+        "gene": "INS",
+        "tissue": "bone marrow",
+        "ntpm": 47.2
+      }
+    ],
+    "expected_missing": true
+  },
+  {
+    "id": "q23",
+    "question": "Rank the top 3 tissues for GCG",
+    "kind": "ranking",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "GCG",
+        "tissue": "pancreas",
+        "ntpm": 1834.3
+      },
+      {
+        "source": "consensus",
+        "gene": "GCG",
+        "tissue": "rectum",
+        "ntpm": 142.7
+      },
+      {
+        "source": "consensus",
+        "gene": "GCG",
+        "tissue": "small intestine",
+        "ntpm": 122.6
+      }
+    ],
+    "expected_missing": true
+  },
+  {
+    "id": "q24",
+    "question": "Rank the top 3 tissues for SST",
+    "kind": "ranking",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "SST",
+        "tissue": "hypothalamus",
+        "ntpm": 622.0
+      },
+      {
+        "source": "consensus",
+        "gene": "SST",
+        "tissue": "pancreas",
+        "ntpm": 479.7
+      },
+      {
+        "source": "consensus",
+        "gene": "SST",
+        "tissue": "stomach",
+        "ntpm": 416.6
+      }
+    ],
+    "expected_missing": true
+  },
+  {
+    "id": "q25",
+    "question": "Rank the top 3 tissues for GFAP",
+    "kind": "ranking",
+    "force_agents": false,
+    "expected_sources": [
+      "consensus"
+    ],
+    "expected_measurements": [
+      {
+        "source": "consensus",
+        "gene": "GFAP",
+        "tissue": "spinal cord",
+        "ntpm": 15929.3
+      },
+      {
+        "source": "consensus",
+        "gene": "GFAP",
+        "tissue": "midbrain",
+        "ntpm": 7623.8
+      },
+      {
+        "source": "consensus",
+        "gene": "GFAP",
+        "tissue": "hypothalamus",
+        "ntpm": 5882.0
+      }
+    ],
+    "expected_missing": true
+  },
+  {
+    "id": "q26",
+    "question": "What is NOTAGENE expression in liver?",
+    "kind": "missing",
+    "force_agents": false,
+    "expected_sources": [],
+    "expected_measurements": [],
+    "expected_missing": true
+  },
+  {
+    "id": "q27",
+    "question": "What is ALB expression in Mars?",
+    "kind": "missing",
+    "force_agents": false,
+    "expected_sources": [],
+    "expected_measurements": [],
+    "expected_missing": true
+  },
+  {
+    "id": "q28",
+    "question": "Does TP53 cure cancer?",
+    "kind": "missing",
+    "force_agents": false,
+    "expected_sources": [],
+    "expected_measurements": [],
+    "expected_missing": true
+  },
+  {
+    "id": "q29",
+    "question": "What is INS expression in a bacterial culture?",
+    "kind": "missing",
+    "force_agents": false,
+    "expected_sources": [],
+    "expected_measurements": [],
+    "expected_missing": true
+  },
+  {
+    "id": "q30",
+    "question": "Which drug should I take?",
+    "kind": "missing",
+    "force_agents": false,
+    "expected_sources": [],
+    "expected_measurements": [],
+    "expected_missing": true
+  }
+]
