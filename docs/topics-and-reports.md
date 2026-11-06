@@ -49,3 +49,13 @@ The receiver binds to localhost by default and has no authentication or retentio
 I can create an HTTP-triggered Power Automate flow, or use another trusted receiver, with `request` and `source` as required string fields. It must accept the contract above and return an empty successful response or a JSON receipt. A typical Microsoft flow would call the expression service and create a file in its configured storage; the local runner is the complete account-free demonstration of those steps.
 
 I set `OMICS_REPORT_WEBHOOK` to the endpoint URL in my shell. The URL and any credential embedded in it stay outside the repository. Requests contain the original report message, so only a trusted endpoint should receive them. Non-success HTTP status, network errors, and oversized responses fail the command; there is no success-shaped fallback or automatic retry that could duplicate report creation. Only the local flow is covered by the end-to-end test; no Microsoft account is required or claimed.
+
+## Where I change the configuration
+
+| File | What I use it for |
+| --- | --- |
+| [Topic configuration](../src/omics_rag/data/topics.yaml) | Change trigger phrases, knowledge source names, and the report action. |
+| [Labelled retrieval questions](../src/omics_rag/data/retrieval-queries.json) | Inspect the explicit gene, tissue, and source targets used to compare search methods. |
+| [Report flow export](../flows/report-flow.json) | Inspect the local receiver's HTTP contract and ordered report steps. |
+| [Routing tests](../tests/test_topic_agent.py) | Check topic matches, clarification, logs, and the outbound request. |
+| [Report tests](../tests/test_report_flow.py) | Check the actual report export, download, and server cleanup. |
