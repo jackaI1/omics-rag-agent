@@ -1,0 +1,12 @@
+knowledge_sources:
+  expression:
+    - tfidf
+    - sqlite
+topics:
+  - id: report
+    triggers: ["request a report", "send a report", "create a report"]
+    action: report_webhook
+  - id: expression
+    triggers: ["expression", "compare", "rank", "lookup", "tissues"]
+    knowledge: expression
+fallback: "What would you like to do: look up gene expression or request a report?"

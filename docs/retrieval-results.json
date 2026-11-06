@@ -1,0 +1,1198 @@
+{
+  "queries": 24,
+  "documents": 2540,
+  "k": 5,
+  "results": [
+    {
+      "mode": "tfidf",
+      "recall@5": 0.6944444444444445,
+      "mrr@5": 0.6319444444444444,
+      "queries": [
+        {
+          "id": "exact-alb-liver",
+          "ranked_ids": [
+            1838,
+            126,
+            1110,
+            1825,
+            1827
+          ],
+          "relevant_ids": [
+            126,
+            1110,
+            1838
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-ins-pancreas",
+          "ranked_ids": [
+            2282,
+            692,
+            1510,
+            2265,
+            2267
+          ],
+          "relevant_ids": [
+            692,
+            1510,
+            2282
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-mbp-brain",
+          "ranked_ids": [
+            2306,
+            724,
+            1532,
+            2321,
+            2335
+          ],
+          "relevant_ids": [
+            724,
+            1532,
+            2306
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-ace-kidney",
+          "ranked_ids": [
+            1037,
+            1757,
+            23,
+            1745,
+            1747
+          ],
+          "relevant_ids": [
+            23,
+            1037,
+            1757
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-actb-heart",
+          "ranked_ids": [
+            1796,
+            71,
+            1070,
+            1812,
+            1809
+          ],
+          "relevant_ids": [
+            71,
+            1070,
+            1796
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-gfap-cerebellum",
+          "ranked_ids": [
+            621,
+            1459,
+            2225,
+            2227,
+            2229
+          ],
+          "relevant_ids": [
+            621,
+            1459
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-cd3d-thymus",
+          "ranked_ids": [
+            2016,
+            352,
+            1985,
+            1987,
+            1991
+          ],
+          "relevant_ids": [
+            352,
+            2016
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-egfr-skin",
+          "ranked_ids": [
+            2090,
+            447,
+            1336,
+            2093,
+            2094
+          ],
+          "relevant_ids": [
+            447,
+            1336,
+            2090
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-heart",
+          "ranked_ids": [
+            1795,
+            1813,
+            1802,
+            1782,
+            1783
+          ],
+          "relevant_ids": [
+            71,
+            1070,
+            1796
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-fat",
+          "ranked_ids": [
+            1873,
+            1898,
+            1897,
+            201,
+            1885
+          ],
+          "relevant_ids": [
+            154,
+            1129,
+            1861
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-bladder",
+          "ranked_ids": [
+            1026,
+            1029,
+            1030,
+            1031,
+            1032
+          ],
+          "relevant_ids": [
+            50,
+            1055,
+            1780
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-esophagus",
+          "ranked_ids": [
+            1602,
+            1606,
+            1607,
+            1614,
+            1615
+          ],
+          "relevant_ids": [
+            833,
+            1608,
+            2393
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-muscle",
+          "ranked_ids": [
+            2169,
+            2172,
+            2156,
+            530,
+            548
+          ],
+          "relevant_ids": [
+            548,
+            1407,
+            2169
+          ],
+          "recall@5": 0.6666666666666666,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-lung",
+          "ranked_ids": [
+            1701,
+            1671,
+            1675,
+            1684,
+            1688
+          ],
+          "relevant_ids": [
+            943,
+            1687,
+            2479
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-stomach",
+          "ranked_ids": [
+            1422,
+            1425,
+            1426,
+            1427,
+            1428
+          ],
+          "relevant_ids": [
+            605,
+            1448,
+            2214
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-salivary",
+          "ranked_ids": [
+            2093,
+            2094,
+            2095,
+            2063,
+            2070
+          ],
+          "relevant_ids": [
+            444,
+            1334,
+            2087
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "source-gtex",
+          "ranked_ids": [
+            1110,
+            1838,
+            126,
+            1098,
+            1101
+          ],
+          "relevant_ids": [
+            1110
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-hpa",
+          "ranked_ids": [
+            2282,
+            1510,
+            692,
+            2265,
+            2267
+          ],
+          "relevant_ids": [
+            2282
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-consensus",
+          "ranked_ids": [
+            724,
+            2306,
+            1532,
+            759,
+            730
+          ],
+          "relevant_ids": [
+            724
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-other-donors",
+          "ranked_ids": [
+            1110,
+            1838,
+            126,
+            1098,
+            1101
+          ],
+          "relevant_ids": [
+            1110
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-maximum",
+          "ranked_ids": [
+            1510,
+            2282,
+            692,
+            1494,
+            1497
+          ],
+          "relevant_ids": [
+            692
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.3333333333333333
+        },
+        {
+          "id": "source-atlas",
+          "ranked_ids": [
+            1470,
+            2238,
+            636,
+            1458,
+            1461
+          ],
+          "relevant_ids": [
+            2238
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.5
+        },
+        {
+          "id": "source-combined",
+          "ranked_ids": [
+            1146,
+            1878,
+            177,
+            1155,
+            1150
+          ],
+          "relevant_ids": [
+            177
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.3333333333333333
+        },
+        {
+          "id": "source-independent",
+          "ranked_ids": [
+            1037,
+            1026,
+            1029,
+            1030,
+            1031
+          ],
+          "relevant_ids": [
+            1037
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        }
+      ]
+    },
+    {
+      "mode": "embedding",
+      "recall@5": 0.9722222222222222,
+      "mrr@5": 0.8993055555555555,
+      "queries": [
+        {
+          "id": "exact-alb-liver",
+          "ranked_ids": [
+            126,
+            1838,
+            1110,
+            146,
+            1854
+          ],
+          "relevant_ids": [
+            126,
+            1110,
+            1838
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-ins-pancreas",
+          "ranked_ids": [
+            2282,
+            1510,
+            692,
+            1517,
+            703
+          ],
+          "relevant_ids": [
+            692,
+            1510,
+            2282
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-mbp-brain",
+          "ranked_ids": [
+            724,
+            2306,
+            1532,
+            735,
+            719
+          ],
+          "relevant_ids": [
+            724,
+            1532,
+            2306
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-ace-kidney",
+          "ranked_ids": [
+            1757,
+            1037,
+            23,
+            1758,
+            1750
+          ],
+          "relevant_ids": [
+            23,
+            1037,
+            1757
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-actb-heart",
+          "ranked_ids": [
+            1796,
+            71,
+            1070,
+            1809,
+            89
+          ],
+          "relevant_ids": [
+            71,
+            1070,
+            1796
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-gfap-cerebellum",
+          "ranked_ids": [
+            621,
+            1459,
+            622,
+            634,
+            1460
+          ],
+          "relevant_ids": [
+            621,
+            1459
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-cd3d-thymus",
+          "ranked_ids": [
+            2016,
+            352,
+            2017,
+            2003,
+            353
+          ],
+          "relevant_ids": [
+            352,
+            2016
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-egfr-skin",
+          "ranked_ids": [
+            447,
+            1336,
+            2090,
+            424,
+            2072
+          ],
+          "relevant_ids": [
+            447,
+            1336,
+            2090
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-heart",
+          "ranked_ids": [
+            1070,
+            1796,
+            71,
+            1061,
+            57
+          ],
+          "relevant_ids": [
+            71,
+            1070,
+            1796
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-fat",
+          "ranked_ids": [
+            1861,
+            154,
+            1129,
+            1865,
+            197
+          ],
+          "relevant_ids": [
+            154,
+            1129,
+            1861
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-bladder",
+          "ranked_ids": [
+            1780,
+            1055,
+            50,
+            1757,
+            1037
+          ],
+          "relevant_ids": [
+            50,
+            1055,
+            1780
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-esophagus",
+          "ranked_ids": [
+            2418,
+            2394,
+            2414,
+            2393,
+            2411
+          ],
+          "relevant_ids": [
+            833,
+            1608,
+            2393
+          ],
+          "recall@5": 0.3333333333333333,
+          "mrr@5": 0.25
+        },
+        {
+          "id": "paraphrase-muscle",
+          "ranked_ids": [
+            551,
+            548,
+            2172,
+            1407,
+            2169
+          ],
+          "relevant_ids": [
+            548,
+            1407,
+            2169
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.5
+        },
+        {
+          "id": "paraphrase-lung",
+          "ranked_ids": [
+            2479,
+            943,
+            1687,
+            2476,
+            2473
+          ],
+          "relevant_ids": [
+            943,
+            1687,
+            2479
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-stomach",
+          "ranked_ids": [
+            1448,
+            605,
+            2214,
+            1428,
+            1445
+          ],
+          "relevant_ids": [
+            605,
+            1448,
+            2214
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-salivary",
+          "ranked_ids": [
+            2087,
+            444,
+            1334,
+            456,
+            2098
+          ],
+          "relevant_ids": [
+            444,
+            1334,
+            2087
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-gtex",
+          "ranked_ids": [
+            1110,
+            126,
+            1124,
+            1838,
+            1109
+          ],
+          "relevant_ids": [
+            1110
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-hpa",
+          "ranked_ids": [
+            2282,
+            692,
+            1510,
+            2294,
+            707
+          ],
+          "relevant_ids": [
+            2282
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-consensus",
+          "ranked_ids": [
+            724,
+            735,
+            2306,
+            1532,
+            719
+          ],
+          "relevant_ids": [
+            724
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-other-donors",
+          "ranked_ids": [
+            1110,
+            1838,
+            126,
+            1837,
+            1109
+          ],
+          "relevant_ids": [
+            1110
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-maximum",
+          "ranked_ids": [
+            2282,
+            1510,
+            692,
+            1517,
+            1520
+          ],
+          "relevant_ids": [
+            692
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.3333333333333333
+        },
+        {
+          "id": "source-atlas",
+          "ranked_ids": [
+            2238,
+            2223,
+            1470,
+            2254,
+            636
+          ],
+          "relevant_ids": [
+            2238
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-combined",
+          "ranked_ids": [
+            1878,
+            177,
+            1146,
+            1868,
+            1863
+          ],
+          "relevant_ids": [
+            177
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.5
+        },
+        {
+          "id": "source-independent",
+          "ranked_ids": [
+            1037,
+            23,
+            1757,
+            1038,
+            1055
+          ],
+          "relevant_ids": [
+            1037
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        }
+      ]
+    },
+    {
+      "mode": "hybrid",
+      "recall@5": 0.7638888888888888,
+      "mrr@5": 0.7256944444444445,
+      "queries": [
+        {
+          "id": "exact-alb-liver",
+          "ranked_ids": [
+            126,
+            1838,
+            1110,
+            1825,
+            1854
+          ],
+          "relevant_ids": [
+            126,
+            1110,
+            1838
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-ins-pancreas",
+          "ranked_ids": [
+            2282,
+            692,
+            1510,
+            2270,
+            2273
+          ],
+          "relevant_ids": [
+            692,
+            1510,
+            2282
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-mbp-brain",
+          "ranked_ids": [
+            724,
+            2306,
+            1532,
+            749,
+            1549
+          ],
+          "relevant_ids": [
+            724,
+            1532,
+            2306
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-ace-kidney",
+          "ranked_ids": [
+            1037,
+            1757,
+            23,
+            1758,
+            1759
+          ],
+          "relevant_ids": [
+            23,
+            1037,
+            1757
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-actb-heart",
+          "ranked_ids": [
+            1796,
+            71,
+            1070,
+            1809,
+            1812
+          ],
+          "relevant_ids": [
+            71,
+            1070,
+            1796
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-gfap-cerebellum",
+          "ranked_ids": [
+            621,
+            1459,
+            620,
+            2225,
+            623
+          ],
+          "relevant_ids": [
+            621,
+            1459
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-cd3d-thymus",
+          "ranked_ids": [
+            2016,
+            352,
+            2017,
+            2015,
+            2018
+          ],
+          "relevant_ids": [
+            352,
+            2016
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "exact-egfr-skin",
+          "ranked_ids": [
+            447,
+            2090,
+            1336,
+            2072,
+            2062
+          ],
+          "relevant_ids": [
+            447,
+            1336,
+            2090
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-heart",
+          "ranked_ids": [
+            1813,
+            1783,
+            1785,
+            1796,
+            1809
+          ],
+          "relevant_ids": [
+            71,
+            1070,
+            1796
+          ],
+          "recall@5": 0.3333333333333333,
+          "mrr@5": 0.25
+        },
+        {
+          "id": "paraphrase-fat",
+          "ranked_ids": [
+            1865,
+            1885,
+            1894,
+            1889,
+            1876
+          ],
+          "relevant_ids": [
+            154,
+            1129,
+            1861
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-bladder",
+          "ranked_ids": [
+            1038,
+            1056,
+            1044,
+            1758,
+            1765
+          ],
+          "relevant_ids": [
+            50,
+            1055,
+            1780
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "paraphrase-esophagus",
+          "ranked_ids": [
+            2393,
+            2397,
+            2414,
+            1628,
+            1606
+          ],
+          "relevant_ids": [
+            833,
+            1608,
+            2393
+          ],
+          "recall@5": 0.3333333333333333,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "paraphrase-muscle",
+          "ranked_ids": [
+            2172,
+            2169,
+            548,
+            551,
+            530
+          ],
+          "relevant_ids": [
+            548,
+            1407,
+            2169
+          ],
+          "recall@5": 0.6666666666666666,
+          "mrr@5": 0.5
+        },
+        {
+          "id": "paraphrase-lung",
+          "ranked_ids": [
+            1684,
+            1687,
+            2477,
+            2476,
+            2479
+          ],
+          "relevant_ids": [
+            943,
+            1687,
+            2479
+          ],
+          "recall@5": 0.6666666666666666,
+          "mrr@5": 0.5
+        },
+        {
+          "id": "paraphrase-stomach",
+          "ranked_ids": [
+            1428,
+            1448,
+            1426,
+            1434,
+            1435
+          ],
+          "relevant_ids": [
+            605,
+            1448,
+            2214
+          ],
+          "recall@5": 0.3333333333333333,
+          "mrr@5": 0.5
+        },
+        {
+          "id": "paraphrase-salivary",
+          "ranked_ids": [
+            2062,
+            2095,
+            2094,
+            2083,
+            2099
+          ],
+          "relevant_ids": [
+            444,
+            1334,
+            2087
+          ],
+          "recall@5": 0.0,
+          "mrr@5": 0
+        },
+        {
+          "id": "source-gtex",
+          "ranked_ids": [
+            1110,
+            126,
+            1838,
+            1098,
+            1124
+          ],
+          "relevant_ids": [
+            1110
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-hpa",
+          "ranked_ids": [
+            2282,
+            692,
+            1510,
+            2281,
+            2286
+          ],
+          "relevant_ids": [
+            2282
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-consensus",
+          "ranked_ids": [
+            724,
+            2306,
+            1532,
+            759,
+            749
+          ],
+          "relevant_ids": [
+            724
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-other-donors",
+          "ranked_ids": [
+            1110,
+            1838,
+            126,
+            1098,
+            1113
+          ],
+          "relevant_ids": [
+            1110
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-maximum",
+          "ranked_ids": [
+            1510,
+            2282,
+            692,
+            1520,
+            1498
+          ],
+          "relevant_ids": [
+            692
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.3333333333333333
+        },
+        {
+          "id": "source-atlas",
+          "ranked_ids": [
+            2238,
+            1470,
+            636,
+            1458,
+            2225
+          ],
+          "relevant_ids": [
+            2238
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        },
+        {
+          "id": "source-combined",
+          "ranked_ids": [
+            1878,
+            1146,
+            177,
+            1160,
+            1161
+          ],
+          "relevant_ids": [
+            177
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 0.3333333333333333
+        },
+        {
+          "id": "source-independent",
+          "ranked_ids": [
+            1037,
+            1038,
+            23,
+            1041,
+            1039
+          ],
+          "relevant_ids": [
+            1037
+          ],
+          "recall@5": 1.0,
+          "mrr@5": 1.0
+        }
+      ]
+    }
+  ]
+}
