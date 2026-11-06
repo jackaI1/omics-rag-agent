@@ -1,5 +1,9 @@
 # Topics, knowledge, and a report action
 
+I built a way to save gene activity comparisons because I wanted the numbers and their sources together when I returned to a question. The public tables measure RNA abundance, which helps show where a gene is active in normal human tissues. A report keeps the published values, links to their source tables, and warnings when collections disagree or evidence is missing. It does not turn these measurements into a diagnosis.
+
+For example, `request a report for ALB in liver` saves the available liver measurements for the ALB gene. The response tells me where to download the report. The same interface can answer a lookup without saving a file; the topic decides which of those two jobs I asked for.
+
 I use the same broad structure as Copilot Studio: topics decide what a message means, knowledge sources supply evidence, and an action starts a workflow. This is my own open-source implementation. I have not deployed it in Microsoft's product or tested a Microsoft tenant.
 
 `src/omics_rag/data/topics.yaml` is the declarative configuration. The expression topic references the existing TF-IDF index and SQLite store through `QA`. The report topic calls an HTTP action. Trigger phrases match whole words, ignoring case. My confidence rule is conservative: exactly one topic with an explicit trigger must match. Zero or multiple topic matches return the configured clarification, with no action. It is not a learned intent classifier. For example, `request a report about expression` deliberately needs clarification.
