@@ -1,0 +1,202 @@
+[
+  {
+    "id": "exact-alb-liver",
+    "query": "ALB expression in liver",
+    "relevant": {
+      "gene": "ALB",
+      "tissue": "liver"
+    }
+  },
+  {
+    "id": "exact-ins-pancreas",
+    "query": "INS RNA in pancreas",
+    "relevant": {
+      "gene": "INS",
+      "tissue": "pancreas"
+    }
+  },
+  {
+    "id": "exact-mbp-brain",
+    "query": "MBP in cerebral cortex",
+    "relevant": {
+      "gene": "MBP",
+      "tissue": "cerebral cortex"
+    }
+  },
+  {
+    "id": "exact-ace-kidney",
+    "query": "ACE2 abundance in kidney",
+    "relevant": {
+      "gene": "ACE2",
+      "tissue": "kidney"
+    }
+  },
+  {
+    "id": "exact-actb-heart",
+    "query": "ACTB in heart muscle",
+    "relevant": {
+      "gene": "ACTB",
+      "tissue": "heart muscle"
+    }
+  },
+  {
+    "id": "exact-gfap-cerebellum",
+    "query": "GFAP expression in cerebellum",
+    "relevant": {
+      "gene": "GFAP",
+      "tissue": "cerebellum"
+    }
+  },
+  {
+    "id": "exact-cd3d-thymus",
+    "query": "CD3D RNA in thymus",
+    "relevant": {
+      "gene": "CD3D",
+      "tissue": "thymus"
+    }
+  },
+  {
+    "id": "exact-egfr-skin",
+    "query": "EGFR expression in skin",
+    "relevant": {
+      "gene": "EGFR",
+      "tissue": "skin"
+    }
+  },
+  {
+    "id": "paraphrase-heart",
+    "query": "ACTB transcript levels in cardiac tissue",
+    "relevant": {
+      "gene": "ACTB",
+      "tissue": "heart muscle"
+    }
+  },
+  {
+    "id": "paraphrase-fat",
+    "query": "APOE transcript levels in body fat",
+    "relevant": {
+      "gene": "APOE",
+      "tissue": "adipose tissue"
+    }
+  },
+  {
+    "id": "paraphrase-bladder",
+    "query": "ACE2 RNA in the organ that stores urine",
+    "relevant": {
+      "gene": "ACE2",
+      "tissue": "urinary bladder"
+    }
+  },
+  {
+    "id": "paraphrase-esophagus",
+    "query": "SLC2A1 RNA in the food pipe",
+    "relevant": {
+      "gene": "SLC2A1",
+      "tissue": "esophagus"
+    }
+  },
+  {
+    "id": "paraphrase-muscle",
+    "query": "GAPDH in voluntary striated muscle",
+    "relevant": {
+      "gene": "GAPDH",
+      "tissue": "skeletal muscle"
+    }
+  },
+  {
+    "id": "paraphrase-lung",
+    "query": "TP53 in the breathing organ",
+    "relevant": {
+      "gene": "TP53",
+      "tissue": "lung"
+    }
+  },
+  {
+    "id": "paraphrase-stomach",
+    "query": "GCG in the gastric organ",
+    "relevant": {
+      "gene": "GCG",
+      "tissue": "stomach"
+    }
+  },
+  {
+    "id": "paraphrase-salivary",
+    "query": "EGFR RNA in glands that produce saliva",
+    "relevant": {
+      "gene": "EGFR",
+      "tissue": "salivary gland"
+    }
+  },
+  {
+    "id": "source-gtex",
+    "query": "ALB in liver from GTEx",
+    "relevant": {
+      "gene": "ALB",
+      "tissue": "liver",
+      "source": "gtex"
+    }
+  },
+  {
+    "id": "source-hpa",
+    "query": "INS in pancreas from the independent HPA tissue collection",
+    "relevant": {
+      "gene": "INS",
+      "tissue": "pancreas",
+      "source": "hpa"
+    }
+  },
+  {
+    "id": "source-consensus",
+    "query": "MBP in cerebral cortex using consensus",
+    "relevant": {
+      "gene": "MBP",
+      "tissue": "cerebral cortex",
+      "source": "consensus"
+    }
+  },
+  {
+    "id": "source-other-donors",
+    "query": "ALB liver RNA from a different donor cohort",
+    "relevant": {
+      "gene": "ALB",
+      "tissue": "liver",
+      "source": "gtex"
+    }
+  },
+  {
+    "id": "source-maximum",
+    "query": "INS pancreas RNA using whichever collection has the larger value",
+    "relevant": {
+      "gene": "INS",
+      "tissue": "pancreas",
+      "source": "consensus"
+    }
+  },
+  {
+    "id": "source-atlas",
+    "query": "GFAP liver RNA from the Atlas collection itself",
+    "relevant": {
+      "gene": "GFAP",
+      "tissue": "liver",
+      "source": "hpa"
+    }
+  },
+  {
+    "id": "source-combined",
+    "query": "APOE liver RNA using the greater of the two studies",
+    "relevant": {
+      "gene": "APOE",
+      "tissue": "liver",
+      "source": "consensus"
+    }
+  },
+  {
+    "id": "source-independent",
+    "query": "ACE2 kidney expression from the separate GTEx donors",
+    "relevant": {
+      "gene": "ACE2",
+      "tissue": "kidney",
+      "source": "gtex"
+    }
+  }
+]

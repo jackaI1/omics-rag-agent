@@ -6,6 +6,8 @@ dependencies = [
     "langchain>=1.4.9",
     "langchain-ollama>=1.1.0",
     "scikit-learn>=1.9.1",
+    "pyyaml>=6.0",
+    "faiss-cpu>=1.15.1",
 ]
 
 [dependency-groups]
@@ -23,6 +25,12 @@ packages = ["src/omics_rag"]
 
 [project.scripts]
 omics-rag = "omics_rag.cli:main"
+
+[project.optional-dependencies]
+embeddings = [
+    "onnxruntime>=1.31.1",
+    "tokenizers>=0.23.3",
+]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

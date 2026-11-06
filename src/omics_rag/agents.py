@@ -72,8 +72,8 @@ def synthesize(store, rows, layout="by_tissue"):
 
 
 class QA:
-    def __init__(self, model=None):
-        self.store = Store()
+    def __init__(self, model=None, retrieval="tfidf"):
+        self.store = Store(retrieval=retrieval)
         self.model = model if model is not None else MockModel()
 
     def close(self):

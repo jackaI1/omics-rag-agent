@@ -1,0 +1,15 @@
+{
+  "name": "export-expression-report",
+  "version": 1,
+  "description": "A local, portable equivalent of an HTTP-triggered Power Automate report flow. Not a Microsoft import package.",
+  "trigger": {
+    "type": "http",
+    "method": "POST",
+    "path": "/report",
+    "required": ["request", "source"],
+    "source": "omics-rag-agent",
+    "max_bytes": 16384
+  },
+  "actions": ["select_expression_rows", "render_cited_markdown", "write_report"],
+  "response": {"status": 201, "fields": ["report_id", "report_url", "rows"]}
+}

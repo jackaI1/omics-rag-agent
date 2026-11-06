@@ -28,7 +28,9 @@ class TfidfEmbeddings(Embeddings):
 
 
 class Store:
-    def __init__(self):
+    def __init__(self, retrieval="tfidf"):
+        self.retrieval = retrieval
+        self.measurements = None
         data = files("omics_rag").joinpath("data")
         self.manifest = json.loads(data.joinpath("manifest.json").read_text())
         raw = data.joinpath("expression.tsv").read_bytes()
@@ -89,6 +91,14 @@ class Store:
                 "ids": [],
                 "missing": "Gene absent or not specified in this 20-gene extract.",
             }
+        if self.retrieval != "tfidf":
+            hits = self.search_measurements(query, genes, self.retrieval, k=6)
+            return {
+                "documents": hits,
+                "ids": [i for i, r in self.rows.items() if r["gene"] in genes],
+                "tissues": self.tissues,
+                "genes": genes,
+            }
         hits = self.vectors.similarity_search(
             query, k=6, filter=lambda d: d.metadata["gene"] in genes
         )
@@ -98,6 +108,15 @@ class Store:
             "tissues": self.tissues,
             "genes": genes,
         }
+
+    def search_measurements(self, query, genes=None, mode="hybrid", k=5):
+        from .retrieval import MeasurementIndex
+
+        if self.measurements is None:
+            self.measurements = MeasurementIndex(self)
+        if genes is None:
+            genes, _ = self.entities(query)
+        return self.measurements.search(query, genes, mode, k)
 
     def query(self, sql, allowed_ids):
         with self.query_lock:

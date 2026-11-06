@@ -22,6 +22,7 @@ jobs:
       - run: uv run ruff format --check src scripts tests
       - run: uv run pytest -q
       - run: uv run omics-rag --evaluate > evaluation-results.json
+      - run: uv run omics-rag --evaluate-retrieval > retrieval-results.json
       - run: uv build
       - name: Verify installed wheel contains data and runs outside checkout
         shell: bash
@@ -30,8 +31,13 @@ jobs:
           uv pip install --python /tmp/omics-wheel/bin/python dist/*.whl
           cd /tmp
           /tmp/omics-wheel/bin/omics-rag 'ALB in liver' --json > /tmp/wheel-answer.json
+          /tmp/omics-wheel/bin/omics-rag 'ACTB transcript levels in cardiac tissue' --search --retrieval embedding > /tmp/wheel-search.json
+          /tmp/omics-wheel/bin/omics-rag --topic-agent 'lookup ALB in liver' --json > /tmp/wheel-topic.json
+          /tmp/omics-wheel/bin/python -c "import json; from importlib.resources import files; assert json.load(open('/tmp/wheel-search.json'))[0]['tissue'] == 'heart muscle'; assert json.load(open('/tmp/wheel-topic.json'))['topic'] == 'expression'; assert files('omics_rag').joinpath('data/report-flow.json').is_file()"
           /tmp/omics-wheel/bin/python -c "import json; x=json.load(open('/tmp/wheel-answer.json')); assert len(x['rows']) == 3 and x['total_tokens'] == 0"
       - uses: actions/upload-artifact@v4
         with:
           name: evaluation-${{ matrix.python }}
-          path: evaluation-results.json
+          path: |
+            evaluation-results.json
+            retrieval-results.json

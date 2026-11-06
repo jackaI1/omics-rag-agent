@@ -1,0 +1,12 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "model_file": "onnx/model_qint8_arm64.onnx",
+  "model_file_sha256": "4278337fd0ff3c68bfb6291042cad8ab363e1d9fbc43dcb499fe91c871902474",
+  "tokenizer_sha256": "be50c3628f2bf5bb5e3a7f17b1f74611b2561a3a27eeab05e5aa30f411572037",
+  "dimension": 384,
+  "pooling": "attention-mask mean, L2 normalization, max_length=256",
+  "rows": 2564,
+  "extract_sha256": "f91d0f3d196dda4d1c58985aa0aff5e9e7dff7cc4e4f68516122cf40d1c9d24e",
+  "sha256": "7543f847fd0c246b3bbad2f95a9a69e3e638910d3ad32e3dbf04d7cd2a57e4f2"
+}

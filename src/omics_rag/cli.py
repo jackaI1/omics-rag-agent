@@ -18,9 +18,18 @@ def main():
     parser.add_argument("--force-agents", action="store_true")
     parser.add_argument("--json", action="store_true")
     parser.add_argument(
+        "--topic-agent", action="store_true", help="Route through configured topics"
+    )
+    parser.add_argument(
         "--usage-log", type=Path, help="Append question and per-stage usage JSON locally"
     )
     parser.add_argument("--catalog", action="store_true")
+    parser.add_argument(
+        "--search", action="store_true", help="Rank individual measurement descriptions"
+    )
+    parser.add_argument("--retrieval", choices=["tfidf", "embedding", "hybrid"], default="tfidf")
+    parser.add_argument("--k", type=int, default=5)
+    parser.add_argument("--evaluate-retrieval", action="store_true")
     parser.add_argument(
         "--evaluate",
         action="store_true",
@@ -41,7 +50,22 @@ def main():
             reasoning=False,
         )
     try:
-        with QA(model) as qa:
+        with QA(model, retrieval=args.retrieval) as qa:
+            if args.evaluate_retrieval:
+                from .retrieval_evaluation import evaluate
+
+                print(json.dumps(evaluate(qa.store, args.k), indent=2))
+                return
+            if args.search:
+                if not args.question:
+                    parser.error("--search needs a question")
+                print(
+                    json.dumps(
+                        qa.store.search_measurements(args.question, mode=args.retrieval, k=args.k),
+                        indent=2,
+                    )
+                )
+                return
             if args.catalog:
                 print(
                     json.dumps(
@@ -64,6 +88,15 @@ def main():
                 return
             if not args.question:
                 parser.error("provide a question, --catalog or --evaluate")
+            if args.topic_agent:
+                import logging
+
+                from .topic_agent import TopicAgent
+
+                logging.basicConfig(level=logging.INFO)
+                result = TopicAgent(qa).ask(args.question)
+                print(json.dumps(result, indent=2) if args.json else result["answer"])
+                return
             result = qa.ask(args.question, force_agents=args.force_agents)
             if args.usage_log:
                 with args.usage_log.open("a") as handle:

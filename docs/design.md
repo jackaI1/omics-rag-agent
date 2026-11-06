@@ -7,7 +7,7 @@ flowchart TD
     Q[Question] --> R{Exact gene in tissue?}
     R -->|yes| L[Local structured lookup]
     R -->|no| A[Retrieval agent]
-    A --> V[TF-IDF description vector index]
+    A --> V[TF-IDF or FAISS description index]
     A --> S[Structured gene row scope]
     V --> C[Code-generation agent]
     S --> C
@@ -20,7 +20,7 @@ flowchart TD
 
 ## Retrieval
 
-`store.py` verifies the extract checksum, loads an in-memory SQLite database, and indexes 60 short dataset descriptions: one per gene and source. I wrote the source descriptions from the published methods and add the actual tissue coverage. LangChain `InMemoryVectorStore` performs cosine search over local `TfidfEmbeddings`. This is a reproducible lexical vector index, not a claim of neural semantic retrieval. Gene matching uses whole symbols, case-insensitively. The tool returns up to six relevant descriptions plus the structured scope of row IDs for explicitly named supported genes. The model cannot expand that gene scope by inventing another gene.
+`store.py` verifies the extract checksum, loads an in-memory SQLite database, and indexes 60 short dataset descriptions: one per gene and source. I wrote the source descriptions from the published methods and add the actual tissue coverage. LangChain `InMemoryVectorStore` performs cosine search over local `TfidfEmbeddings`. This remains the default source-level lexical index. With `--retrieval embedding` or `hybrid`, the same tool ranks individual measurement descriptions using the additional FAISS path described in [retrieval.md](retrieval.md). The `--search` command compares all three methods on those measurement descriptions. Gene matching uses whole symbols, case-insensitively. The tool returns up to six relevant descriptions plus the structured scope of row IDs for explicitly named supported genes. The model cannot expand that gene scope by inventing another gene.
 
 The vector search explains the dataset and its limitations; the structured lookup is the authority for expression values. No network access is required at runtime with the mock.
 
