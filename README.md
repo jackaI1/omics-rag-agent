@@ -1,21 +1,18 @@
-# Omics RAG Agent
+I merged this into my existing [lab-assay-lims project](https://github.com/jackaI1/lab-assay-lims/tree/main/projects/omics-rag-agent). The current code is in `projects/omics-rag-agent/` there. I kept the code here so older links still work.
 
-I built a question-answering tool for public gene expression data because I wanted to compare where a gene is active without losing track of which table a number came from.
+The move keeps the original layout, including `tests/test_retrieval.py`, `tests/test_report_flow.py`, `tests/test_store.py`, `tests/test_topic_agent.py`. I replaced the README with the report below and left out Git history, installed dependencies, caches and generated build output from the hub copy.
 
-I ask about a gene and a tissue, and it shows the published RNA measurements with links to the original downloads. It can compare tissues, find the tissues with the highest measurements, and flag differences between two collections. Missing evidence stays missing instead of turning into a made-up answer.
+The 5 test source files moved with the code. No project-specific GitHub Actions workflow was retained; the report records the omitted checks, and the test sources can be run locally from the linked folder.
 
-Try it locally with [uv](https://docs.astral.sh/uv/getting-started/installation/), a Python package runner:
+Other specific omissions: src/omics_rag/data/embedding-cache.json (generated embedding cache).
 
-```sh
-git clone https://github.com/jackaI1/omics-rag-agent.git
-cd omics-rag-agent
-uv sync --locked
-uv run omics-rag 'ALB in liver'
-uv run omics-rag 'Compare ALB in liver and pancreas'
-uv run omics-rag 'Rank the top 3 tissues for INS'
-```
+Omitted workflows: `omics-rag-agent-ci.yml`: The relocated workflow failed in GitHub Actions and was removed to keep the hub checks independent. Local test sources remain available.
 
-These commands work offline after installation and need no account. They use a clearly labelled, rule-based mock model to make the examples repeatable. I can switch to a real local language model using the instructions below.
+---
+
+# omics-rag-agent
+
+I built a question-answering tool for public gene expression data to learn how the underlying idea works. This is a learning project.
 
 ## Finding measurements by meaning
 
@@ -111,20 +108,16 @@ Retrieval-augmented generation (RAG) means finding evidence before producing an 
 2. The code-generation agent writes a read-only SQL query to select measurements, compare tissues, or rank them. It can return row IDs only; the database supplies the actual numbers.
 3. The synthesis agent merges those rows into a cited answer. Its rendering tool preserves every selected row and calculates disagreement and missing-source warnings, so the model cannot replace numbers or silently drop inconvenient evidence.
 
-The default answer path retains the original TF-IDF source index. The measurement search adds a local FAISS index, a store for 384-number sentence vectors from a pinned, quantized all-MiniLM-L6-v2 model. Hybrid uses reciprocal rank fusion, which combines positions in the two result lists. No embedding API is used. The local model gives the agent path more flexible question interpretation; the mock handles the documented lookup, comparison, ranking, and abstention patterns. I do not treat a passed mock evaluation as a language-model accuracy score.
-
 I describe the boundaries, prompts, and failure behaviour in [the design notes](docs/design.md). [Data notes](docs/data.md) cover the sources, attribution, refresh command, and checksums. [A live model run](docs/live-run.md) records what I actually tested.
 
-## Tests and CI
+## Tests and limits
 
-```sh
-uv sync --locked --dev
-uv run pytest -q
-uv run omics-rag --evaluate
-uv run omics-rag --evaluate-retrieval
-uv run ruff check src scripts tests
-uv run ruff format --check src scripts tests
-uv build
-```
+There are 5 test source files in this copy. That source count does not establish an execution result. This is a source snapshot, and running it on a new machine may need environment-specific setup.
 
-The suite has 96 tests, including 30 frozen evaluation questions with expected sources and measurements. It also checks unsafe SQL, query budgets, zero versus missing expression, citation coverage, the three tool loops, token accounting, and the cheaper lookup path. New checks cover indexing, FAISS save/reload, offline retrieval, recall and reciprocal-rank calculations, topic routing, fallback, payload validation, and an actual HTTP report export and download. Test servers close their sockets and join their threads before each fixture ends. GitHub Actions runs tests, both evaluations, formatting, and a wheel installation smoke test on Python 3.11 and 3.12. The retrieval tests use frozen vectors and do not download models. Live model inference is a separate manual smoke test because it requires model weights and a running Ollama instance.
+
+
+The generated embedding cache was omitted. Run the embedding-cache script before using a workflow that requires precomputed vectors.
+
+The relocated workflow failed in GitHub Actions and was removed to keep the hub checks independent. Local test sources remain available.
+
+No project-specific GitHub Actions workflow was retained. The local test sources remain in this folder.
