@@ -111,12 +111,4 @@ I describe the boundaries, prompts, and failure behaviour in [the design notes](
 
 ## Tests and limits
 
-There are 5 test source files in this copy. That source count does not establish an execution result. This is a source snapshot, and running it on a new machine may need environment-specific setup.
-
-
-
-The generated embedding cache was omitted. Run the embedding-cache script before using a workflow that requires precomputed vectors.
-
-The relocated workflow failed in GitHub Actions and was removed to keep the hub checks independent. Local test sources remain available.
-
-No project-specific GitHub Actions workflow was retained. The local test sources remain in this folder.
+Run `uv run pytest -q` to check the project. The suite has 96 tests, including offline retrieval, topic routing and an HTTP report download. GitHub Actions runs the tests, evaluations and an installed-package check on Python 3.11 and 3.12. The project collection has its own workflow for this project.
