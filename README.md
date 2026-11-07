@@ -2,7 +2,7 @@ I merged this into my existing [lab-assay-lims project](https://github.com/jacka
 
 The move keeps the original layout, including `tests/test_retrieval.py`, `tests/test_report_flow.py`, `tests/test_store.py`, `tests/test_topic_agent.py`. I replaced the README with the report below and left out Git history, installed dependencies, caches and generated build output from the hub copy.
 
-The 5 test source files moved with the code. No project-specific GitHub Actions workflow was retained; the report records the omitted checks, and the test sources can be run locally from the linked folder.
+The 5 files of test code and supporting test helpers moved with the code. No project-specific GitHub Actions workflow was retained; the report records the omitted checks, and the test sources can be run locally from the linked folder.
 
 Other specific omissions: src/omics_rag/data/embedding-cache.json (generated embedding cache).
 
