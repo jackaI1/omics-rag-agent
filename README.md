@@ -1,18 +1,17 @@
-I merged this into my existing [lab-assay-lims project](https://github.com/jackaI1/lab-assay-lims/tree/main/projects/omics-rag-agent). The current code is in `projects/omics-rag-agent/` there. I kept the code here so older links still work.
-
-The move keeps the original layout, including `tests/test_retrieval.py`, `tests/test_report_flow.py`, `tests/test_store.py`, `tests/test_topic_agent.py`. I replaced the README with the report below and left out Git history, installed dependencies, caches and generated build output from the hub copy.
-
-The 5 files of test code and supporting test helpers moved with the code. No project-specific GitHub Actions workflow was retained; the report records the omitted checks, and the test sources can be run locally from the linked folder.
-
-Other specific omissions: src/omics_rag/data/embedding-cache.json (generated embedding cache).
-
-Omitted workflows: `omics-rag-agent-ci.yml`: The relocated workflow failed in GitHub Actions and was removed to keep the hub checks independent. Local test sources remain available.
-
----
-
 # omics-rag-agent
 
-I built a question-answering tool for public gene expression data to learn how the underlying idea works. This is a learning project.
+I built a question-answering tool for public gene expression data because I wanted to learn how to find and compare measurements without manually searching through tables. It is a personal learning project: I can ask about a gene and tissue, see the measurements and follow their links back to the sources.
+
+To try it, install [uv](https://docs.astral.sh/uv/getting-started/installation/) and run:
+
+```sh
+git clone https://github.com/jackaI1/omics-rag-agent.git
+cd omics-rag-agent
+uv sync --locked --dev
+uv run omics-rag 'ACTB transcript levels in cardiac tissue' --search --retrieval embedding
+```
+
+The same project is also in my [lab-assay-lims collection](https://github.com/jackaI1/lab-assay-lims/tree/main/projects/omics-rag-agent). To use that copy, clone `lab-assay-lims` and enter `projects/omics-rag-agent` before running the same `uv sync` and `uv run` commands. Both copies include the cached data needed for the examples, and each has its own CI checks.
 
 ## Finding measurements by meaning
 
